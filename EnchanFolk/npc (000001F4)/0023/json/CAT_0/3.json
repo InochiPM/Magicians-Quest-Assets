@@ -1,0 +1,42 @@
+{
+	"Args": "0004140038185028",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Cocoa"
+		},
+		{
+			"Offset": 32,
+			"Text": "あたい"
+		},
+		{
+			"Offset": 44,
+			"Text": "Wait wait!"
+		},
+		{
+			"Offset": 80,
+			"Text": "でしょ"
+		},
+		{
+			"Offset": 92,
+			"Text": "でしょ"
+		},
+		{
+			"Offset": 104,
+			"Text": "んでしょ"
+		},
+		{
+			"Offset": 116,
+			"Text": "の"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ"
+		},
+		{
+			"Offset": 140,
+			"Text": "よね"
+		}
+	],
+	"Arg2": "660e010974a5ffef020d222a354863e240010224e2260520"
+}

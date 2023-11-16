@@ -1,0 +1,42 @@
+{
+	"Args": "000b130038185820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Nigel"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "If you ask me..."
+		},
+		{
+			"Offset": 80,
+			"Text": "だ"
+		},
+		{
+			"Offset": 92,
+			"Text": "だね"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかい"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれるか"
+		},
+		{
+			"Offset": 140,
+			"Text": "な"
+		}
+	],
+	"Arg2": "cc0c0001659cffef010b1f2d324d630200010715ec260020"
+}

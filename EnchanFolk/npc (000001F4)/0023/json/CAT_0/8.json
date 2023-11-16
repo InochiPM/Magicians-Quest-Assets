@@ -1,0 +1,42 @@
+{
+	"Args": "0002070060203850",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Suzy"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "Meow~"
+		},
+		{
+			"Offset": 80,
+			"Text": "なの"
+		},
+		{
+			"Offset": 92,
+			"Text": "よね"
+		},
+		{
+			"Offset": 104,
+			"Text": "の"
+		},
+		{
+			"Offset": 116,
+			"Text": "かしら"
+		},
+		{
+			"Offset": 128,
+			"Text": "よね"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ～"
+		}
+	],
+	"Arg2": "330f01086c97ffef010e212b344b63020001051fd8260f20"
+}

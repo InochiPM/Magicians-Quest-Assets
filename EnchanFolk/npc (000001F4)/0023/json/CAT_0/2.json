@@ -1,0 +1,42 @@
+{
+	"Args": "00010e0050204010",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Rudolph"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Hey, you hear me?"
+		},
+		{
+			"Offset": 80,
+			"Text": "だな"
+		},
+		{
+			"Offset": 92,
+			"Text": "だよな"
+		},
+		{
+			"Offset": 104,
+			"Text": "ぜ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のか"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ぜ"
+		}
+	],
+	"Arg2": "660e00006ba1ffef010b1f2d334c63e000000618ec260a20"
+}

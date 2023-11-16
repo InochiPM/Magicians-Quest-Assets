@@ -1,0 +1,42 @@
+{
+	"Args": "0001150038185820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Napoleon"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレさま"
+		},
+		{
+			"Offset": 44,
+			"Text": "I think?"
+		},
+		{
+			"Offset": 80,
+			"Text": "であるぞ"
+		},
+		{
+			"Offset": 92,
+			"Text": "であるか"
+		},
+		{
+			"Offset": 104,
+			"Text": "のである"
+		},
+		{
+			"Offset": 116,
+			"Text": "のか"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれ"
+		},
+		{
+			"Offset": 140,
+			"Text": "か"
+		}
+	],
+	"Arg2": "eb0900016ea3ffef020e212d3651634228010b16ec260020"
+}

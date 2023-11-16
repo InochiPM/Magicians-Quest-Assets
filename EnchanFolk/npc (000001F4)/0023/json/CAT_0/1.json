@@ -1,0 +1,42 @@
+{
+	"Args": "0001040038503020",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Richard"
+		},
+		{
+			"Offset": 32,
+			"Text": "I"
+		},
+		{
+			"Offset": 44,
+			"Text": "To be frank."
+		},
+		{
+			"Offset": 80,
+			"Text": "ですね"
+		},
+		{
+			"Offset": 92,
+			"Text": "かね"
+		},
+		{
+			"Offset": 104,
+			"Text": "のですよ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のですか"
+		},
+		{
+			"Offset": 128,
+			"Text": "みなさい"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ"
+		}
+	],
+	"Arg2": "660e00046c9bffef030e212d364c63e000000616ec261920"
+}

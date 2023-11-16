@@ -1,0 +1,42 @@
+{
+	"Args": "0000060040503038",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Phoebe"
+		},
+		{
+			"Offset": 32,
+			"Text": "アタイ"
+		},
+		{
+			"Offset": 44,
+			"Text": "You know what?"
+		},
+		{
+			"Offset": 80,
+			"Text": "なの"
+		},
+		{
+			"Offset": 92,
+			"Text": "よね"
+		},
+		{
+			"Offset": 104,
+			"Text": "のね"
+		},
+		{
+			"Offset": 116,
+			"Text": "のね"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ねっ"
+		}
+	],
+	"Arg2": "330b0107769fffef020f222c344963e040000320ce260020"
+}

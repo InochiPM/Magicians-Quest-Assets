@@ -1,0 +1,42 @@
+{
+	"Args": "0006170048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Derrick"
+		},
+		{
+			"Offset": 32,
+			"Text": "ぼかぁ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Thats how it is."
+		},
+		{
+			"Offset": 80,
+			"Text": "だのう"
+		},
+		{
+			"Offset": 92,
+			"Text": "かのう"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだのう"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかのう"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれんか"
+		},
+		{
+			"Offset": 140,
+			"Text": "かのう"
+		}
+	],
+	"Arg2": "660e000566acffef040d202d335363e040000d1900261e20"
+}

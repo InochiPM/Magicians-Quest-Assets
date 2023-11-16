@@ -1,0 +1,42 @@
+{
+	"Args": "000a0b0050204010",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Anson"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "Not to brag but!"
+		},
+		{
+			"Offset": 80,
+			"Text": "デス"
+		},
+		{
+			"Offset": 92,
+			"Text": "デスカ"
+		},
+		{
+			"Offset": 104,
+			"Text": "のデス"
+		},
+		{
+			"Offset": 116,
+			"Text": "のデスカ"
+		},
+		{
+			"Offset": 128,
+			"Text": "クダサイ"
+		},
+		{
+			"Offset": 140,
+			"Text": "カ"
+		}
+	],
+	"Arg2": "330f000069aaffef010e212d3252630020000c18ec260a20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "000a0d0038483058",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "イナバ"
+		},
+		{
+			"Offset": 32,
+			"Text": "ボク"
+		},
+		{
+			"Offset": 44,
+			"Text": "わかんないかなー？"
+		},
+		{
+			"Offset": 80,
+			"Text": "さ"
+		},
+		{
+			"Offset": 92,
+			"Text": "かい"
+		},
+		{
+			"Offset": 104,
+			"Text": "のさ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかい"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ"
+		}
+	],
+	"Arg2": "990d00026cabffef050c222d3552630040000c1cd8260f20"
+}

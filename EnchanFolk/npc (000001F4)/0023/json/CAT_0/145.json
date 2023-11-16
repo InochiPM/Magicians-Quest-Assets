@@ -1,0 +1,42 @@
+{
+	"Args": "0007090040204010",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Rocky"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "I love you!"
+		},
+		{
+			"Offset": 80,
+			"Text": "ダゼー"
+		},
+		{
+			"Offset": 92,
+			"Text": "カイ"
+		},
+		{
+			"Offset": 104,
+			"Text": "ンダゼー"
+		},
+		{
+			"Offset": 116,
+			"Text": "ンカイ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれダゼ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ゼー"
+		}
+	],
+	"Arg2": "cc0c00039da1ffef050e202a3251630020000b1de2260a20"
+}

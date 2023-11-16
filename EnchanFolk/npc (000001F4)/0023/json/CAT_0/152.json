@@ -1,0 +1,42 @@
+{
+	"Args": "00020c0048284038",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Cereza"
+		},
+		{
+			"Offset": 32,
+			"Text": "あたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "They said that."
+		},
+		{
+			"Offset": 80,
+			"Text": "だよね"
+		},
+		{
+			"Offset": 92,
+			"Text": "かな"
+		},
+		{
+			"Offset": 104,
+			"Text": "のだよね"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかな"
+		},
+		{
+			"Offset": 128,
+			"Text": "よね"
+		},
+		{
+			"Offset": 140,
+			"Text": "よね"
+		}
+	],
+	"Arg2": "660a01087f8bffef020a1e28354f630040000a20ce260a20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "00050c0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Marsha"
+		},
+		{
+			"Offset": 32,
+			"Text": "あたくし"
+		},
+		{
+			"Offset": 44,
+			"Text": "How 'bout that~"
+		},
+		{
+			"Offset": 80,
+			"Text": "だッチャ"
+		},
+		{
+			"Offset": 92,
+			"Text": "ッチャ"
+		},
+		{
+			"Offset": 104,
+			"Text": "ッチャ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のッチャ"
+		},
+		{
+			"Offset": 128,
+			"Text": "ッチャ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ッチャ"
+		}
+	],
+	"Arg2": "330b010a689affef030e212b3349630340060323d8261920"
+}

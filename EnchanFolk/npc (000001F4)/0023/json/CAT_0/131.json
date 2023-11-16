@@ -1,0 +1,42 @@
+{
+	"Args": "00061a0038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Lumina"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "Lighten up a bit!"
+		},
+		{
+			"Offset": 80,
+			"Text": "なのね…"
+		},
+		{
+			"Offset": 92,
+			"Text": "かしら…"
+		},
+		{
+			"Offset": 104,
+			"Text": "つもり…"
+		},
+		{
+			"Offset": 116,
+			"Text": "でしょ…"
+		},
+		{
+			"Offset": 128,
+			"Text": "ほしい…"
+		},
+		{
+			"Offset": 140,
+			"Text": "…"
+		}
+	],
+	"Arg2": "dd0e010b6b9dffef040d202a354b63e000000522e2260a20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "000a050060203850",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Zoe"
+		},
+		{
+			"Offset": 32,
+			"Text": "アタクシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "How do you do?"
+		},
+		{
+			"Offset": 80,
+			"Text": "ざます"
+		},
+		{
+			"Offset": 92,
+			"Text": "ざましょ"
+		},
+		{
+			"Offset": 104,
+			"Text": "んざます"
+		},
+		{
+			"Offset": 116,
+			"Text": "ざますか"
+		},
+		{
+			"Offset": 128,
+			"Text": "ざます"
+		},
+		{
+			"Offset": 140,
+			"Text": "ざましょ"
+		}
+	],
+	"Arg2": "660e010869a7ffef010e212b324863e24001021fd8260f20"
+}

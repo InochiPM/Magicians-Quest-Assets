@@ -1,0 +1,42 @@
+{
+	"Args": "00081c0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Sanderson"
+		},
+		{
+			"Offset": 32,
+			"Text": "ぼく"
+		},
+		{
+			"Offset": 44,
+			"Text": "*ribbit ribbit*"
+		},
+		{
+			"Offset": 80,
+			"Text": "だケロ"
+		},
+		{
+			"Offset": 92,
+			"Text": "ケロロ"
+		},
+		{
+			"Offset": 104,
+			"Text": "のケロ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のケロロ"
+		},
+		{
+			"Offset": 128,
+			"Text": "ケロ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ケロ"
+		}
+	],
+	"Arg2": "000c00056aa9ffef040a1e2d325063a008000a18ec261e20"
+}

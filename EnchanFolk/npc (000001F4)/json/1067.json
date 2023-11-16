@@ -1,0 +1,42 @@
+{
+	"Args": "000b190038483058",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "トラボルた"
+		},
+		{
+			"Offset": 32,
+			"Text": "ミー"
+		},
+		{
+			"Offset": 44,
+			"Text": "ベイビィ？"
+		},
+		{
+			"Offset": 80,
+			"Text": "サ"
+		},
+		{
+			"Offset": 92,
+			"Text": "かい"
+		},
+		{
+			"Offset": 104,
+			"Text": "のサ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかい"
+		},
+		{
+			"Offset": 128,
+			"Text": "おくれよ"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ"
+		}
+	],
+	"Arg2": "d20d0002749dffef010b1f2d355263002c000c18ec260f20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "0003010038185028",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Freya"
+		},
+		{
+			"Offset": 32,
+			"Text": "あたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "*ribbit*"
+		},
+		{
+			"Offset": 80,
+			"Text": "だプイ"
+		},
+		{
+			"Offset": 92,
+			"Text": "プイ"
+		},
+		{
+			"Offset": 104,
+			"Text": "っプイ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のっプ"
+		},
+		{
+			"Offset": 128,
+			"Text": "っプイ"
+		},
+		{
+			"Offset": 140,
+			"Text": "っプー"
+		}
+	],
+	"Arg2": "000c010972a9ffef020b1f29354863a020000225d8260520"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "000b090038185820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Thor"
+		},
+		{
+			"Offset": 32,
+			"Text": "ワシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Uh-huh."
+		},
+		{
+			"Offset": 80,
+			"Text": "だ…"
+		},
+		{
+			"Offset": 92,
+			"Text": "だな…"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだ…"
+		},
+		{
+			"Offset": 116,
+			"Text": "のか…"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれ…"
+		},
+		{
+			"Offset": 140,
+			"Text": "…"
+		}
+	],
+	"Arg2": "660e00016e9fffef020b1f2d3253636040000d15ec260020"
+}

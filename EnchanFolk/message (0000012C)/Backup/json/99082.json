@@ -1,0 +1,149 @@
+[
+	{
+		"Index": 0,
+		"JPN": [
+			"はつうりフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>おめでたいものを<BREAK>もとめて<BREAK>おきゃくさんが<BREAK>おしよせるよ！",
+			"\f"
+		]
+	},
+	{
+		"Index": 1,
+		"JPN": [
+			"バレンタインフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>チョコやプレゼント<BREAK>のうれゆきが<BREAK>うなぎのぼり！",
+			"\f"
+		]
+	},
+	{
+		"Index": 2,
+		"JPN": [
+			"ホワイトデーフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>こころのこもった<BREAK>プレゼントをもとめて<BREAK>おきゃくさんが<BREAK>おしよせるよ！",
+			"\f"
+		]
+	},
+	{
+		"Index": 3,
+		"JPN": [
+			"スプリングフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>かわいいもの<BREAK>をもとめて<BREAK>おきゃくさんが<BREAK>おしよせるよ！",
+			"\f"
+		]
+	},
+	{
+		"Index": 4,
+		"JPN": [
+			"ははのひフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>おかあさんへの<BREAK>プレゼントをもとめ<BREAK>おきゃくがくるよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 5,
+		"JPN": [
+			"ちちのひフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>おとうさんへの<BREAK>プレゼントをもとめ<BREAK>おきゃくがくるよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 6,
+		"JPN": [
+			"サマーフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>なつらしさをもとめて<BREAK>おきゃくさんが<BREAK>おしよせるよ！",
+			"\f"
+		]
+	},
+	{
+		"Index": 7,
+		"JPN": [
+			"おまつりフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>にぎやかなものを<BREAK>もとめて<BREAK>おきゃくがくるよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 8,
+		"JPN": [
+			"オータムフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>あきのみかくを<BREAK>もとめて<BREAK>おきゃくがくるよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 9,
+		"JPN": [
+			"ハロウィンフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>ハロウィンかんれん<BREAK>のしょうひんが<BREAK>うれやすくなるよ！",
+			"\f"
+		]
+	},
+	{
+		"Index": 10,
+		"JPN": [
+			"げいじゅつさい<BREAK>をおしらせする<BREAK>かんばん<BREAK>おしゃれをするため<BREAK>おきゃくさんが<BREAK>おしよせるよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 11,
+		"JPN": [
+			"クリスマスフェア<BREAK>をおしらせする<BREAK>かんばん<BREAK>ケーキやプレゼント<BREAK>をもとめて<BREAK>おきゃくさんが<BREAK>おしよせるよ！",
+			"\f"
+		]
+	},
+	{
+		"Index": 12,
+		"JPN": [
+			"…",
+			"\f"
+		]
+	},
+	{
+		"Index": 13,
+		"JPN": [
+			"とっかひんセール<BREAK>をおしらせする<BREAK>かんばん<BREAK>とっかひん<BREAK>をもとめて<BREAK>おきゃくさんが<BREAK>おしよせるよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 14,
+		"JPN": [
+			"とくばいびセール<BREAK>をおしらせする<BREAK>かんばん<BREAK>とくばいひん<BREAK>をもとめて<BREAK>おきゃくさんが<BREAK>おしよせるよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 15,
+		"JPN": [
+			"ウェルカムセール<BREAK>をおしらせする<BREAK>かんばん<BREAK>おとくいさまいがい<BREAK>のおきゃくさんが<BREAK>おしよせるよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 16,
+		"JPN": [
+			"ひとつぼしマイスター<BREAK>のかんばん<BREAK>おうさまから<BREAK>みとめられたあかし",
+			"\f"
+		]
+	},
+	{
+		"Index": 17,
+		"JPN": [
+			"ふたつぼしマイスター<BREAK>のかんばん<BREAK>おうさまから<BREAK>みとめられたあかし",
+			"\f"
+		]
+	},
+	{
+		"Index": 18,
+		"JPN": [
+			"みつぼしマイスター<BREAK>のかんばん<BREAK>おうさまから<BREAK>みとめられたあかし",
+			"\f"
+		]
+	},
+	{
+		"Index": 19,
+		"JPN": [
+			"よつぼしマイスター<BREAK>のかんばん<BREAK>おうさまから<BREAK>みとめられたあかし",
+			"\f"
+		]
+	},
+	{
+		"Index": 20,
+		"JPN": [
+			"ロイヤルマイスター<BREAK>のかんばん<BREAK>さいこうのめいよを<BREAK>あらわす<BREAK>いだいなるかんばん",
+			"\f"
+		]
+	}
+]

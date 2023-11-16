@@ -1,0 +1,42 @@
+{
+	"Args": "0006010038503020",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Bernard"
+		},
+		{
+			"Offset": 32,
+			"Text": "ボク"
+		},
+		{
+			"Offset": 44,
+			"Text": "Ya'know?"
+		},
+		{
+			"Offset": 80,
+			"Text": "でしゅ"
+		},
+		{
+			"Offset": 92,
+			"Text": "でしゅか"
+		},
+		{
+			"Offset": 104,
+			"Text": "んでしゅ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のでしゅ"
+		},
+		{
+			"Offset": 128,
+			"Text": "ください"
+		},
+		{
+			"Offset": 140,
+			"Text": "ね"
+		}
+	],
+	"Arg2": "990900046da3ffef030a1e2d364963e024000317e2260320"
+}

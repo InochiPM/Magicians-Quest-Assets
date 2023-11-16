@@ -1,0 +1,42 @@
+{
+	"Args": "00040b0038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Cherie"
+		},
+		{
+			"Offset": 32,
+			"Text": "あたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "*sigh* *groan*"
+		},
+		{
+			"Offset": 80,
+			"Text": "……ふう"
+		},
+		{
+			"Offset": 92,
+			"Text": "……"
+		},
+		{
+			"Offset": 104,
+			"Text": "……ハァ"
+		},
+		{
+			"Offset": 116,
+			"Text": "…"
+		},
+		{
+			"Offset": 128,
+			"Text": "…っ"
+		},
+		{
+			"Offset": 140,
+			"Text": "……"
+		}
+	],
+	"Arg2": "d20d010b7096ffef040d202a3454630020000e22e2261e20"
+}

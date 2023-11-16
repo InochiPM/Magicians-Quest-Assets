@@ -1,0 +1,42 @@
+{
+	"Args": "000b1b0038185820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Apollo"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Boom!~"
+		},
+		{
+			"Offset": 80,
+			"Text": "だぞッ"
+		},
+		{
+			"Offset": 92,
+			"Text": "だよな"
+		},
+		{
+			"Offset": 104,
+			"Text": "ぞッ"
+		},
+		{
+			"Offset": 116,
+			"Text": "よなッ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれよ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ぜッ"
+		}
+	],
+	"Arg2": "cc0c00017c9affef030b212d354e630040000815ec260a20"
+}

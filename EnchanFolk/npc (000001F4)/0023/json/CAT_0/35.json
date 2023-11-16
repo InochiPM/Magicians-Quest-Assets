@@ -1,0 +1,42 @@
+{
+	"Args": "0005090040503038",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Sparkles"
+		},
+		{
+			"Offset": 32,
+			"Text": "あたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "Don't say a word."
+		},
+		{
+			"Offset": 80,
+			"Text": "なのなの"
+		},
+		{
+			"Offset": 92,
+			"Text": "ってコト"
+		},
+		{
+			"Offset": 104,
+			"Text": "の"
+		},
+		{
+			"Offset": 116,
+			"Text": "ってコト"
+		},
+		{
+			"Offset": 128,
+			"Text": "ってば"
+		},
+		{
+			"Offset": 140,
+			"Text": "ってば"
+		}
+	],
+	"Arg2": "cc0c010775a1ffef050f222c344763e020000120ce1a0020"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "00090b0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Abasi"
+		},
+		{
+			"Offset": 32,
+			"Text": "おいら"
+		},
+		{
+			"Offset": 44,
+			"Text": "Ugh!"
+		},
+		{
+			"Offset": 80,
+			"Text": "だあー"
+		},
+		{
+			"Offset": 92,
+			"Text": "かー"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだー"
+		},
+		{
+			"Offset": 116,
+			"Text": "んかー"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれよ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ぜ"
+		}
+	],
+	"Arg2": "0010000576a0ffef040d202d3253632178060d1900261e20"
+}

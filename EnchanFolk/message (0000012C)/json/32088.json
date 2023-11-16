@@ -1,0 +1,749 @@
+[
+	{
+		"Index": 0,
+		"JPN": [
+			"<CMD>09802700018027004180</CMD>",
+			"Hmmm? You there!",
+			"Can you hear my voice?",
+			"\f"
+		]
+	},
+	{
+		"Index": 1,
+		"JPN": [
+			"<CMD>09802700018027004180</CMD>",
+			"Hmm? you're a....Magician?",
+			"Well, I'll tell you my story.",
+			"<CMD>1380270062a2</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 2,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Listen<CMD>13802700ffff</CMD>",
+			"Ignore<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 3,
+		"JPN": [
+			"<CMD>09802700018027004180</CMD>",
+			"Wait a minute!\nIt's not that long.",
+			"<CMD>1380270064a2</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 4,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Listen<CMD>13802700ffff</CMD>",
+			"Ignore<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 5,
+		"JPN": [
+			"<CMD>09802700018027002380</CMD>",
+			"Please!\nHear me, please!",
+			"<CMD>1380270066a2</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 6,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Listen<CMD>13802700ffff</CMD>",
+			"Ignore<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 7,
+		"JPN": [
+			"<CMD>09802700018027004180</CMD>",
+			"Heheheh...\nA reasonable person you are!",
+			"\f"
+		]
+	},
+	{
+		"Index": 8,
+		"JPN": [
+			"<CMD>09802700018027004180</CMD>",
+			"I was once the great <CMD>008027000380</CMD>Shade<CMD>008027000180</CMD>\nwho ruled over this world.",
+			"Isn't that scary?!",
+			"\f"
+		]
+	},
+	{
+		"Index": 9,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"But one day...\nA magician just like you.",
+			"Came to liberate this\nworld from Our control.",
+			"\f"
+		]
+	},
+	{
+		"Index": 10,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"After a long battle,\nI was ensnared by him...",
+			"\f"
+		]
+	},
+	{
+		"Index": 11,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Since then,\nI've been sleeping here.",
+			"As I lost my body\nI spent mydays in the cold,\nthen I thought...",
+			"Why?...\nWhy did i lose to him?",
+			"\f"
+		]
+	},
+	{
+		"Index": 12,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"That magician fought for\nthe freedom and the smiles",
+			"of this world and for all\nof the people who live in it.",
+			"\f"
+		]
+	},
+	{
+		"Index": 13,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"I thought that his\ncourage to fight was",
+			"what gave him the strength\nto fight, but i was wrong.",
+			"\f"
+		]
+	},
+	{
+		"Index": 14,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"I'm trying to make up for\nall the years I've lost.",
+			"I never thought I'd rule\nthis world again...",
+			"I'd like to change my mind\nand do something good\nfor people.",
+			"\f"
+		]
+	},
+	{
+		"Index": 15,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"But as it stands...\nI can't do anything about it...",
+			"\f"
+		]
+	},
+	{
+		"Index": 16,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"There is one thing\nI need you to do for me.",
+			"I need you to gather up all of the <BREAK><CMD>fb8127000485</CMD> in this world.",
+			"\f"
+		]
+	},
+	{
+		"Index": 17,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"If you can gather 10 <BREAK><CMD>fb8127000485</CMD>...",
+			"I will regain my strength,\nand I will have a body again!",
+			"\f"
+		]
+	},
+	{
+		"Index": 18,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"And of course for you\nhelp with my resurrection",
+			"I will grant you one wish!",
+			"\f"
+		]
+	},
+	{
+		"Index": 19,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Hows that? collect the <CMD>fb8127000485</CMD> for me for one wish?",
+			"<CMD>1380270074a2</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 20,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Okay<CMD>13802700ffff</CMD>",
+			"No Chance!<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 21,
+		"JPN": [
+			"<CMD>09802700088027002380</CMD>",
+			"W-wait!",
+			"It's what your supposed to do\n...to help people right?!",
+			"\f"
+		]
+	},
+	{
+		"Index": 22,
+		"JPN": [
+			"<CMD>09802700088027002380</CMD>",
+			"Don't say that...\nPlease help a poor soul out!",
+			"<CMD>1380270077a2</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 23,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Okay<CMD>13802700ffff</CMD>",
+			"Still nope!<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 24,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Hmm... so be it.",
+			"If you reconsider,\ncome back here.\nI'll be waiting for you...",
+			"\f"
+		]
+	},
+	{
+		"Index": 25,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Fuhuhu~ I see... you are a very good\nand honest magician...",
+			"Now go!\nAnd collect those <CMD>fb8127000485</CMD>!",
+			"Please and Thank you....",
+			"\f"
+		]
+	},
+	{
+		"Index": 26,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Thank you for coming, magician...",
+			"Would you be willing\nto collect <CMD>fb8127000485</CMD>?",
+			"\f"
+		]
+	},
+	{
+		"Index": 27,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"For you of course,\nfor helping to revive Me.",
+			"I'll grant you one wish.",
+			"<CMD>138027007ca2</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 28,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Okay<CMD>13802700ffff</CMD>",
+			"Nuh-uh<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 29,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Ooh! Did you bring me any\n<CMD>fb8127000485</CMD>?",
+			"\f"
+		]
+	},
+	{
+		"Index": 30,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"What? You didn't bring any??",
+			"\f"
+		]
+	},
+	{
+		"Index": 31,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"...okay",
+			"If you find any <CMD>fb8127000485</CMD>\n Bring them to me.",
+			"I'll be here waiting for you...",
+			"\f"
+		]
+	},
+	{
+		"Index": 32,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Hmmm? Could it be?",
+			"\f"
+		]
+	},
+	{
+		"Index": 33,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"<CMD>048027005a80</CMD>These aren't <CMD>fb8127000485</CMD>!",
+			"\f"
+		]
+	},
+	{
+		"Index": 34,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"You ready? I want you to listen\nto me one more time, magician.",
+			"Bring me <CMD>fb8127000485</CMD>....\nGot it?",
+			"\f"
+		]
+	},
+	{
+		"Index": 35,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Oooh...These are exactly what I needed!\n<CMD>fb8127000485</CMD>!",
+			"\f"
+		]
+	},
+	{
+		"Index": 36,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"I require 10 <CMD>fb8127000485</CMD><BREAK>To be resurrected...",
+			"Keep it up Magician... Gather the rest of those <CMD>fb8127000485</CMD>!",
+			"\f"
+		]
+	},
+	{
+		"Index": 37,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"These truly are <CMD>fb8127000485</CMD>!!",
+			"\f"
+		]
+	},
+	{
+		"Index": 38,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"I need <CMD>4e822700008027000281</CMD> More <CMD>fb8127000485</CMD>.",
+			"We're almost back...",
+			"\f"
+		]
+	},
+	{
+		"Index": 39,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"<CMD>048027007880</CMD>Fuhuhuhu...Ha..Ha ha-ha-ha!!!",
+			"\f"
+		]
+	},
+	{
+		"Index": 40,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"At last! All 10 <CMD>fb8127000485</CMD> are here!",
+			"At long last,\nI can regain my strength!",
+			"\f"
+		]
+	},
+	{
+		"Index": 41,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"I've got enough magic\nto revive myself.",
+			"Thank you, magician...",
+			"\f"
+		]
+	},
+	{
+		"Index": 42,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"I must thank you before\nI am fully restored...",
+			"\f"
+		]
+	},
+	{
+		"Index": 43,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Now then...Let all of the\nweeds in the <CMD>008027000580</CMD>Town<CMD>008027000180</CMD> be gone.",
+			"I'm going to get rid of the\nmushrooms that grow in your room!",
+			"Don't worry about it, it's\nnothing out of the ordinary.",
+			"\f"
+		]
+	},
+	{
+		"Index": 44,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Let's Go!",
+			"\f"
+		]
+	},
+	{
+		"Index": 45,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Hmmm? It doesn't seem\nto be working...",
+			"Don't worry, This is\njust a minor setback.!",
+			"\f"
+		]
+	},
+	{
+		"Index": 46,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Let's try again!",
+			"\f"
+		]
+	},
+	{
+		"Index": 47,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"ha...ha....ha\nHow about that...? It's been a while.",
+			"Now we won't have to deal with\nweeds and mushrooms for a while!",
+			"\f"
+		]
+	},
+	{
+		"Index": 48,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Fuhuhu!\nNow let's get this over with!",
+			"\f"
+		]
+	},
+	{
+		"Index": 49,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"<CMD>048027007880</CMD>Ha-hahahaha!",
+			"I have risen!\nI have returned to this\nworld to bring peace and harmony!",
+			"\f"
+		]
+	},
+	{
+		"Index": 50,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Fuhuhuhu hahah!\nI'm sorry...\nI tricked you, magician.",
+			"Did you really think that\nI <CMD>008027000380</CMD>Shade<CMD>008027000180</CMD> would change my\nmind so easily?",
+			"Hahahahaha! Now I've got the\nwhole world in my hands... hmm?",
+			"\f"
+		]
+	},
+	{
+		"Index": 51,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"What the...?\nI can't find my body!",
+			"What...is happening?\nEven my power is vanishing....",
+			"\f"
+		]
+	},
+	{
+		"Index": 52,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"No way!\nThat's all the magic he had.",
+			"Could it be.... His power??",
+			"...what has he done.....",
+			"\f"
+		]
+	},
+	{
+		"Index": 53,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"...you there magician!\nI will be back!",
+			"I hope...\nyou enjoy your moment of piece.....",
+			"\f"
+		]
+	},
+	{
+		"Index": 54,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Zzzzzz.....",
+			"\f"
+		]
+	},
+	{
+		"Index": 55,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Zzzzzz...",
+			"\f"
+		]
+	},
+	{
+		"Index": 56,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"What are you doing here?....\nI'm not to sure of our standing.",
+			"Well, I'll tell you my story.",
+			"<CMD>1380270099a2</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 57,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Listen<CMD>13802700ffff</CMD>",
+			"Nope<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 59,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Wait wait!!\nIts not that long I promise!",
+			"<CMD>1380270064a2</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 60,
+		"JPN": [
+			"<CMD>09802700088027002380</CMD>",
+			"Please! Listen to my tale!",
+			"<CMD>1380270066a2</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 61,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"Hmmm? You there!",
+			"Can you hear me??",
+			"\f"
+		]
+	},
+	{
+		"Index": 62,
+		"JPN": [
+			"………",
+			"……",
+			"…",
+			"\f"
+		]
+	},
+	{
+		"Index": 63,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"fufufufu! Your some guy!",
+			"\f"
+		]
+	},
+	{
+		"Index": 64,
+		"JPN": [
+			"<CMD>09802700088027004180</CMD>",
+			"I was once the <CMD>008027000380</CMD>ruler<CMD>008027000180</CMD> of this world.",
+			"Isn't that scarry???",
+			"\f"
+		]
+	},
+	{
+		"Index": 67,
+		"JPN": [
+			"From now on, Forest ghosts\nare no longer to trespass!",
+			"\f"
+		]
+	},
+	{
+		"Index": 68,
+		"JPN": [
+			"No  more\nSchool or Shopping malls!",
+			"\f"
+		]
+	},
+	{
+		"Index": 69,
+		"JPN": [
+			"No more Dorms!",
+			"\f"
+		]
+	},
+	{
+		"Index": 70,
+		"JPN": [
+			"No more broomsticks are\nallowed to be rode here!",
+			"\f"
+		]
+	},
+	{
+		"Index": 80,
+		"JPN": [
+			"Oh, you two are so close.",
+			"<CMD>128027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 81,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Todays drink<CMD>13802700ffff</CMD>",
+			"Nothing<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 82,
+		"JPN": [
+			"<CMD>18802700729b27000080</CMD><CMD>17802700729b2700088027000a8027000180</CMD><CMD>16802700729b27006981</CMD>Juice for the both of you.\n Comes to <BREAK><CMD>008027000480</CMD>400<CMD>008027000180</CMD> Rich.",
+			"<CMD>128027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 83,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Yes<CMD>13802700ffff</CMD>",
+			"No<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 84,
+		"JPN": [
+			"<CMD>18802700729b27000080</CMD><CMD>17802700729b2700088027000a8027000180</CMD><CMD>16802700729b27006981</CMD>Oh no, I don't think\nyou have enough Rich.",
+			"\f"
+		]
+	},
+	{
+		"Index": 85,
+		"JPN": [
+			"<CMD>158027001882</CMD>The juice of the\nday is Blackberry.<CMD>3a80270070fe</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 86,
+		"JPN": [
+			"<CMD>158027001882</CMD>The juice of the\nday is Raspberry.<CMD>3a80270070fe</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 87,
+		"JPN": [
+			"<CMD>158027001882</CMD>The juice of the\nday is Strawberry<CMD>3a80270070fe</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 89,
+		"JPN": [
+			"Fufufu...You guy's look\nlike a cute couple.",
+			"If you don't mind,\nI'd like to hear about you guys.",
+			"<CMD>128027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 90,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Sure<CMD>13802700ffff</CMD>",
+			"We're Good<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 91,
+		"JPN": [
+			"Oh my, that's no good....",
+			"\f"
+		]
+	},
+	{
+		"Index": 92,
+		"JPN": [
+			"That's what I heard <CMD>f481</CMD>.",
+			"\f"
+		]
+	},
+	{
+		"Index": 93,
+		"JPN": [
+			"You're more the type of person who'd",
+			"Rather work on your relationship.",
+			"\f"
+		]
+	},
+	{
+		"Index": 94,
+		"JPN": [
+			"<CMD>f7812700dd9f</CMD> and I are the same type of person.",
+			"So we might bump into each other from time to time.",
+			"But don't worry,\nit's gonna be okay.",
+			"\f"
+		]
+	},
+	{
+		"Index": 95,
+		"JPN": [
+			"<CMD>f7812700dd9f</CMD>はうけ{身|み}なタイプよね<BREAK>せっきょくてきな<CMD>f481</CMD>と<BREAK>{相性|あいしょう}いいみたい",
+			"<CMD>18802700729b27000180</CMD><CMD>17802700729b270001802700048027000280</CMD><CMD>16802700729b27005581</CMD>フフフ…じしんをもちなさい<BREAK>とってもうまくいくわよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 96,
+		"JPN": [
+			"<CMD>f7812700dd9f</CMD>は<BREAK>マイペースなタイプだから<BREAK>ときどき{合|あ}わないこともあるかも…",
+			"でも　だいじょうぶ<BREAK>そこそこうまくいくわよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 97,
+		"JPN": [
+			"<CMD>f7812700dd9f</CMD>は{相手|あいて}にも<BREAK>{変化|へんか}を{求|もと}めるタイプね<BREAK>{相性|あいしょう}が{良|よ}くないかも",
+			"でもだいじょうぶ<BREAK>{努力|どりょく}しだいでうまくいくわよ<BREAK>しっかりなさいな",
+			"\f"
+		]
+	},
+	{
+		"Index": 98,
+		"JPN": [
+			"やさしくて　{相手|あいて}のことを<BREAK>ゆうせんして<BREAK>{付|つ}き{合|あ}っていくタイプね",
+			"\f"
+		]
+	},
+	{
+		"Index": 99,
+		"JPN": [
+			"<CMD>f7812700dd9f</CMD>は　とっても<BREAK>せっきょくてきなタイプだから<BREAK><CMD>f481</CMD>と{相性|あいしょう}いいわよ",
+			"<CMD>18802700729b27000180</CMD><CMD>17802700729b270001802700048027000280</CMD><CMD>16802700729b27005581</CMD>フフフ…じしんをもちなさい<BREAK>とってもうまくいくわよ",
+			"\f"
+		]
+	}
+]

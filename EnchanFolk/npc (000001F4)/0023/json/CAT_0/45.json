@@ -1,0 +1,42 @@
+{
+	"Args": "000b0e0038584820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Holly"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "You know..."
+		},
+		{
+			"Offset": 80,
+			"Text": "よ"
+		},
+		{
+			"Offset": 92,
+			"Text": "かしら"
+		},
+		{
+			"Offset": 104,
+			"Text": "わよ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のね"
+		},
+		{
+			"Offset": 128,
+			"Text": "みて"
+		},
+		{
+			"Offset": 140,
+			"Text": "ね"
+		}
+	],
+	"Arg2": "0010010666a8ffef030a1e28324a638104010426ec260a20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "0006110038185820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Kona"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Frosty Dude!"
+		},
+		{
+			"Offset": 80,
+			"Text": "だ"
+		},
+		{
+			"Offset": 92,
+			"Text": "か"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだ"
+		},
+		{
+			"Offset": 116,
+			"Text": "んだか"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれっか"
+		},
+		{
+			"Offset": 140,
+			"Text": "な"
+		}
+	],
+	"Arg2": "000c00016e9affef020c202d364c63e04000081ae2260a20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "0009140038483058",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Laurel"
+		},
+		{
+			"Offset": 32,
+			"Text": "アタシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Oh, stop."
+		},
+		{
+			"Offset": 80,
+			"Text": "よーん"
+		},
+		{
+			"Offset": 92,
+			"Text": "かしら"
+		},
+		{
+			"Offset": 104,
+			"Text": "わよーん"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかしら"
+		},
+		{
+			"Offset": 128,
+			"Text": "よーん"
+		},
+		{
+			"Offset": 140,
+			"Text": "よーん"
+		}
+	],
+	"Arg2": "990d00027297ffef050c2129354663006000001ae2260f20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "00030c0038285848",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Seth"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレっち"
+		},
+		{
+			"Offset": 44,
+			"Text": "Mwahaha..."
+		},
+		{
+			"Offset": 80,
+			"Text": "だゼ"
+		},
+		{
+			"Offset": 92,
+			"Text": "かよ"
+		},
+		{
+			"Offset": 104,
+			"Text": "ゼ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のか"
+		},
+		{
+			"Offset": 128,
+			"Text": "みろよ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ゼ"
+		}
+	],
+	"Arg2": "990900036facffef050f222d344863e060000216ec260520"
+}

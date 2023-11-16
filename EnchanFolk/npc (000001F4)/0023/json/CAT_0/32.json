@@ -1,0 +1,42 @@
+{
+	"Args": "0002160038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Felicia"
+		},
+		{
+			"Offset": 32,
+			"Text": "ワタシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Thats right!"
+		},
+		{
+			"Offset": 80,
+			"Text": "レス"
+		},
+		{
+			"Offset": 92,
+			"Text": "なのレス"
+		},
+		{
+			"Offset": 104,
+			"Text": "のレス"
+		},
+		{
+			"Offset": 116,
+			"Text": "のレス"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ"
+		},
+		{
+			"Offset": 140,
+			"Text": "レス"
+		}
+	],
+	"Arg2": "e10a010b6a9dffef040a1e28354f63e120020921ec261e20"
+}

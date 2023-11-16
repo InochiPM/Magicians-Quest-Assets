@@ -1,0 +1,42 @@
+{
+	"Args": "00001e0050204010",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Frank"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Beautiful!"
+		},
+		{
+			"Offset": 80,
+			"Text": "デスネ"
+		},
+		{
+			"Offset": 92,
+			"Text": "デスカ"
+		},
+		{
+			"Offset": 104,
+			"Text": "んデスヨ"
+		},
+		{
+			"Offset": 116,
+			"Text": "ノデスカ"
+		},
+		{
+			"Offset": 128,
+			"Text": "クダサイ"
+		},
+		{
+			"Offset": 140,
+			"Text": "カ"
+		}
+	],
+	"Arg2": "850b00006b9dffef010b1f2d335063a028000a18ec260a20"
+}

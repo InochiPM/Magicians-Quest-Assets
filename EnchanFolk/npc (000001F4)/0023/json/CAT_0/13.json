@@ -1,0 +1,42 @@
+{
+	"Args": "0003100038285848",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Damian"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Ill say it once."
+		},
+		{
+			"Offset": 80,
+			"Text": "だッ"
+		},
+		{
+			"Offset": 92,
+			"Text": "かッ"
+		},
+		{
+			"Offset": 104,
+			"Text": "ぜッ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかッ"
+		},
+		{
+			"Offset": 128,
+			"Text": "おけッ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ぜッ"
+		}
+	],
+	"Arg2": "c209000368a6ffef020c222d344963e02400031de2260520"
+}

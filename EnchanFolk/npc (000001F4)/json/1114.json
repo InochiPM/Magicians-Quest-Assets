@@ -1,0 +1,42 @@
+{
+	"Args": "000a0a0038285848",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "ごんた"
+		},
+		{
+			"Offset": 32,
+			"Text": "おいら"
+		},
+		{
+			"Offset": 44,
+			"Text": "ウホウホ！"
+		},
+		{
+			"Offset": 80,
+			"Text": "だな"
+		},
+		{
+			"Offset": 92,
+			"Text": "か"
+		},
+		{
+			"Offset": 104,
+			"Text": "ぜ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかよ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ぜ"
+		}
+	],
+	"Arg2": "740d0003719fffef020a1e2d325363e064000d1de2260a20"
+}

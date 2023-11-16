@@ -1,0 +1,42 @@
+{
+	"Args": "0005110048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Kevin"
+		},
+		{
+			"Offset": 32,
+			"Text": "ぼくタン"
+		},
+		{
+			"Offset": 44,
+			"Text": "*sniff sniff*"
+		},
+		{
+			"Offset": 80,
+			"Text": "ぷ"
+		},
+		{
+			"Offset": 92,
+			"Text": "ぷぅ"
+		},
+		{
+			"Offset": 104,
+			"Text": "のぷ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のぷぅ"
+		},
+		{
+			"Offset": 128,
+			"Text": "ぷぅ～"
+		},
+		{
+			"Offset": 140,
+			"Text": "ぷぅ～"
+		}
+	],
+	"Arg2": "660a00056da5ffef040d202d324d63e10001071900261e20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "0008070038205048",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Ming Ming"
+		},
+		{
+			"Offset": 32,
+			"Text": "ワタシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Hai-na! Hai-na!"
+		},
+		{
+			"Offset": 80,
+			"Text": "アルよー"
+		},
+		{
+			"Offset": 92,
+			"Text": "アルかー"
+		},
+		{
+			"Offset": 104,
+			"Text": "アルなー"
+		},
+		{
+			"Offset": 116,
+			"Text": "アルかー"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれアル"
+		},
+		{
+			"Offset": 140,
+			"Text": "アルねー"
+		}
+	],
+	"Arg2": "cc0c01096a66ffef030d202a3454630040000e24e2260a20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "0002170048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Shortcake"
+		},
+		{
+			"Offset": 32,
+			"Text": "ワタシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Hey~ Hey~"
+		},
+		{
+			"Offset": 80,
+			"Text": "みたい"
+		},
+		{
+			"Offset": 92,
+			"Text": "みたい"
+		},
+		{
+			"Offset": 104,
+			"Text": "みたい"
+		},
+		{
+			"Offset": 116,
+			"Text": "みたい"
+		},
+		{
+			"Offset": 128,
+			"Text": "ください"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ"
+		}
+	],
+	"Arg2": "660e010a7aaaffef020c22293646634024000020ce261e20"
+}

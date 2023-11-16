@@ -1,0 +1,42 @@
+{
+	"Args": "0006100048183038",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Octavious"
+		},
+		{
+			"Offset": 32,
+			"Text": "わて"
+		},
+		{
+			"Offset": 44,
+			"Text": "And? And??"
+		},
+		{
+			"Offset": 80,
+			"Text": "やで"
+		},
+		{
+			"Offset": 92,
+			"Text": "なんか"
+		},
+		{
+			"Offset": 104,
+			"Text": "んやで"
+		},
+		{
+			"Offset": 116,
+			"Text": "んかい"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれへん"
+		},
+		{
+			"Offset": 140,
+			"Text": "で"
+		}
+	],
+	"Arg2": "330b000565abffef050d202a3352630020000c16ec260a20"
+}

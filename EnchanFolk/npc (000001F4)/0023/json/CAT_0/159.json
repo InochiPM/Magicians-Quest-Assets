@@ -1,0 +1,42 @@
+{
+	"Args": "00000d0048503850",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Cassie"
+		},
+		{
+			"Offset": 32,
+			"Text": "ワターシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Wow!\n"
+		},
+		{
+			"Offset": 80,
+			"Text": "なのデス"
+		},
+		{
+			"Offset": 92,
+			"Text": "デスカ"
+		},
+		{
+			"Offset": 104,
+			"Text": "のデス"
+		},
+		{
+			"Offset": 116,
+			"Text": "デスカ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くだサイ"
+		},
+		{
+			"Offset": 140,
+			"Text": "のデス"
+		}
+	],
+	"Arg2": "660e01066967ffef030b212b3254630040000e24e2260a20"
+}

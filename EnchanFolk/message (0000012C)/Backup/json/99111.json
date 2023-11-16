@@ -1,0 +1,186 @@
+[
+	{
+		"Index": 1,
+		"JPN": [
+			"Should I leave a note?<CMD>128027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 2,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Yes<CMD>13802700ffff</CMD>",
+			"No<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 4,
+		"JPN": [
+			"Title",
+			"\f"
+		]
+	},
+	{
+		"Index": 5,
+		"JPN": [
+			"Body",
+			"\f"
+		]
+	},
+	{
+		"Index": 6,
+		"JPN": [
+			"/",
+			"\f"
+		]
+	},
+	{
+		"Index": 7,
+		"JPN": [
+			" ",
+			"\f"
+		]
+	},
+	{
+		"Index": 8,
+		"JPN": [
+			"　",
+			"\f"
+		]
+	},
+	{
+		"Index": 9,
+		"JPN": [
+			"０",
+			"\f"
+		]
+	},
+	{
+		"Index": 10,
+		"JPN": [
+			"１",
+			"\f"
+		]
+	},
+	{
+		"Index": 11,
+		"JPN": [
+			"２",
+			"\f"
+		]
+	},
+	{
+		"Index": 12,
+		"JPN": [
+			"３",
+			"\f"
+		]
+	},
+	{
+		"Index": 13,
+		"JPN": [
+			"４",
+			"\f"
+		]
+	},
+	{
+		"Index": 14,
+		"JPN": [
+			"５",
+			"\f"
+		]
+	},
+	{
+		"Index": 15,
+		"JPN": [
+			"６",
+			"\f"
+		]
+	},
+	{
+		"Index": 16,
+		"JPN": [
+			"７",
+			"\f"
+		]
+	},
+	{
+		"Index": 17,
+		"JPN": [
+			"８",
+			"\f"
+		]
+	},
+	{
+		"Index": 18,
+		"JPN": [
+			"９",
+			"\f"
+		]
+	},
+	{
+		"Index": 19,
+		"JPN": [
+			"Sunday",
+			"\f"
+		]
+	},
+	{
+		"Index": 20,
+		"JPN": [
+			"Monday",
+			"\f"
+		]
+	},
+	{
+		"Index": 21,
+		"JPN": [
+			"Tuesday",
+			"\f"
+		]
+	},
+	{
+		"Index": 22,
+		"JPN": [
+			"Wednesday",
+			"\f"
+		]
+	},
+	{
+		"Index": 23,
+		"JPN": [
+			"Thursday",
+			"\f"
+		]
+	},
+	{
+		"Index": 24,
+		"JPN": [
+			"Friday",
+			"\f"
+		]
+	},
+	{
+		"Index": 25,
+		"JPN": [
+			"Saturday",
+			"\f"
+		]
+	},
+	{
+		"Index": 26,
+		"JPN": [
+			"New Message",
+			"\f"
+		]
+	},
+	{
+		"Index": 27,
+		"JPN": [
+			"...",
+			"\f"
+		]
+	}
+]

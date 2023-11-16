@@ -1,0 +1,707 @@
+[
+	{
+		"Index": 0,
+		"JPN": [
+			"Welcome to the room of the\nBeginning and End!",
+			"I've been watching the stars,\nand knew you would join us.",
+			"\f"
+		]
+	},
+	{
+		"Index": 1,
+		"JPN": [
+			"May I please have your name?",
+			"\f"
+		]
+	},
+	{
+		"Index": 2,
+		"JPN": [
+			"I see..\n<CMD>218227000080</CMD> is it?",
+			"...Hm good name.",
+			"Okay, and what month were\nyou born in?",
+			"\f"
+		]
+	},
+	{
+		"Index": 3,
+		"JPN": [
+			"And what was the day?",
+			"\f"
+		]
+	},
+	{
+		"Index": 4,
+		"JPN": [
+			"In my opinion, you look like\nthis don't you?",
+			"\f"
+		]
+	},
+	{
+		"Index": 5,
+		"JPN": [
+			"And finally...",
+			"What school do you want\nto go to?",
+			"\f"
+		]
+	},
+	{
+		"Index": 6,
+		"JPN": [
+			"Hm...",
+			"Without further ado let's\ngo through the door.",
+			"I'm sure you'll be a great\nmagician...",
+			"\f"
+		]
+	},
+	{
+		"Index": 7,
+		"JPN": [
+			"Hows This?",
+			"<CMD>13802700e8ae</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 8,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Choose Myself.<CMD>13802700efae</CMD>",
+			"Close!<CMD>13802700f0ae</CMD>",
+			"Not Quite...<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 9,
+		"JPN": [
+			"I see...",
+			"\f"
+		]
+	},
+	{
+		"Index": 10,
+		"JPN": [
+			"What about this?",
+			"<CMD>13802700ebae</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 11,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Choose Myself<CMD>13802700efae</CMD>",
+			"Looks Cool!<CMD>13802700f0ae</CMD>",
+			"Not Quite...<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 12,
+		"JPN": [
+			"Well... \nnot this one either...",
+			"\f"
+		]
+	},
+	{
+		"Index": 13,
+		"JPN": [
+			"How about this then?",
+			"<CMD>13802700eeae</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 14,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Choose Myself<CMD>13802700efae</CMD>",
+			"Okay.<CMD>13802700f0ae</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 15,
+		"JPN": [
+			"You want to make your own\ndecisions, don't you?",
+			"You'll have to decide for\nyourself.",
+			"\f"
+		]
+	},
+	{
+		"Index": 16,
+		"JPN": [
+			"Yes, I think so too.",
+			"\f"
+		]
+	},
+	{
+		"Index": 18,
+		"JPN": [
+			"Ho-ho... You're the type who's\na hard worker.",
+			"That's what I would expect\nfrom the star\nsign of<CMD>008027000480</CMD>The Broom<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 19,
+		"JPN": [
+			"Ho-ho... You're the type who's\na bit creative yes?",
+			"That's what I would expect\nfrom the star\nsign of<CMD>008027000480</CMD>The Whirler<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 20,
+		"JPN": [
+			"Ho-ho... You're the type who\ncan't say no.",
+			"That's what I would expect\nfrom the star\nsign of<CMD>008027000480</CMD>The Witches Nose<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 21,
+		"JPN": [
+			"Ho-ho... You're the type who's\na natural born leader.",
+			"That's what I would expect\nfrom the star\nsign of<CMD>008027000480</CMD>The Bat's Wings<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 22,
+		"JPN": [
+			"Ho-ho... You're the type who's\nresponsible.",
+			"That's what I would expect\nfrom the star\nsign of<CMD>008027000480</CMD>The Little Pot<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 23,
+		"JPN": [
+			"Ho-ho...　You're the social type,\nAren't you?",
+			"That's what I would expect\nfrom the star sign of\n<CMD>008027000480</CMD>The Lips<CMD>008027000180</CMD>.",
+			"\f"
+		]
+	},
+	{
+		"Index": 24,
+		"JPN": [
+			"Ho-ho...　You're the sensitive type,\nAren't you?",
+			"That's what I would expect\nfrom the star sign of\n<CMD>008027000480</CMD>The Heart<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 25,
+		"JPN": [
+			"Ho-ho...　You're the type\nwho likes to have fun aren't you?",
+			"That's what I would expect\nfrom the star sign of\n<CMD>008027000480</CMD>The Big Pot<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 26,
+		"JPN": [
+			"Ho-ho...　You're the type\nwho's studious and lucritive yes?",
+			"That's what I would expect\nfrom the star sign of\n<CMD>008027000480</CMD>The Scale Tail<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 27,
+		"JPN": [
+			"Ho-ho...　You're the type\nwho's sensitive and polite yes?",
+			"That's what I would expect\nfrom the star sign of\n<CMD>008027000480</CMD>The Staff<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 28,
+		"JPN": [
+			"Ho-ho...　You're the inquisitive type\nwho's likes to know.",
+			"That's what I would expect\nfrom the star sign of\n<CMD>008027000480</CMD>The Hat<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 29,
+		"JPN": [
+			"Ho-ho...　You're the clever type\naren't you?",
+			"That's what I would expect\nfrom the star sign of\n<CMD>008027000480</CMD>The Skull<CMD>008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 30,
+		"JPN": [
+			"You came here to be a\nmagician, didn't you?",
+			"<CMD>13802700ffae</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 31,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Yes<CMD>1380270004af</CMD>",
+			"No<CMD>1380270005af</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 32,
+		"JPN": [
+			"Now then...\nTell me your gender.",
+			"<CMD>1380270001af</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 33,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Male<CMD>13802700ffff</CMD>",
+			"Female<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 34,
+		"JPN": [
+			"Now before we go on..",
+			"Are you sure of your answer?",
+			"<CMD>1380270003af</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 35,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"I'm Positive!<CMD>13802700ffff</CMD>",
+			"I think not.<CMD>1380270006af</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 36,
+		"JPN": [
+			"Okay...\nLet's get you ready\nand enrolled!",
+			"\f"
+		]
+	},
+	{
+		"Index": 37,
+		"JPN": [
+			"Well, that's too bad...\ncome back when you've\nchange your mind.",
+			"\f"
+		]
+	},
+	{
+		"Index": 38,
+		"JPN": [
+			"Okay... Let me ask you again...",
+			"\f"
+		]
+	},
+	{
+		"Index": 39,
+		"JPN": [
+			"Mmm...",
+			"Okay, I think I figured out\nwhere you're going.",
+			"<CMD>1380270002af</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 40,
+		"JPN": [
+			"I can't give you this name.",
+			"\f"
+		]
+	},
+	{
+		"Index": 41,
+		"JPN": [
+			"I thought you looked like\nthis in my memory, but...",
+			"\f"
+		]
+	},
+	{
+		"Index": 42,
+		"JPN": [
+			"And finally...",
+			"Is this the correct name\nfor your school?",
+			"\f"
+		]
+	},
+	{
+		"Index": 43,
+		"JPN": [
+			"Hmm...",
+			"I know exactly where you're\ngoing with this.",
+			"<CMD>1380270002af</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 44,
+		"JPN": [
+			"Hmm...",
+			"Your data transfer has been\ncompleted. You may proceed to\nthat doorway.",
+			"I'm sure you'll become\na great magician.",
+			"\f"
+		]
+	},
+	{
+		"Index": 45,
+		"JPN": [
+			"Can you tell me what\nyou're singing about?",
+			"\f"
+		]
+	},
+	{
+		"Index": 47,
+		"JPN": [
+			"Store",
+			"\f"
+		]
+	},
+	{
+		"Index": 48,
+		"JPN": [
+			"Hairstyle",
+			"\f"
+		]
+	},
+	{
+		"Index": 49,
+		"JPN": [
+			"Face",
+			"\f"
+		]
+	},
+	{
+		"Index": 50,
+		"JPN": [
+			"Voice",
+			"\f"
+		]
+	},
+	{
+		"Index": 51,
+		"JPN": [
+			"{雨|あめ}の{日|ひ}につかうと\n{晴|は}れて にじがでる\n{変身|へんしん}し　じゅもんを{唱|とな}え\nターコイズを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 52,
+		"JPN": [
+			"{夜|よる}　いせきに{行|い}き{変身|へんしん}する\nじゅもんを{唱|とな}え\nバラについたよつゆを　{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 53,
+		"JPN": [
+			"{変身|へんしん}し　じゅもんを{唱|とな}え\nながれぼしのカケラを　{手|て}にもつ\nこうかは　つぎの{日|ひ}の{夜|よる}",
+			"\f"
+		]
+	},
+	{
+		"Index": 54,
+		"JPN": [
+			"マーガレットが\n４{本|ほん}あるところで{変身|へんしん}し\nじゅもんを{唱|とな}える\nさいごに つえをふる",
+			"\f"
+		]
+	},
+	{
+		"Index": 55,
+		"JPN": [
+			"なかよくなりたい{２人|ふたり}で\nいせきに{行|い}き　{変身|へんしん}ご\nじゅもんを{唱|とな}えエメラルドをもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 56,
+		"JPN": [
+			"{好|す}きな{子|こ}といっしょに\n{始|はじ}まりと{終|お}わりのとびらの{前|まえ}で\n{変身|へんしん}し　じゅもんを{唱|とな}え\nサファイヤを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 57,
+		"JPN": [
+			"{気|き}になる{人|ひと}を　{恋人|こいびと}みさきに\nつれて{行|い}き　{夜|よる}　カネがなって\nいる{時|とき}に　{変身|へんしん}　じゅもんを\n{唱|とな}え　あかいバラをさしだす\n",
+			"\f"
+		]
+	},
+	{
+		"Index": 58,
+		"JPN": [
+			"ラピスラズリをベッドの\nまわりにおく　{夜|よる}に{変身|へんしん}し\nじゅもんを{唱|とな}え\nベッドによこになる",
+			"\f"
+		]
+	},
+	{
+		"Index": 59,
+		"JPN": [
+			"{女|おんな}の{子用|こよう}\n{女子|じょし}トイレの{個室前|こしつまえ}で\n{変身|へんしん}　じゅもんを{唱|とな}え\nあかいチューリップを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 60,
+		"JPN": [
+			"{変身|へんしん}し　じゅもんを{唱|とな}え\nゆうびんきょくで\n{黄色|きいろ}いマーガレットを{手|て}にもつ\nさいごにでんぽうを{出|だ}す",
+			"\f"
+		]
+	},
+	{
+		"Index": 61,
+		"JPN": [
+			"{教室|きょうしつ}の{自分|じぶん}の{席|せき}で\n{変身|へんしん}し　じゅもんを{唱|とな}える\n{白|しろ}いスズランを{手|て}にもち\n{好|す}きな{子|こ}をじゅぎょうにさそう",
+			"\f"
+		]
+	},
+	{
+		"Index": 62,
+		"JPN": [
+			"{男|おとこ}の{子用|こよう}\n{男子|だんし}トイレの{個室前|こしつまえ}で\n{変身|へんしん}　じゅもんを{唱|とな}え\nあかいチューリップを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 63,
+		"JPN": [
+			"{教室|きょうしつ}に{行|い}き　{変身|へんしん}\nじゅもんを３{回|かい}{唱|とな}え\nアメジストを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 64,
+		"JPN": [
+			"{変身|へんしん}し　じゅもんを{唱|とな}え\n{黒|くろ}いマーガレットを{地面|じめん}に{置|お}く\nそのまわりをまわり　{南|みなみ}から\nマーガレットにむかってつえをふる",
+			"\f"
+		]
+	},
+	{
+		"Index": 65,
+		"JPN": [
+			"{変身|へんしん}し　じゅもんを{唱|とな}え\nいせきのまわりを　１しゅうする\nいせきのまんなかで\nクリスタルを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 66,
+		"JPN": [
+			"{変身|へんしん}し　じゅもんを{唱|とな}える\nめずらしい{色|いろ}の{花|はな}に\n{水|みず}をあげる\nすうじつ{行|おこな}うこと",
+			"\f"
+		]
+	},
+	{
+		"Index": 67,
+		"JPN": [
+			"じめんに１リッチをかくし\n{変身|へんしん}する　じゅもんを{唱|とな}え\nジョウロで{水|みず}をかける",
+			"\f"
+		]
+	},
+	{
+		"Index": 68,
+		"JPN": [
+			"{晴|は}れの{日|ひ}に{変身|へんしん}する\nじゅもんを{唱|とな}え\nアクアマリンを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 69,
+		"JPN": [
+			"こうえんで{変身|へんしん}\nじゅもんを{唱|とな}える\nきんこうせきを\n{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 70,
+		"JPN": [
+			"じぶんのへやで　カガミが\nついている{家具|かぐ}の{前|まえ}にたつ\n{変身|へんしん}し　じゅもんを{唱|とな}える\nまじょのツメを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 71,
+		"JPN": [
+			"タイミング{良|よ}くふると\n{流|なが}れ{星|ぼし}がふえ\nしばらくふりつづく",
+			"\f"
+		]
+	},
+	{
+		"Index": 72,
+		"JPN": [
+			"あたまの{上|うえ}から\nかなダライがふってくる\n{相手|あいて}は{目|め}を{回|まわ}し\nきおくを　うしなう",
+			"\f"
+		]
+	},
+	{
+		"Index": 73,
+		"JPN": [
+			"かけられた{相手|あいて}が\nねむってしまう",
+			"\f"
+		]
+	},
+	{
+		"Index": 74,
+		"JPN": [
+			"だれのことが{好|す}きか\nわかってしまうまほう",
+			"\f"
+		]
+	},
+	{
+		"Index": 75,
+		"JPN": [
+			"ちかくの{地面|じめん}にうまっている\nおたからが　{光|ひか}る",
+			"\f"
+		]
+	},
+	{
+		"Index": 76,
+		"JPN": [
+			"じぶんが　クラスメイトに\n{変身|へんしん}してしまう",
+			"\f"
+		]
+	},
+	{
+		"Index": 77,
+		"JPN": [
+			"{当|あ}たった{相手|あいて}はびりびりする\n{悪|わる}いヤツを　やっつけるまほう",
+			"\f"
+		]
+	},
+	{
+		"Index": 78,
+		"JPN": [
+			"かけられた{人|ひと}どうしが\nくっついてしまう",
+			"\f"
+		]
+	},
+	{
+		"Index": 79,
+		"JPN": [
+			"とっても　キレイ\nもりあげたいときに　つかおう",
+			"\f"
+		]
+	},
+	{
+		"Index": 80,
+		"JPN": [
+			"ムシにかけると\nしばらく{動|うご}かなくなる",
+			"\f"
+		]
+	},
+	{
+		"Index": 81,
+		"JPN": [
+			"かけられた{相手|あいて}は\nオナラをしてしまう\nオバケにかけると\nふきとばされてとんでいく",
+			"\f"
+		]
+	},
+	{
+		"Index": 82,
+		"JPN": [
+			"おひるね{用|よう}\n{見|み}かけた{友|とも}だちも\nとなりで　ねてしまう",
+			"\f"
+		]
+	},
+	{
+		"Index": 83,
+		"JPN": [
+			"キノコの{森|もり}へ{行|い}き\n{変身|へんしん}する　じゅもんを{唱|とな}え\nキノコを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 85,
+		"JPN": [
+			"とくべつなざいりょうに\nすうじつかん　おまじないをかける",
+			"\f"
+		]
+	},
+	{
+		"Index": 86,
+		"JPN": [
+			"つかいまをよぶには\nまほうじんがひつよう\n{変身|へんしん}して　じゅもんを{唱|とな}える",
+			"\f"
+		]
+	},
+	{
+		"Index": 90,
+		"JPN": [
+			"かけられた{相手|あいて}は\nはなす{声|こえ}が{高|たか}くなる\nしゃべった{本人|ほんにん}もビックリ！！",
+			"\f"
+		]
+	},
+	{
+		"Index": 91,
+		"JPN": [
+			"かけられた{相手|あいて}がクルクル{回|まわ}る\n{目|め}が{回|まわ}って{流行|りゅうこう}を\nわすれちゃう！",
+			"\f"
+		]
+	},
+	{
+		"Index": 92,
+		"JPN": [
+			"かけられた{相手|あいて}のせなかに\nお{店|みせ}のチラシがついちゃう！\nおこられるけど　ちょっとせんでん！",
+			"\f"
+		]
+	},
+	{
+		"Index": 93,
+		"JPN": [
+			"おおきな　かなダライがふってくる\n{相手|あいて}は{目|め}を{回|まわ}し　おこって\nどこまでも　おいかけてくる",
+			"\f"
+		]
+	},
+	{
+		"Index": 94,
+		"JPN": [
+			"おおきな　{花火|はなび}を{空高|そらたか}く\n{打|う}ち{上|あ}げよう！",
+			"\f"
+		]
+	},
+	{
+		"Index": 95,
+		"JPN": [
+			"かけられた{相手|あいて}の{頭|あたま}の{上|うえ}に\n{風船|ふうせん}がついちゃうよ！\nちょっと　うくのが{楽|たの}しい？",
+			"\f"
+		]
+	},
+	{
+		"Index": 96,
+		"JPN": [
+			"{雨|あめ}の{日|ひ}に\nおかしの{花|はな}の{上|うえ}で{変身|へんしん}し\nじゅもんを{唱|とな}えて\nさいごに つえをふろう",
+			"\f"
+		]
+	},
+	{
+		"Index": 97,
+		"JPN": [
+			"{変身|へんしん}し　じゅもんを{唱|とな}える\nさいごにターコイズを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 98,
+		"JPN": [
+			"{晴|は}れの{日|ひ}に{変身|へんしん}する\nじゅもんを{唱|とな}え\nダイヤモンドを{手|て}にもつ",
+			"\f"
+		]
+	},
+	{
+		"Index": 99,
+		"JPN": [
+			"キノコの{森|もり}で{変身|へんしん}し\nじゅもんを{唱|とな}えて{３日間|みっかかん}\n{同|おな}じキノコを{手|て}にもつ",
+			"\f"
+		]
+	}
+]

@@ -1,0 +1,42 @@
+{
+	"Args": "00031d0038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "マーサ"
+		},
+		{
+			"Offset": 32,
+			"Text": "マーサ"
+		},
+		{
+			"Offset": 44,
+			"Text": "ん～～～……"
+		},
+		{
+			"Offset": 80,
+			"Text": "ね～"
+		},
+		{
+			"Offset": 92,
+			"Text": "よね～"
+		},
+		{
+			"Offset": 104,
+			"Text": "わ～"
+		},
+		{
+			"Offset": 116,
+			"Text": "の～"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれる～"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ～"
+		}
+	],
+	"Arg2": "8f0a010b6d96ffef030d1e2a335163e020000b26ec260a20"
+}

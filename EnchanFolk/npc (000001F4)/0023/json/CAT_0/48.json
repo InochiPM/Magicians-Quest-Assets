@@ -1,0 +1,42 @@
+{
+	"Args": "00070e0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Foggy"
+		},
+		{
+			"Offset": 32,
+			"Text": "おれっち"
+		},
+		{
+			"Offset": 44,
+			"Text": "..Where was I?"
+		},
+		{
+			"Offset": 80,
+			"Text": "だあ"
+		},
+		{
+			"Offset": 92,
+			"Text": "かあ"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだあ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかあ"
+		},
+		{
+			"Offset": 128,
+			"Text": "ー"
+		},
+		{
+			"Offset": 140,
+			"Text": "よお"
+		}
+	],
+	"Arg2": "660e000573a0ffef040d202d325263803800061900261e20"
+}

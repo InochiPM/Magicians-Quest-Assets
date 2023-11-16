@@ -1,0 +1,42 @@
+{
+	"Args": "00060d0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Theo"
+		},
+		{
+			"Offset": 32,
+			"Text": "ぼっくん"
+		},
+		{
+			"Offset": 44,
+			"Text": "Honey..."
+		},
+		{
+			"Offset": 80,
+			"Text": "だ～"
+		},
+		{
+			"Offset": 92,
+			"Text": "かな～"
+		},
+		{
+			"Offset": 104,
+			"Text": "のよね～"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかな～"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ～"
+		},
+		{
+			"Offset": 140,
+			"Text": "ね～"
+		}
+	],
+	"Arg2": "990900056da7ffef020d202d324f63e224010917e2261e20"
+}

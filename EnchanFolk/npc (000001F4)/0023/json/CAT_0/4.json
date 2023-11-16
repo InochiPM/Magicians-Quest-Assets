@@ -1,0 +1,42 @@
+{
+	"Args": "0001190048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Fifi"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "Eheheh..."
+		},
+		{
+			"Offset": 80,
+			"Text": "です"
+		},
+		{
+			"Offset": 92,
+			"Text": "ですか"
+		},
+		{
+			"Offset": 104,
+			"Text": "のです"
+		},
+		{
+			"Offset": 116,
+			"Text": "のですか"
+		},
+		{
+			"Offset": 128,
+			"Text": "ください"
+		},
+		{
+			"Offset": 140,
+			"Text": "Maybe"
+		}
+	],
+	"Arg2": "330f010a68a7ffef040c2229364b63e000000521ec261920"
+}

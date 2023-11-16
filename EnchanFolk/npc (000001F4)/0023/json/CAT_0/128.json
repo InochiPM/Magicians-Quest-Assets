@@ -1,0 +1,42 @@
+{
+	"Args": "000a1c0060203850",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Lizzy"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "Let's go for it."
+		},
+		{
+			"Offset": 80,
+			"Text": "なのだわ"
+		},
+		{
+			"Offset": 92,
+			"Text": "だわね"
+		},
+		{
+			"Offset": 104,
+			"Text": "のだわ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかしら"
+		},
+		{
+			"Offset": 128,
+			"Text": "もらえる"
+		},
+		{
+			"Offset": 140,
+			"Text": "というの"
+		}
+	],
+	"Arg2": "d70d0108786fffef040c1e29364763003000011fd8260a20"
+}

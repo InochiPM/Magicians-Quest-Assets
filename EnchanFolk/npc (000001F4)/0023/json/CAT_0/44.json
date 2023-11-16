@@ -1,0 +1,42 @@
+{
+	"Args": "0007130048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Troy"
+		},
+		{
+			"Offset": 32,
+			"Text": "ジブン"
+		},
+		{
+			"Offset": 44,
+			"Text": " I...uh... Sorry"
+		},
+		{
+			"Offset": 80,
+			"Text": "だ…"
+		},
+		{
+			"Offset": 92,
+			"Text": "か…"
+		},
+		{
+			"Offset": 104,
+			"Text": "の…"
+		},
+		{
+			"Offset": 116,
+			"Text": "の…"
+		},
+		{
+			"Offset": 128,
+			"Text": "…"
+		},
+		{
+			"Offset": 140,
+			"Text": "…"
+		}
+	],
+	"Arg2": "330f000575a5ffef040d202d324a636024000417e2261e20"
+}

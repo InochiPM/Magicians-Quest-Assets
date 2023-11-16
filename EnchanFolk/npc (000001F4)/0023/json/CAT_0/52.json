@@ -1,0 +1,42 @@
+{
+	"Args": "00040d0060203850",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Madison"
+		},
+		{
+			"Offset": 32,
+			"Text": "あたしゃ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Therefore."
+		},
+		{
+			"Offset": 80,
+			"Text": "サ"
+		},
+		{
+			"Offset": 92,
+			"Text": "かい"
+		},
+		{
+			"Offset": 104,
+			"Text": "よ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかい"
+		},
+		{
+			"Offset": 128,
+			"Text": "みなよ"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ"
+		}
+	],
+	"Arg2": "eb09010864a9ffef010b1f2b3348630060000224e2260f20"
+}

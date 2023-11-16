@@ -1,0 +1,42 @@
+{
+	"Args": "00041b0060203850",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Petra"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "*ahem*"
+		},
+		{
+			"Offset": 80,
+			"Text": "ポロン"
+		},
+		{
+			"Offset": 92,
+			"Text": "ポロ"
+		},
+		{
+			"Offset": 104,
+			"Text": "ポロン"
+		},
+		{
+			"Offset": 116,
+			"Text": "ポロ"
+		},
+		{
+			"Offset": 128,
+			"Text": "ポロロン"
+		},
+		{
+			"Offset": 140,
+			"Text": "ポロン"
+		}
+	],
+	"Arg2": "000c010870aeffef010c1e29334d63c028000722e2260f20"
+}

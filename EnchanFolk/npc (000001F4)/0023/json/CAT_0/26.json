@@ -1,0 +1,42 @@
+{
+	"Args": "000a190050204010",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Django"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "I see now..."
+		},
+		{
+			"Offset": 80,
+			"Text": "だ"
+		},
+		{
+			"Offset": 92,
+			"Text": "か"
+		},
+		{
+			"Offset": 104,
+			"Text": "ぜ"
+		},
+		{
+			"Offset": 116,
+			"Text": "んかよ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ぜ"
+		}
+	],
+	"Arg2": "330f0000659affef010b1f2d334e630420070815ec200a20"
+}

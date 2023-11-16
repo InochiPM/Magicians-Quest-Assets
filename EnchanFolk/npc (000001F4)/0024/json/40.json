@@ -1,0 +1,42 @@
+{
+	"Args": "000b010050204010",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "ハンフリー"
+		},
+		{
+			"Offset": 32,
+			"Text": "おれ"
+		},
+		{
+			"Offset": 44,
+			"Text": "ふっ…"
+		},
+		{
+			"Offset": 80,
+			"Text": "さ"
+		},
+		{
+			"Offset": 92,
+			"Text": "だな"
+		},
+		{
+			"Offset": 104,
+			"Text": "のさ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかい"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれよ"
+		},
+		{
+			"Offset": 140,
+			"Text": "か"
+		}
+	],
+	"Arg2": "330f000067a6ffef010b1f2d334a636120010f15ec1a0a20"
+}

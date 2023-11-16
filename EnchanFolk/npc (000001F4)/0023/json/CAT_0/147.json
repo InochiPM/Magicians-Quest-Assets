@@ -1,0 +1,42 @@
+{
+	"Args": "0006190038203828",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Lucciano"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Is there a word?"
+		},
+		{
+			"Offset": 80,
+			"Text": "だぜ"
+		},
+		{
+			"Offset": 92,
+			"Text": "か"
+		},
+		{
+			"Offset": 104,
+			"Text": "ぜ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のか"
+		},
+		{
+			"Offset": 128,
+			"Text": "おけよ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ぜ"
+		}
+	],
+	"Arg2": "660e00036b7bffef010b1f283251630060000b18ec260a20"
+}

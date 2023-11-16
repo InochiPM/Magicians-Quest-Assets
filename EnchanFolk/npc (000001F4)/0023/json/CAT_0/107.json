@@ -1,0 +1,42 @@
+{
+	"Args": "0005060040503038",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Tomatlla"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "Get a grip!"
+		},
+		{
+			"Offset": 80,
+			"Text": "なの"
+		},
+		{
+			"Offset": 92,
+			"Text": "なの"
+		},
+		{
+			"Offset": 104,
+			"Text": "の"
+		},
+		{
+			"Offset": 116,
+			"Text": "のね"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ"
+		}
+	],
+	"Arg2": "990d010772a6ffef050c1e29354f63e004000920d8260a20"
+}

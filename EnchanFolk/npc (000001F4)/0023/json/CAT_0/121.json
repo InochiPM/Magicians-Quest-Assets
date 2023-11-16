@@ -1,0 +1,42 @@
+{
+	"Args": "0009020050204010",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Luminard"
+		},
+		{
+			"Offset": 32,
+			"Text": "ボク"
+		},
+		{
+			"Offset": 44,
+			"Text": "I should clarify."
+		},
+		{
+			"Offset": 80,
+			"Text": "だよ"
+		},
+		{
+			"Offset": 92,
+			"Text": "か"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかな"
+		},
+		{
+			"Offset": 128,
+			"Text": "ほしいな"
+		},
+		{
+			"Offset": 140,
+			"Text": "かな"
+		}
+	],
+	"Arg2": "990d00006b9effef040a1f2d3654630040000e17e2260a20"
+}

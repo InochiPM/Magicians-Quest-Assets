@@ -1,0 +1,42 @@
+{
+	"Args": "00060b0060183020",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Conner"
+		},
+		{
+			"Offset": 32,
+			"Text": "オイラ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Don't panic!"
+		},
+		{
+			"Offset": 80,
+			"Text": "なのダ～"
+		},
+		{
+			"Offset": 92,
+			"Text": "なのカ～"
+		},
+		{
+			"Offset": 104,
+			"Text": "のダ～"
+		},
+		{
+			"Offset": 116,
+			"Text": "のカ～"
+		},
+		{
+			"Offset": 128,
+			"Text": "なのダ～"
+		},
+		{
+			"Offset": 140,
+			"Text": "なのダ～"
+		}
+	],
+	"Arg2": "000c0005a964ffef020d202a3351630060000b1900260a20"
+}

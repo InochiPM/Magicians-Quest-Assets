@@ -1,0 +1,42 @@
+{
+	"Args": "00000b0050204010",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "ジュリー"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "ケガするぜ？"
+		},
+		{
+			"Offset": 80,
+			"Text": "だ"
+		},
+		{
+			"Offset": 92,
+			"Text": "か"
+		},
+		{
+			"Offset": 104,
+			"Text": "ぞ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のか"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれ"
+		},
+		{
+			"Offset": 140,
+			"Text": "か"
+		}
+	],
+	"Arg2": "660e00007b9effef050b1f2d354e630020000815ec260a20"
+}

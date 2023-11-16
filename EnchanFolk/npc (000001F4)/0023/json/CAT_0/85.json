@@ -1,0 +1,42 @@
+{
+	"Args": "0008010038285848",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "James"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレさま"
+		},
+		{
+			"Offset": 44,
+			"Text": "Look at me!"
+		},
+		{
+			"Offset": 80,
+			"Text": "だわい"
+		},
+		{
+			"Offset": 92,
+			"Text": "ってかい"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだわい"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかい"
+		},
+		{
+			"Offset": 128,
+			"Text": "みっかい"
+		},
+		{
+			"Offset": 140,
+			"Text": "ってか"
+		}
+	],
+	"Arg2": "ae0b000371a9ffef020f222d3353630020000d1de2260520"
+}

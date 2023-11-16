@@ -1,0 +1,42 @@
+{
+	"Args": "0008170038503020",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Johnson"
+		},
+		{
+			"Offset": 32,
+			"Text": "ワタクシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "In a nutshell~"
+		},
+		{
+			"Offset": 80,
+			"Text": "ですな"
+		},
+		{
+			"Offset": 92,
+			"Text": "ですかい"
+		},
+		{
+			"Offset": 104,
+			"Text": "んですな"
+		},
+		{
+			"Offset": 116,
+			"Text": "でがしょ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれっか"
+		},
+		{
+			"Offset": 140,
+			"Text": "かねえ"
+		}
+	],
+	"Arg2": "eb0900046498ffef030d202d334763e02404011b00261920"
+}

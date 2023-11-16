@@ -1,0 +1,42 @@
+{
+	"Args": "0008040038584820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Cassady"
+		},
+		{
+			"Offset": 32,
+			"Text": "アタシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "I'll tell you!"
+		},
+		{
+			"Offset": 80,
+			"Text": "って"
+		},
+		{
+			"Offset": 92,
+			"Text": "って"
+		},
+		{
+			"Offset": 104,
+			"Text": "って"
+		},
+		{
+			"Offset": 116,
+			"Text": "のって"
+		},
+		{
+			"Offset": 128,
+			"Text": "って"
+		},
+		{
+			"Offset": 140,
+			"Text": "って"
+		}
+	],
+	"Arg2": "660e01067897ffef040c222c334a634000000424e2260a20"
+}

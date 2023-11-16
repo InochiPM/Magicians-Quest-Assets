@@ -1,0 +1,42 @@
+{
+	"Args": "0006040038185820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Stuart"
+		},
+		{
+			"Offset": 32,
+			"Text": "オレ"
+		},
+		{
+			"Offset": 44,
+			"Text": "YES!"
+		},
+		{
+			"Offset": 80,
+			"Text": "サ"
+		},
+		{
+			"Offset": 92,
+			"Text": "カーイ"
+		},
+		{
+			"Offset": 104,
+			"Text": "のヨ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のカーイ"
+		},
+		{
+			"Offset": 128,
+			"Text": "おくれヨ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ヨ"
+		}
+	],
+	"Arg2": "330f00016c9dffef020e212d324a63006000041de2260020"
+}

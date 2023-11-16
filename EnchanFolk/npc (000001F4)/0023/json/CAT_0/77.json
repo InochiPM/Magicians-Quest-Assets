@@ -1,0 +1,42 @@
+{
+	"Args": "0003040038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Victoria"
+		},
+		{
+			"Offset": 32,
+			"Text": "アタイ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Is it just me?"
+		},
+		{
+			"Offset": 80,
+			"Text": "だ……"
+		},
+		{
+			"Offset": 92,
+			"Text": "か……"
+		},
+		{
+			"Offset": 104,
+			"Text": "ぞ……"
+		},
+		{
+			"Offset": 116,
+			"Text": "のか……"
+		},
+		{
+			"Offset": 128,
+			"Text": "な……"
+		},
+		{
+			"Offset": 140,
+			"Text": "か……"
+		}
+	],
+	"Arg2": "e10e010b7196ffef050d202a3546630060000022e2261e20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "00030a0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Chocolate"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "*twirl*"
+		},
+		{
+			"Offset": 80,
+			"Text": "クル"
+		},
+		{
+			"Offset": 92,
+			"Text": "クルル…"
+		},
+		{
+			"Offset": 104,
+			"Text": "クル"
+		},
+		{
+			"Offset": 116,
+			"Text": "クルル…"
+		},
+		{
+			"Offset": 128,
+			"Text": "クルル"
+		},
+		{
+			"Offset": 140,
+			"Text": "クル"
+		}
+	],
+	"Arg2": "330b010a799dffef030b1f293647634020000125d8260a20"
+}

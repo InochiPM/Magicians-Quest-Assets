@@ -1,0 +1,42 @@
+{
+	"Args": "00011b0038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Geraldine"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "*chuckle*"
+		},
+		{
+			"Offset": 80,
+			"Text": "なのです"
+		},
+		{
+			"Offset": 92,
+			"Text": "ですか"
+		},
+		{
+			"Offset": 104,
+			"Text": "のです"
+		},
+		{
+			"Offset": 116,
+			"Text": "のですか"
+		},
+		{
+			"Offset": 128,
+			"Text": "ください"
+		},
+		{
+			"Offset": 140,
+			"Text": "かしら"
+		}
+	],
+	"Arg2": "330f010b76a1ffef040d202a354f636000000926ec261e20"
+}

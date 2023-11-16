@@ -1,0 +1,42 @@
+{
+	"Args": "0009120038503020",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Matthew"
+		},
+		{
+			"Offset": 32,
+			"Text": "ぼく"
+		},
+		{
+			"Offset": 44,
+			"Text": "Guess what?"
+		},
+		{
+			"Offset": 80,
+			"Text": "だよ"
+		},
+		{
+			"Offset": 92,
+			"Text": "だね"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだよ"
+		},
+		{
+			"Offset": 116,
+			"Text": "よね"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ"
+		},
+		{
+			"Offset": 140,
+			"Text": "か"
+		}
+	],
+	"Arg2": "cc0c00046697ffef030a1e2d364d63000005071cd8261920"
+}

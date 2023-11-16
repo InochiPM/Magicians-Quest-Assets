@@ -1,0 +1,42 @@
+{
+	"Args": "000b110060203850",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Cherry"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "Mmm...sweet."
+		},
+		{
+			"Offset": 80,
+			"Text": "ですわ"
+		},
+		{
+			"Offset": 92,
+			"Text": "ですの"
+		},
+		{
+			"Offset": 104,
+			"Text": "のですわ"
+		},
+		{
+			"Offset": 116,
+			"Text": "んですの"
+		},
+		{
+			"Offset": 128,
+			"Text": "ください"
+		},
+		{
+			"Offset": 140,
+			"Text": "のですわ"
+		}
+	],
+	"Arg2": "990d01086da2ffef010c21293654632040080e1fd8260f20"
+}

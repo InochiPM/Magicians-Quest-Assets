@@ -1,0 +1,42 @@
+{
+	"Args": "000b0c0060203850",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "ミント"
+		},
+		{
+			"Offset": 32,
+			"Text": "ミント"
+		},
+		{
+			"Offset": 44,
+			"Text": "I told you so!"
+		},
+		{
+			"Offset": 80,
+			"Text": "かも"
+		},
+		{
+			"Offset": 92,
+			"Text": "かも"
+		},
+		{
+			"Offset": 104,
+			"Text": "かも"
+		},
+		{
+			"Offset": 116,
+			"Text": "の"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ"
+		},
+		{
+			"Offset": 140,
+			"Text": "って"
+		}
+	],
+	"Arg2": "660e01087797ffef010c2229334863e02000021fd8260a20"
+}

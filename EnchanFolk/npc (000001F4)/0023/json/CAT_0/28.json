@@ -1,0 +1,42 @@
+{
+	"Args": "00031b0038584820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Tina"
+		},
+		{
+			"Offset": 32,
+			"Text": "あたい"
+		},
+		{
+			"Offset": 44,
+			"Text": "Listen up!"
+		},
+		{
+			"Offset": 80,
+			"Text": "だ"
+		},
+		{
+			"Offset": 92,
+			"Text": "か"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだ"
+		},
+		{
+			"Offset": 116,
+			"Text": "んか"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれ"
+		},
+		{
+			"Offset": 140,
+			"Text": "か"
+		}
+	],
+	"Arg2": "660e01066babffef010b1f29324a630040000427ec260a20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "0003180038503020",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Kelsey"
+		},
+		{
+			"Offset": 32,
+			"Text": "ぼく"
+		},
+		{
+			"Offset": 44,
+			"Text": "Actually..."
+		},
+		{
+			"Offset": 80,
+			"Text": "ですよ"
+		},
+		{
+			"Offset": 92,
+			"Text": "ですね"
+		},
+		{
+			"Offset": 104,
+			"Text": "のです"
+		},
+		{
+			"Offset": 116,
+			"Text": "のですか"
+		},
+		{
+			"Offset": 128,
+			"Text": "ください"
+		},
+		{
+			"Offset": 140,
+			"Text": "とおもう"
+		}
+	],
+	"Arg2": "cc0c000470a2ffef030a1e2d364b63e00000051cd8261920"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "00080e0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Brownie"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたくし"
+		},
+		{
+			"Offset": 44,
+			"Text": "Huh?"
+		},
+		{
+			"Offset": 80,
+			"Text": "だよ"
+		},
+		{
+			"Offset": 92,
+			"Text": "でしょ"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだよ"
+		},
+		{
+			"Offset": 116,
+			"Text": "んでしょ"
+		},
+		{
+			"Offset": 128,
+			"Text": "ね"
+		},
+		{
+			"Offset": 140,
+			"Text": "か"
+		}
+	],
+	"Arg2": "660e010a7597ffef010f222c364d632000000722e2261920"
+}

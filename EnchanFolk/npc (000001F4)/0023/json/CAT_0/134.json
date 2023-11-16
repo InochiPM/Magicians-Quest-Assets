@@ -1,0 +1,42 @@
+{
+	"Args": "0003120048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Stanley"
+		},
+		{
+			"Offset": 32,
+			"Text": "くわっち"
+		},
+		{
+			"Offset": 44,
+			"Text": "*quack* *quack*"
+		},
+		{
+			"Offset": 80,
+			"Text": "くわ"
+		},
+		{
+			"Offset": 92,
+			"Text": "くわ"
+		},
+		{
+			"Offset": 104,
+			"Text": "くわ"
+		},
+		{
+			"Offset": 116,
+			"Text": "くわ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれくわ"
+		},
+		{
+			"Offset": 140,
+			"Text": "くわ"
+		}
+	],
+	"Arg2": "3d0a000574a3ffef040d1e2d345363e028000d17e2260a20"
+}

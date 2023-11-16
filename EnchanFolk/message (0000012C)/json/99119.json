@@ -1,0 +1,320 @@
+[
+	{
+		"Index": 0,
+		"JPN": [
+			" Magical School",
+			"\f"
+		]
+	},
+	{
+		"Index": 1,
+		"JPN": [
+			"Name",
+			"\f"
+		]
+	},
+	{
+		"Index": 2,
+		"JPN": [
+			"Birthday",
+			"\f"
+		]
+	},
+	{
+		"Index": 3,
+		"JPN": [
+			"Sign",
+			"\f"
+		]
+	},
+	{
+		"Index": 4,
+		"JPN": [
+			"Issued",
+			"\f"
+		]
+	},
+	{
+		"Index": 5,
+		"JPN": [
+			"None",
+			"\f"
+		]
+	},
+	{
+		"Index": 10,
+		"JPN": [
+			"/",
+			"\f"
+		]
+	},
+	{
+		"Index": 11,
+		"JPN": [
+			"/",
+			"\f"
+		]
+	},
+	{
+		"Index": 12,
+		"JPN": [
+			"",
+			"\f"
+		]
+	},
+	{
+		"Index": 15,
+		"JPN": [
+			"The Broom",
+			"\f"
+		]
+	},
+	{
+		"Index": 16,
+		"JPN": [
+			"The Whirler",
+			"\f"
+		]
+	},
+	{
+		"Index": 17,
+		"JPN": [
+			"The Witches Nose",
+			"\f"
+		]
+	},
+	{
+		"Index": 18,
+		"JPN": [
+			"The Bats Wing",
+			"\f"
+		]
+	},
+	{
+		"Index": 19,
+		"JPN": [
+			"The Little Pot",
+			"\f"
+		]
+	},
+	{
+		"Index": 20,
+		"JPN": [
+			"The Lips",
+			"\f"
+		]
+	},
+	{
+		"Index": 21,
+		"JPN": [
+			"The Heart",
+			"\f"
+		]
+	},
+	{
+		"Index": 22,
+		"JPN": [
+			"The Big Pot",
+			"\f"
+		]
+	},
+	{
+		"Index": 23,
+		"JPN": [
+			"The Scale Tail",
+			"\f"
+		]
+	},
+	{
+		"Index": 24,
+		"JPN": [
+			"The Staff",
+			"\f"
+		]
+	},
+	{
+		"Index": 25,
+		"JPN": [
+			"The Hat",
+			"\f"
+		]
+	},
+	{
+		"Index": 26,
+		"JPN": [
+			"The Skull",
+			"\f"
+		]
+	},
+	{
+		"Index": 30,
+		"JPN": [
+			"Untrained",
+			"\f"
+		]
+	},
+	{
+		"Index": 31,
+		"JPN": [
+			"One Star",
+			"\f"
+		]
+	},
+	{
+		"Index": 32,
+		"JPN": [
+			"Two Star",
+			"\f"
+		]
+	},
+	{
+		"Index": 33,
+		"JPN": [
+			"Three Star",
+			"\f"
+		]
+	},
+	{
+		"Index": 34,
+		"JPN": [
+			"Four Star",
+			"\f"
+		]
+	},
+	{
+		"Index": 35,
+		"JPN": [
+			"Great Mage",
+			"\f"
+		]
+	},
+	{
+		"Index": 36,
+		"JPN": [
+			"Wise Wizard",
+			"\f"
+		]
+	},
+	{
+		"Index": 37,
+		"JPN": [
+			"Elegant Enchanter",
+			"\f"
+		]
+	},
+	{
+		"Index": 38,
+		"JPN": [
+			"Virtuous Vexer",
+			"\f"
+		]
+	},
+	{
+		"Index": 39,
+		"JPN": [
+			"Wicked Warlock",
+			"\f"
+		]
+	},
+	{
+		"Index": 40,
+		"JPN": [
+			"Matchmaker Magician",
+			"\f"
+		]
+	},
+	{
+		"Index": 41,
+		"JPN": [
+			"Ferocious Fashionista",
+			"\f"
+		]
+	},
+	{
+		"Index": 42,
+		"JPN": [
+			"Flower Mage",
+			"\f"
+		]
+	},
+	{
+		"Index": 43,
+		"JPN": [
+			"Stylish Sorcerer",
+			"\f"
+		]
+	},
+	{
+		"Index": 44,
+		"JPN": [
+			"Shaman Gentleman",
+			"\f"
+		]
+	},
+	{
+		"Index": 45,
+		"JPN": [
+			"Necromancer",
+			"\f"
+		]
+	},
+	{
+		"Index": 46,
+		"JPN": [
+			"Bug-caster",
+			"\f"
+		]
+	},
+	{
+		"Index": 47,
+		"JPN": [
+			"Fish-caster",
+			"\f"
+		]
+	},
+	{
+		"Index": 48,
+		"JPN": [
+			"Forgetful Magus",
+			"\f"
+		]
+	},
+	{
+		"Index": 49,
+		"JPN": [
+			"Splendid Magus",
+			"\f"
+		]
+	},
+	{
+		"Index": 96,
+		"JPN": [
+			"よくきたね<BREAK>ここは　はじまりとおわりの{部屋|へや}",
+			"{星|ほし}のめぐりを{見|み}て<BREAK>また　きみがここにくることは<BREAK>しっていたよ",
+			"\f"
+		]
+	},
+	{
+		"Index": 97,
+		"JPN": [
+			"きみの{名前|なまえ}を<BREAK>もういちどかくにんしてよいかな？",
+			"\f"
+		]
+	},
+	{
+		"Index": 98,
+		"JPN": [
+			"うむ…<BREAK><CMD>218227000080</CMD>という{名前|なまえ}だね",
+			"さて<BREAK>きみが{生|う}まれた{月|つき}を<BREAK>もういちど　{教|おし}えてくれるかな？",
+			"\f"
+		]
+	},
+	{
+		"Index": 99,
+		"JPN": [
+			"うむ　つぎに<BREAK>きみの　せいべつを<BREAK>もういちど　{教|おし}えてくれるかな？",
+			"<CMD>1380270001af</CMD>",
+			"\f"
+		]
+	}
+]

@@ -1,0 +1,42 @@
+{
+	"Args": "00080b0038185028",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Delcy"
+		},
+		{
+			"Offset": 32,
+			"Text": "おら"
+		},
+		{
+			"Offset": 44,
+			"Text": "Ayup."
+		},
+		{
+			"Offset": 80,
+			"Text": "だ"
+		},
+		{
+			"Offset": 92,
+			"Text": "か"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだ"
+		},
+		{
+			"Offset": 116,
+			"Text": "んか"
+		},
+		{
+			"Offset": 128,
+			"Text": "けろ"
+		},
+		{
+			"Offset": 140,
+			"Text": "か"
+		}
+	],
+	"Arg2": "cc0c01096799ffef030b1f28335263e140010c20ce260520"
+}

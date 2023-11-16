@@ -1,0 +1,42 @@
+{
+	"Args": "0004040048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Sammy"
+		},
+		{
+			"Offset": 32,
+			"Text": "ボク"
+		},
+		{
+			"Offset": 44,
+			"Text": "Just like that."
+		},
+		{
+			"Offset": 80,
+			"Text": "だよ"
+		},
+		{
+			"Offset": 92,
+			"Text": "なの"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかな"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ"
+		}
+	],
+	"Arg2": "9909000564a5ffef040a1e2d3449634128060f1cd8261e20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "00040f0038484018",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Loppy"
+		},
+		{
+			"Offset": 32,
+			"Text": "ボク"
+		},
+		{
+			"Offset": 44,
+			"Text": "I wonder why."
+		},
+		{
+			"Offset": 80,
+			"Text": "だよぉ"
+		},
+		{
+			"Offset": 92,
+			"Text": "かなぁ"
+		},
+		{
+			"Offset": 104,
+			"Text": "よぉ"
+		},
+		{
+			"Offset": 116,
+			"Text": "かなぁ"
+		},
+		{
+			"Offset": 128,
+			"Text": "よぉ"
+		},
+		{
+			"Offset": 140,
+			"Text": "よぉ"
+		}
+	],
+	"Arg2": "330b00048d74ffef040a1e283654630040000e17e2260a20"
+}

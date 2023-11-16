@@ -1,0 +1,42 @@
+{
+	"Args": "00061c0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Neville"
+		},
+		{
+			"Offset": 32,
+			"Text": "おいら"
+		},
+		{
+			"Offset": 44,
+			"Text": "I've had enough!"
+		},
+		{
+			"Offset": 80,
+			"Text": "だモグ"
+		},
+		{
+			"Offset": 92,
+			"Text": "かモグ"
+		},
+		{
+			"Offset": 104,
+			"Text": "んだモグ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかモグ"
+		},
+		{
+			"Offset": 128,
+			"Text": "モグ"
+		},
+		{
+			"Offset": 140,
+			"Text": "モグ"
+		}
+	],
+	"Arg2": "660a00056da0ffef040d202d324763002000011cd8261e20"
+}

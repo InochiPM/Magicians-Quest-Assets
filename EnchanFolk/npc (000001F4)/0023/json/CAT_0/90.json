@@ -1,0 +1,42 @@
+{
+	"Args": "00061d0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Christine"
+		},
+		{
+			"Offset": 32,
+			"Text": "ワタクシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Where was I...?"
+		},
+		{
+			"Offset": 80,
+			"Text": "ですわ"
+		},
+		{
+			"Offset": 92,
+			"Text": "ですの"
+		},
+		{
+			"Offset": 104,
+			"Text": "のですわ"
+		},
+		{
+			"Offset": 116,
+			"Text": "んですの"
+		},
+		{
+			"Offset": 128,
+			"Text": "ください"
+		},
+		{
+			"Offset": 140,
+			"Text": "かしら"
+		}
+	],
+	"Arg2": "660e010a659bffef030c1e29325363e144010d21ec261920"
+}

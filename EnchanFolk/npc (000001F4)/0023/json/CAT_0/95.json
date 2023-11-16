@@ -1,0 +1,42 @@
+{
+	"Args": "0007080038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Patsy"
+		},
+		{
+			"Offset": 32,
+			"Text": "マロン"
+		},
+		{
+			"Offset": 44,
+			"Text": "*sigh*"
+		},
+		{
+			"Offset": 80,
+			"Text": "だモン"
+		},
+		{
+			"Offset": 92,
+			"Text": "なモン"
+		},
+		{
+			"Offset": 104,
+			"Text": "モン"
+		},
+		{
+			"Offset": 116,
+			"Text": "のモン"
+		},
+		{
+			"Offset": 128,
+			"Text": "くり"
+		},
+		{
+			"Offset": 140,
+			"Text": "モン"
+		}
+	],
+	"Arg2": "660e010b6d9affef040c1e29364d632000000725d8261e20"
+}

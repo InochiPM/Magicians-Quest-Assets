@@ -1,0 +1,42 @@
+{
+	"Args": "0007060040203038",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Pyro"
+		},
+		{
+			"Offset": 32,
+			"Text": "おれっち"
+		},
+		{
+			"Offset": 44,
+			"Text": "*evil laughter*"
+		},
+		{
+			"Offset": 80,
+			"Text": "なんだゼ"
+		},
+		{
+			"Offset": 92,
+			"Text": "なのカ"
+		},
+		{
+			"Offset": 104,
+			"Text": "ゼ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のカ"
+		},
+		{
+			"Offset": 128,
+			"Text": "ほしいゼ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ゼ"
+		}
+	],
+	"Arg2": "3d0c0003719effef010f212b3253630020000d16ec260a20"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "0008110038503020",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Chester"
+		},
+		{
+			"Offset": 32,
+			"Text": "ぼくちん"
+		},
+		{
+			"Offset": 44,
+			"Text": "Nya-haha!"
+		},
+		{
+			"Offset": 80,
+			"Text": "でやんす"
+		},
+		{
+			"Offset": 92,
+			"Text": "っすか"
+		},
+		{
+			"Offset": 104,
+			"Text": "んす"
+		},
+		{
+			"Offset": 116,
+			"Text": "んすか"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれやす"
+		},
+		{
+			"Offset": 140,
+			"Text": "よ"
+		}
+	],
+	"Arg2": "660e000469abffef030a1e2d364b63000000051ae2261920"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "0003060038285848",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Joseph"
+		},
+		{
+			"Offset": 32,
+			"Text": "ジブン"
+		},
+		{
+			"Offset": 44,
+			"Text": "Tantalizing~"
+		},
+		{
+			"Offset": 80,
+			"Text": "だろ"
+		},
+		{
+			"Offset": 92,
+			"Text": "か"
+		},
+		{
+			"Offset": 104,
+			"Text": "だろ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかよ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれ"
+		},
+		{
+			"Offset": 140,
+			"Text": "な"
+		}
+	],
+	"Arg2": "660a000372a9ffef050e212d344c638044000618ec260a20"
+}

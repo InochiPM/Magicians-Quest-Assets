@@ -1,0 +1,42 @@
+{
+	"Args": "00071c0040503038",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Chelsea"
+		},
+		{
+			"Offset": 32,
+			"Text": "アタイ"
+		},
+		{
+			"Offset": 44,
+			"Text": "You understand?"
+		},
+		{
+			"Offset": 80,
+			"Text": "だッピ"
+		},
+		{
+			"Offset": 92,
+			"Text": "だピィ"
+		},
+		{
+			"Offset": 104,
+			"Text": "ッピ"
+		},
+		{
+			"Offset": 116,
+			"Text": "ッピィ"
+		},
+		{
+			"Offset": 128,
+			"Text": "よッピ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ッピ"
+		}
+	],
+	"Arg2": "660a0107769cffef050f222c344b63e000010520ce260020"
+}

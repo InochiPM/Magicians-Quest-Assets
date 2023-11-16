@@ -1,0 +1,42 @@
+{
+	"Args": "0003160038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Olivia"
+		},
+		{
+			"Offset": 32,
+			"Text": "あたしぃ"
+		},
+		{
+			"Offset": 44,
+			"Text": "I'm sorry but..."
+		},
+		{
+			"Offset": 80,
+			"Text": "なのぉ"
+		},
+		{
+			"Offset": 92,
+			"Text": "ですかぁ"
+		},
+		{
+			"Offset": 104,
+			"Text": "のですぅ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のでしょ"
+		},
+		{
+			"Offset": 128,
+			"Text": "よぉ"
+		},
+		{
+			"Offset": 140,
+			"Text": "よぉ"
+		}
+	],
+	"Arg2": "d90a010b75a6ffef040e212b344763e020000121ec201e20"
+}

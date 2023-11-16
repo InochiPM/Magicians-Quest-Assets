@@ -1,0 +1,42 @@
+{
+	"Args": "0002130038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "トット"
+		},
+		{
+			"Offset": 32,
+			"Text": "ワタシ"
+		},
+		{
+			"Offset": 44,
+			"Text": "ピヨピヨ"
+		},
+		{
+			"Offset": 80,
+			"Text": "ピヨ"
+		},
+		{
+			"Offset": 92,
+			"Text": "ピヨ"
+		},
+		{
+			"Offset": 104,
+			"Text": "ピヨ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のピヨ"
+		},
+		{
+			"Offset": 128,
+			"Text": "ピヨ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ピヨ"
+		}
+	],
+	"Arg2": "ae0b010b689affef040d202a354b63e020000e25d8261e20"
+}

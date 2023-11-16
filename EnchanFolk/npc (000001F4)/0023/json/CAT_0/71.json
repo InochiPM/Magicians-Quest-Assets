@@ -1,0 +1,42 @@
+{
+	"Args": "0004080038185820",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Eric"
+		},
+		{
+			"Offset": 32,
+			"Text": "ボク"
+		},
+		{
+			"Offset": 44,
+			"Text": "*Beep* *Boop*"
+		},
+		{
+			"Offset": 80,
+			"Text": "ピ"
+		},
+		{
+			"Offset": 92,
+			"Text": "ピポ"
+		},
+		{
+			"Offset": 104,
+			"Text": "のピ"
+		},
+		{
+			"Offset": 116,
+			"Text": "のピポ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれピ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ピ"
+		}
+	],
+	"Arg2": "990d000171aaffef050d202d324c63803800061ae2260020"
+}

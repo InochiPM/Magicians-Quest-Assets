@@ -1,0 +1,42 @@
+{
+	"Args": "00051d0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Michel"
+		},
+		{
+			"Offset": 32,
+			"Text": "ボク"
+		},
+		{
+			"Offset": 44,
+			"Text": "Hmmmmm..."
+		},
+		{
+			"Offset": 80,
+			"Text": "だね～"
+		},
+		{
+			"Offset": 92,
+			"Text": "だよね～"
+		},
+		{
+			"Offset": 104,
+			"Text": "よ～"
+		},
+		{
+			"Offset": 116,
+			"Text": "のかな～"
+		},
+		{
+			"Offset": 128,
+			"Text": "よ～"
+		},
+		{
+			"Offset": 140,
+			"Text": "よね～"
+		}
+	],
+	"Arg2": "000c000567a9ffef050d202d334963e06000031900261e20"
+}

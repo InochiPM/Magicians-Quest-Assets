@@ -1,0 +1,42 @@
+{
+	"Args": "000b040060184848",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Loco"
+		},
+		{
+			"Offset": 32,
+			"Text": "オイラ"
+		},
+		{
+			"Offset": 44,
+			"Text": "Good, isn't it?"
+		},
+		{
+			"Offset": 80,
+			"Text": "じゃん"
+		},
+		{
+			"Offset": 92,
+			"Text": "じゃん"
+		},
+		{
+			"Offset": 104,
+			"Text": "じゃん"
+		},
+		{
+			"Offset": 116,
+			"Text": "のカイ"
+		},
+		{
+			"Offset": 128,
+			"Text": "くれよナ"
+		},
+		{
+			"Offset": 140,
+			"Text": "ナ"
+		}
+	],
+	"Arg2": "000c00019176ffef030e222c344d630000000718ec260a20"
+}

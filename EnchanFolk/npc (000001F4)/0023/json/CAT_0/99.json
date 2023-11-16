@@ -1,0 +1,42 @@
+{
+	"Args": "00021d0038284818",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "Abigail"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたし"
+		},
+		{
+			"Offset": 44,
+			"Text": "But, like, um..."
+		},
+		{
+			"Offset": 80,
+			"Text": "…なの"
+		},
+		{
+			"Offset": 92,
+			"Text": "…なの"
+		},
+		{
+			"Offset": 104,
+			"Text": "の…"
+		},
+		{
+			"Offset": 116,
+			"Text": "の……"
+		},
+		{
+			"Offset": 128,
+			"Text": "ください"
+		},
+		{
+			"Offset": 140,
+			"Text": "とおもう"
+		}
+	],
+	"Arg2": "330b010b74abffef040a1e28354963e040000325d8261e20"
+}

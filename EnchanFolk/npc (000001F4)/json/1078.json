@@ -1,0 +1,42 @@
+{
+	"Args": "00070b0048285838",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "チャミィ"
+		},
+		{
+			"Offset": 32,
+			"Text": "わたくし"
+		},
+		{
+			"Offset": 44,
+			"Text": "んとね？"
+		},
+		{
+			"Offset": 80,
+			"Text": "だよ"
+		},
+		{
+			"Offset": 92,
+			"Text": "なの"
+		},
+		{
+			"Offset": 104,
+			"Text": "の"
+		},
+		{
+			"Offset": 116,
+			"Text": "の"
+		},
+		{
+			"Offset": 128,
+			"Text": "ね"
+		},
+		{
+			"Offset": 140,
+			"Text": "ね"
+		}
+	],
+	"Arg2": "330b010a73acffef030f222c364f63e004000925d8261920"
+}

@@ -1,0 +1,42 @@
+{
+	"Args": "0004140038185028",
+	"Strings": [
+		{
+			"Offset": 12,
+			"Text": "ココア"
+		},
+		{
+			"Offset": 32,
+			"Text": "I"
+		},
+		{
+			"Offset": 44,
+			"Text": "Hey, Hey!"
+		},
+		{
+			"Offset": 80,
+			"Text": " you know?"
+		},
+		{
+			"Offset": 92,
+			"Text": " you know?"
+		},
+		{
+			"Offset": 104,
+			"Text": " you know!"
+		},
+		{
+			"Offset": 116,
+			"Text": "の"
+		},
+		{
+			"Offset": 128,
+			"Text": " Hey!"
+		},
+		{
+			"Offset": 140,
+			"Text": " isn't that right?"
+		}
+	],
+	"Arg2": "660e010974a5ffef020d222a354863e240010224e2260520"
+}
