@@ -1,0 +1,39 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+<title>Color Depth Filter Plug-In </title>
+</head>
+<body>
+
+<h2 id="depth">Color Depth Filter Plug-In </h2>
+<p>In Photoshop, the RGB and alpha components each have a color depth of 8 bits (256 levels). But on the CTR, the color depth is only 1 to 6 bits when the format is L4, A4, LA4, RGB565, RGB5_A1, or RGBA4. <br> Use this filter to apply the color depth corresponding to the format. </p>
+
+<h3 id="depth_usage">Usage </h3>
+<p>Select all channels, and then from the <b>Filter</b> menu select <b>NintendoWare for CTR</b> &gt; <b>NW4C_ColorDepth</b>. A dialog box appears. </p>
+<p><img src="images/ColorDepthOpt1.gif" border="0"></p>
+<p>Select the format using the radio buttons. <br> The L4 and LA4 formats can be selected only if the image mode is set to <b>Grayscale</b>, or if the R, G, and B color components are all set to the same value for the image. <br> The A4 format can be selected only if the image mode is set to <b>Grayscale</b> or if there is an alpha channel. <br> The RGB565, RGB5_A1, and RGBA4 formats can be selected if the image mode is set to <b>RGB Color</b>. <br> Click <b>OK</b> to run the filter. </p>
+
+<h3 id="depth_notes">Notes </h3>
+
+<h4 id="depth_image_mode">Image Mode </h4>
+<p>The filter only runs if the image mode is <b>Grayscale</b> or <b>RGB Color</b>. <br> The filter cannot be run on files that use 16 bits per channel. </p>
+
+<h4 id="depth_alpha_chan">Alpha Channel </h4>
+<p>If an alpha channel is present, be sure to run the filter with all channels selected. (You can hold SHIFT and click to select multiple channels.) <br> You cannot run the filter if there are two or more alpha channels. </p>
+
+<h4 id="depth_layer">Layers </h4>
+<p>If there are multiple View layers, merge them before running the filter. <br> If the image includes only layers and no background, the pixel opacity is processed as the alpha if there is no alpha channel. </p>
+
+<h4 id="depth_mipmap">Using in Combination With Mipmaps </h4>
+<p>Use the following procedure to create a mipmap image to which the color depth filer has been applied. </p>
+<ol>
+<li>Create the mipmap image using the Mipmap Creation plug-in. </li>
+<li>Merge all layers. </li>
+<li>Apply the color depth filter. </li>
+</ol>
+
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

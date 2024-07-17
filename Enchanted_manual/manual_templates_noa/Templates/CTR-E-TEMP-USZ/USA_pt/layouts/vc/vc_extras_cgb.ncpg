@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2016-11-18T14:49:51.8271805-08:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Funções do Virtual Console</header>
+      <category />
+      <paneSet>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="307" y="36" />
+          <horizontalCombinedGroup>
+            <margin t="0" b="4" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_44">
+          <basePositionType x="Left" y="Top" />
+          <translate x="3" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="36" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_44C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_44LT">
+                <texMap imageName="threeb_heading_big_shadow" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_45">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="32" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_45C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_45LT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_45RT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_45LB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_45RB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_62">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: vc_extras_cgb.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>Funções especiais</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_62" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_63">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="49" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="80" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: vc_extras_cgb.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Alguns jogos de Virtual Console têm funções especiais que ajudam a manter a aparência e a forma original destes títulos.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_63" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="135" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="48" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_46">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="48" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="50" g="180" b="200" a="255" />
+              <vtxColRT r="50" g="180" b="200" a="255" />
+              <vtxColLB r="50" g="180" b="200" a="255" />
+              <vtxColRB r="50" g="180" b="200" a="255" />
+              <material name="Frame_46C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_46LT">
+                <texMap imageName="threeb_heading_mid_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_64">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="44" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: vc_extras_cgb.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="18.3333321" y="22" />
+            <text>Resolução original do &lt;no new line&gt;Game Boy Color&lt;/no new line&gt;</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_64" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_65">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="186" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="100" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: vc_extras_cgb.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Por exemplo, para ver o jogo na resolução original do primeiro console &lt;no new line&gt;Game Boy Color&lt;/no new line&gt;, aperte e segure &lt;img src=button_START/&gt; ou &lt;img src=button_SELECT/&gt; no menu HOME ao abrir o jogo.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_65" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="HorizonG_16">
+            <paneTree name="Frame_44" />
+            <paneTree name="HorizonG_17">
+              <paneTree name="Frame_45" />
+              <paneTree name="TextBox_62" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="TextBox_63" />
+          <paneTree name="HorizonG_18">
+            <paneTree name="Frame_46" />
+            <paneTree name="TextBox_64" />
+          </paneTree>
+          <paneTree name="TextBox_65" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="296" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="true" snapEnalbed="true">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>0</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../../textures/frame/threeb_heading_big_shadow.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_big_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_big_02.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_mid_01.tga" />
+      <textureFile imagePath="../../textures/hard/button_START.tga" />
+      <textureFile imagePath="../../textures/hard/button_SELECT.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

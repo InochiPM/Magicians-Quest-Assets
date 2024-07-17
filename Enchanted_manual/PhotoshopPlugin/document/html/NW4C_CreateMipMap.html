@@ -1,0 +1,51 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+<title>Mipmap Creation Plug-In </title>
+</head>
+<body>
+
+<h2><a name="create_mip">Mipmap Creation Plug-In</a></h2>
+<p>This plug-in runs on Photoshop to create mipmap images (images arranged side by side in shrinking sizes, with width and height shrunk by 1/2, 1/4, and so on). Each image created for each level becomes a separate layer. If you run the Mipmap Creation plug-in and then save the file in NW4C_Tga (NW4C_ctex) format, the mipmap data will be exported to the file. </p>
+
+<h3><a name="create_mip_create">Creating Mipmap Images</a></h3>
+<p>Prepare an image for the principal (top level) image. The width and height of this image must be values of 16 or greater that are powers of 2. <br> If a hidden layer has been selected, choose a shown layer. <br> From the <b>File</b> menu select <b>Automatic Processing</b> &gt; <b>NW4C_CreateMipMap</b>. A dialog box is displayed. </p>
+<p><img src="images/CreateMipMapOpt1.gif" border="0"></p>
+<p>Enter the number of mipmap levels. At this time, count the principal image as one level. The minimum number of levels is two. The maximum number of levels depends on the size of the original image, but the absolute maximum is eight. <br> Select <b>All</b> to create the maximum number of levels possible for an image of a particular size. <br> Select <b>All(ETC1)</b> to create the maximum number of levels possible for an image of a particular size when ETC1 compressed. (The maximum is seven.) <br> Click <b>OK</b> to create the mipmap images. <br> The images for each level are separate layers, arranged as shown in the following figure. </p>
+<p><a name="mipmap_image">Mipmap Images (number of levels = 3)</a><br> <img src="images/CreateMipMapResult1.gif" border="0"></p>
+<p>If you want to change the image pattern after creating the mipmap images, you must edit the data for each layer. However, layers must not be moved and image sizes must not be changed. <br> If a layer is unnecessary, the images can be merged. </p>
+
+<h3><a name="create_mip_restore">Restoring Mipmap Layers</a></h3>
+<p>When a file that has been saved in NW4C_Tga (NW4C_ctex) format after running the Mipmap Creation plug-in is later reloaded, all layers are merged. You can restore the layers for each level by running the Mipmap Creation plug-in on this file. <br> Even if images were not created using the Mipmap Creation plug-in, you can select the <b>Use MipMap</b> option when you save the file in NW4C_Tga (NW4C_ctex) format. Arrange the images next to each other, top-aligned, in shrinking sizes with each half the width and height of the other, and then run the Mipmap Creation plug-in. </p>
+
+<h3><a name="create_mip_change_levels">Changing the Number of Mipmap Levels</a></h3>
+<p>To change the number of mipmap levels, first change the width of the mipmap image and then run the Mipmap Creation plug-in. <br> For example, assume that a mipmap image with three levels has been created for a 32x32 original image. To change the number of levels to two, open <b>Canvas Size</b> in the <b>Image</b> menu and set the width to 48 (= 32 + 16) . (Keep the base position on the left.) The number of levels becomes 2 when you now run the Mipmap Creation plug-in. </p>
+
+<h3><a name="create_mip_from_v">Conversion From a Vertically Aligned Mipmap Image</a></h3>
+<p>A vertically aligned mipmap image can be converted to a horizontally aligned mipmap image by executing the mipmap creation plug-in on the vertically aligned image. (With a vertically aligned mipmap, each consecutive image has half the width and height of the previous image, and images are arranged vertically with their left edges aligned.) </p>
+
+<h3><a name="create_mip_notes">Notes</a></h3>
+
+<h4><a name="create_mip_image_mode">Image Mode</a></h4>
+<p>The plug-in only runs if the image mode is <b>Grayscale</b>, <b>Index Color</b>, or <b>RGB Color</b>. <br> If the image mode is <b>Index Color</b>, the plug-in changes the mode to <b>RGB Color</b>. A confirmation message is displayed when this is the case. Click <b>OK</b> to continue or <b>Cancel</b> to stop. <br> You cannot run the plug-in on files that use 16 bits per channel. </p>
+
+<h4><a name="create_mip_alpha_chan">Alpha Channel</a></h4>
+<p>Executing with more than one alpha channel is impossible. </p>
+
+<h4><a name="create_mip_layer">Layers</a></h4>
+<p>Automatically merge images to create a compressed image when there are multiple visible layers. </p>
+
+<h4><a name="create_mip_interp">Image Interpolation Methods</a></h4>
+<p>In PhotoShop, select <b>Edit</b> &gt; <b>Environment settings</b> &gt; <b>General</b> to select the interpolation method to use when shrinking the images. </p>
+
+<h4><a name="create_mip_save_load">Saving and Loading</a></h4>
+<p>When a file that has been saved in NW4C_Tga (NW4C_ctex) format after running the Mipmap Creation plug-in is later reloaded, all layers are merged. You can restore the layers for each level by running the Mipmap Creation plug-in after loading the file. <br> The contents of the margins created to the lower right of the image are not saved in NW4C_Tga (NW4C_ctex) format. </p>
+
+<h4><a name="create_mip_filter">Using With a Filter Plug-In</a></h4>
+<p>If you are going to apply a color depth filter or ETC filter, first run the Mipmap Creation plug-in and merge all layers. <br> A warning dialog box is displayed if you attempt to execute the Mipmap Creation plug-in on an image to which a color depth filter or ETC filter was already applied. </p>
+
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

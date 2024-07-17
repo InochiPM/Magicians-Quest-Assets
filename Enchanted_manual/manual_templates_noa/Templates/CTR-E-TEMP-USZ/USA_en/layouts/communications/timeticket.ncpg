@@ -1,0 +1,1608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2016-11-18T14:48:22.1721805-08:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Purchasing Passes</header>
+      <category />
+      <paneSet>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="22" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="18.3333321" y="22" />
+            <text>Purchasing Passes (Paid)</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="38" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="140" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>This game allows you to connect to the Internet, go to Nintendo eShop, and purchase a "pass" that will give you access to premium content for a specified period of time. Once you have a pass, you gain access to multiplayer co-op.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="189" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Durations of Passes</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="215" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="120" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Passes are activated immediately after purchase. If you purchase another pass before a currently active pass expires, the number of days left on your current pass will be added to the new one.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="914" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="240" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;The purchase screen shows a list of the types and prices of the available passes.
+&lt;indent/&gt;To purchase passes or extra items, you must first add funds to your account in Nintendo eShop.
+&lt;indent/&gt;Once a pass expires, it will not be renewed automatically, even if you have enough funds in your account to do so. If you wish to continue service, you must purchase another pass.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_04" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1164" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>How to Purchase Passes</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1189" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="● " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Procedure</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_06" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="91" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="1. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;On the title screen, tap &lt;color rgb=000000&gt;Purchase Pass&lt;/color&gt;.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_12">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>true</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="200" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="79" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="60" g="60" b="60" a="255" />
+              <vtxColRT r="60" g="60" b="60" a="255" />
+              <vtxColLB r="60" g="60" b="60" a="255" />
+              <vtxColRB r="60" g="60" b="60" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="224" y="32" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="58" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true">
+            <fontSize x="16.666666" y="20" />
+            <text>sample</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_14" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="2. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Select a duration for the pass you want to purchase, and select &lt;color rgb=000000&gt;Purchase&lt;/color&gt;.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_13">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="60" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="54" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="　◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Confirm the notes about the content shown on the screen, and then select &lt;color rgb=000000&gt;Next&lt;/color&gt;.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_11" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_29">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="3. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Select &lt;color rgb=000000&gt;Purchase&lt;/color&gt;.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_29">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_30">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="36" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="　◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Read any additional information that is available.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_30" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_32">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="4. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Select &lt;color rgb=000000&gt;Purchase&lt;/color&gt; again.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_32">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_33">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="　• " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;The download begins.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_33" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="91" />
+          <group>
+            <layoutPosition>Top</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1213" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="91" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1307" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="114" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1483" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1424" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="56" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="176" y="545" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="22" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="128" a="255" />
+              <vtxColRT r="0" g="0" b="128" a="255" />
+              <vtxColLB r="0" g="0" b="128" a="255" />
+              <vtxColRB r="0" g="0" b="128" a="255" />
+              <material name="Frame_16C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="439" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="22" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="2" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="168" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="22" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="220" g="220" b="220" a="255" />
+              <vtxColRT r="220" g="220" b="220" a="255" />
+              <vtxColLB r="220" g="220" b="220" a="255" />
+              <vtxColRB r="220" g="220" b="220" a="255" />
+              <material name="Frame_15C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="168" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="18" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>Pass is expired</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_17" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Window" name="Frame_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="168" y="22" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="128" a="255" />
+              <vtxColRT r="0" g="0" b="128" a="255" />
+              <vtxColLB r="0" g="0" b="128" a="255" />
+              <vtxColRB r="0" g="0" b="128" a="255" />
+              <material name="Frame_14C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="168" y="18" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>Pass is valid</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_16" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="176" y="799" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="22" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="2" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="22" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="128" a="255" />
+              <vtxColRT r="0" g="0" b="128" a="255" />
+              <vtxColLB r="0" g="0" b="128" a="255" />
+              <vtxColRB r="0" g="0" b="128" a="255" />
+              <material name="Frame_17C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_26">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="18" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>Pass extended</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_26" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="343" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="23" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="2" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="23" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_18C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="18" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="12" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="200" g="230" b="255" a="255" />
+              <vtxColRT r="200" g="230" b="255" a="255" />
+              <vtxColLB r="200" g="230" b="255" a="255" />
+              <vtxColRB r="200" g="230" b="255" a="255" />
+              <material name="Frame_20C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="4" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_21C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="16" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="2" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_22C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_28">
+          <basePositionType x="Left" y="Top" />
+          <translate x="17" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="280" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Purchasing a 30-day pass</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_28" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="655" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="43" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="2" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="43" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_23C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="1.5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="39" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_24">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="33" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="200" g="230" b="255" a="255" />
+              <vtxColRT r="200" g="230" b="255" a="255" />
+              <vtxColLB r="200" g="230" b="255" a="255" />
+              <vtxColRB r="200" g="230" b="255" a="255" />
+              <material name="Frame_24C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_25">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="4" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_25C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_26">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="37" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="2" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_26C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="17" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="280" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Purchasing a 30-day pass before the current pass expires</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_21" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="775" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="168" y="22" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="2" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="168" y="22" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="128" a="255" />
+              <vtxColRT r="0" g="0" b="128" a="255" />
+              <vtxColLB r="0" g="0" b="128" a="255" />
+              <vtxColRB r="0" g="0" b="128" a="255" />
+              <material name="Frame_19C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_27">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="168" y="18" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>Pass is valid</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_27" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_25">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="157" y="54" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>The pass will now last until 8:00 p.m. on October 31st</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_25" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="36" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>Purchase at 8:00 p.m. on September 1st (pass is valid immediately)</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_23" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="376" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="61" />
+          <group>
+            <layoutPosition>Bottom</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="36" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>Purchase at 8:00 p.m. on September 1st (pass is valid immediately)</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_18" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="210" y="36" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>At 8:00 p.m. on October 1st, the pass expires</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_19" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="801" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="123" y="80" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_24">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="116" y="54" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>Purchase an additional &lt;no new line&gt;30-day&lt;/no new line&gt; pass</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_24" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="6" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="293" y="36" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>To extend the validity period, you'll need to purchase another pass</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_20" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1536" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Notes About Passes</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_07" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1561" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="220" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;You can check purchase information, such as the transaction date, in the &lt;color rgb=000000&gt;Account Activity&lt;/color&gt; section of Nintendo eShop.
+&lt;indent/&gt;After purchase, passes cannot be returned, refunded, or exchanged.
+&lt;indent/&gt;It is not possible to purchase a pass that lasts more than 360 days.
+&lt;indent/&gt;These passes can only be used with this software title.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_08" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1792" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Adding Funds to Your Account</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_09" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1819" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="140" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>You must have sufficient funds in your Nintendo eShop account to cover the purchase price of the pass. If you do not have enough funds in your account, select &lt;color rgb=000000&gt;Add Funds&lt;/color&gt; when prompted to add funds to your account.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_10" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1966" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>A Nintendo eShop Card or credit card is needed to add funds to your account.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_15" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_31">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="2034" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="162" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: timeticket.ncpg &#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;You can store your credit-card information, which lets you add funds to your account by simply entering the password you established when you first entered the credit-card information.
+&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;You can delete the credit-card information at any time by accessing &lt;color rgb=000000&gt;Settings / Other&lt;/color&gt; in Nintendo eShop.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_31" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Window" name="Callout_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="44" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="0" a="0" />
+              <vtxColRT r="0" g="0" b="0" a="0" />
+              <vtxColLB r="0" g="0" b="0" a="0" />
+              <vtxColRB r="0" g="0" b="0" a="0" />
+              <material name="Callout_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Callout_00LT">
+                <texMap imageName="bubble_corner" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Spike_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="2" y="42" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="30" y="19" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Spike_00">
+              <texMap imageName="bubble_spike_slant" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Group_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="71" y="465" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="215" y="62" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Callout_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="215" y="44" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="0" a="0" />
+              <vtxColRT r="0" g="0" b="0" a="0" />
+              <vtxColLB r="0" g="0" b="0" a="0" />
+              <vtxColRB r="0" g="0" b="0" a="0" />
+              <material name="Callout_01C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Callout_01LT">
+                <texMap imageName="bubble_corner" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Spike_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="99" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="12" y="20" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>Rotate180</textureFlip>
+            <material name="Spike_01">
+              <texMap imageName="bubble_spike" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Group_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="570" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="62" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Callout_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="44" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="0" a="0" />
+              <vtxColRT r="0" g="0" b="0" a="0" />
+              <vtxColLB r="0" g="0" b="0" a="0" />
+              <vtxColRB r="0" g="0" b="0" a="0" />
+              <material name="Callout_02C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Callout_02LT">
+                <texMap imageName="bubble_corner" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Spike_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="163" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="12" y="20" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>Rotate180</textureFlip>
+            <material name="Spike_02">
+              <texMap imageName="bubble_spike" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Group_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="711" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="61" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Callout_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="44" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="0" a="0" />
+              <vtxColRT r="0" g="0" b="0" a="0" />
+              <vtxColLB r="0" g="0" b="0" a="0" />
+              <vtxColRB r="0" g="0" b="0" a="0" />
+              <material name="Callout_04C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Callout_04LT">
+                <texMap imageName="bubble_corner" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Spike_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="2" y="42" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="30" y="19" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Spike_04">
+              <texMap imageName="bubble_spike_slant" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Group_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="123" y="80" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Callout_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="123" y="62" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="0" a="0" />
+              <vtxColRT r="0" g="0" b="0" a="0" />
+              <vtxColLB r="0" g="0" b="0" a="0" />
+              <vtxColRB r="0" g="0" b="0" a="0" />
+              <material name="Callout_03C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Callout_03LT">
+                <texMap imageName="bubble_corner" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Spike_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="64" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="12" y="20" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>Rotate180</textureFlip>
+            <material name="Spike_03">
+              <texMap imageName="bubble_spike" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Group_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="150" y="823" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="162" y="79" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Callout_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="162" y="62" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="0" a="0" />
+              <vtxColRT r="0" g="0" b="0" a="0" />
+              <vtxColLB r="0" g="0" b="0" a="0" />
+              <vtxColRB r="0" g="0" b="0" a="0" />
+              <material name="Callout_05C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Callout_05LT">
+                <texMap imageName="bubble_corner" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Spike_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="131" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="30" y="19" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>Rotate180</textureFlip>
+            <material name="Spike_05">
+              <texMap imageName="bubble_spike_slant" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="44" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="215" y="44" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="44" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="44" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="123" y="62" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="17" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="162" y="62" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_00" />
+          <paneTree name="TextBox_01" />
+          <paneTree name="TextBox_02" />
+          <paneTree name="TextBox_03" />
+          <paneTree name="TextBox_04" />
+          <paneTree name="TextBox_05" />
+          <paneTree name="TextBox_06" />
+          <paneTree name="Group_14">
+            <paneTree name="Group_13">
+              <paneTree name="Frame_00" />
+              <paneTree name="TextBox_12" />
+            </paneTree>
+            <paneTree name="TextBox_14" />
+          </paneTree>
+          <paneTree name="Group_17">
+            <paneTree name="TextBox_11" />
+            <paneTree name="TextBox_13" />
+          </paneTree>
+          <paneTree name="Group_21">
+            <paneTree name="TextBox_33" />
+            <paneTree name="TextBox_32" />
+          </paneTree>
+          <paneTree name="Group_22">
+            <paneTree name="TextBox_30" />
+            <paneTree name="TextBox_29" />
+          </paneTree>
+          <paneTree name="Frame_16" />
+          <paneTree name="HorizonG_07">
+            <paneTree name="Frame_15" />
+            <paneTree name="TextBox_17" />
+            <paneTree name="Frame_14" />
+            <paneTree name="TextBox_16" />
+          </paneTree>
+          <paneTree name="HorizonG_08">
+            <paneTree name="Frame_17" />
+            <paneTree name="TextBox_26" />
+          </paneTree>
+          <paneTree name="HorizonG_09">
+            <paneTree name="Frame_18" />
+            <paneTree name="Group_02">
+              <paneTree name="Frame_20" />
+              <paneTree name="Frame_21" />
+              <paneTree name="Frame_22" />
+            </paneTree>
+            <paneTree name="TextBox_28" />
+          </paneTree>
+          <paneTree name="HorizonG_10">
+            <paneTree name="Frame_23" />
+            <paneTree name="Group_03">
+              <paneTree name="Frame_24" />
+              <paneTree name="Frame_25" />
+              <paneTree name="Frame_26" />
+            </paneTree>
+            <paneTree name="TextBox_21" />
+          </paneTree>
+          <paneTree name="HorizonG_11">
+            <paneTree name="Frame_19" />
+            <paneTree name="TextBox_27" />
+          </paneTree>
+          <paneTree name="Group_15">
+            <paneTree name="HorizonG_05">
+              <paneTree name="Callout_05" />
+              <paneTree name="TextBox_25" />
+            </paneTree>
+            <paneTree name="Spike_05" />
+          </paneTree>
+          <paneTree name="Group_12">
+            <paneTree name="HorizonG_03">
+              <paneTree name="Callout_04" />
+              <paneTree name="TextBox_23" />
+            </paneTree>
+            <paneTree name="Spike_04" />
+          </paneTree>
+          <paneTree name="Group_01">
+            <paneTree name="HorizonG_00">
+              <paneTree name="Callout_00" />
+              <paneTree name="TextBox_18" />
+            </paneTree>
+            <paneTree name="Spike_00" />
+          </paneTree>
+          <paneTree name="Group_09">
+            <paneTree name="HorizonG_01">
+              <paneTree name="Callout_01" />
+              <paneTree name="TextBox_19" />
+            </paneTree>
+            <paneTree name="Spike_01" />
+          </paneTree>
+          <paneTree name="Group_07">
+            <paneTree name="Group_11">
+              <paneTree name="HorizonG_04">
+                <paneTree name="Callout_03" />
+                <paneTree name="TextBox_24" />
+              </paneTree>
+              <paneTree name="Spike_03" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="Group_10">
+            <paneTree name="HorizonG_02">
+              <paneTree name="Callout_02" />
+              <paneTree name="TextBox_20" />
+            </paneTree>
+            <paneTree name="Spike_02" />
+          </paneTree>
+          <paneTree name="TextBox_07" />
+          <paneTree name="TextBox_08" />
+          <paneTree name="TextBox_09" />
+          <paneTree name="TextBox_10" />
+          <paneTree name="TextBox_15" />
+          <paneTree name="TextBox_31" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="2206" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>32</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../../textures/other/gray.tga" />
+      <textureFile imagePath="../../textures/frame/bubble_corner.tga" />
+      <textureFile imagePath="../../textures/frame/bubble_spike.tga" />
+      <textureFile imagePath="../../textures/frame/bubble_spike_slant.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

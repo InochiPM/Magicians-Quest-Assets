@@ -1,0 +1,45 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+<title>ETC Filter Plug-In </title>
+</head>
+<body>
+
+<h2 id="etc">ETC Filter Plug-In </h2>
+<p>Running this filter applies an ETC compression format to what is displayed. </p>
+
+<h3 id="etc_usage">Usage </h3>
+<p>Select all channels and select <b>Filter</b> &gt; <b>NintendoWare for CTR</b> &gt; <b>NW4C_ETC</b>. A dialog box appears. </p>
+<p><img src="images/EtcOpt1.gif" border="0"></p>
+<p><strong>Format</strong> displays the format being applied (ETC1 or ETC1_A4). If the alpha channel is selected, or if the selected layer contains transparent pixels, <b>ETC1_A4</b> is displayed. <b>ETC1_A4</b> is also displayed if the image height or width is less than 16. (If it is a mipmap image, the determination is based on the height and width of the smallest level.) <br> For <b>ETC Encoding</b>, select the compression method. <br> <strong>Fast</strong>, <strong>Medium</strong>, and <strong>Slow</strong> indicate the compression-calculation speed. A slower calculation speed can improve image quality. <br> Options that contain the word <b>Perceptual</b> are compression methods that calculate the G color component with less error. (Humans perceive green better than other colors). If you are working with textures for normal maps, we recommend using a method marked as <b>Perceptual</b>. <br> Click <b>OK</b> to run the filter. </p>
+
+<h3 id="etc_notes">Notes </h3>
+
+<h4 id="etc_image_mode">Image Mode </h4>
+<p>The filter only runs if the image mode is <b>RGB Color</b>. <br> You cannot run the filter on 16-bits-per-channel files. </p>
+
+<h4 id="etc_image_size">Image Size </h4>
+<p>The filter only runs if the height and width of the image are both powers of two between 8 and 1024. <br> But it can also run on mipmap and cube map images. </p>
+
+<h4 id="etc_alpha_chan">Alpha Channel </h4>
+<p>If an alpha channel is present, be sure to run the filter with all channels selected. (You can hold SHIFT and click to select multiple channels.) <br> You cannot run the filter if there are two or more alpha channels. </p>
+
+<h4 id="etc_layer">Layers </h4>
+<p>If there are multiple View layers, merge them before running the filter. <br> If the image includes only layers and no background, the pixel opacity is processed as the alpha if there is no alpha channel. </p>
+
+<h4 id="etc_redo">Re-executing the Filter </h4>
+<p>If the image has not been edited since the last time the ETC filter was applied, a warning dialog box is displayed when the filter is applied a second time. Click <b>Yes</b> to continue or <b>No</b> to cancel. </p>
+
+<h4 id="etc_mipmap">Using in Combination With Mipmaps </h4>
+<p>Use the following procedure to create mipmap images that have an ETC filter applied. </p>
+<ol>
+<li>Create the mipmap image using the Mipmap Creation plug-in. </li>
+<li>Merge all layers. </li>
+<li>Apply an ETC filter. </li>
+</ol>
+
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

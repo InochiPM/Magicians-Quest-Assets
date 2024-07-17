@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2021-08-25T19:54:21.1803793-04:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Moving Along</header>
+      <category />
+      <paneSet>
+        <pane kind="Picture" name="Picture_00" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="130" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_00">
+              <texMap imageName="tb_bt_ill_spring.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_01" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="110" y="35" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="52" y="77" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_01">
+              <texMap imageName="tb_chara_06_pc.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_02" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="165" y="48" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="59" y="61" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_02">
+              <texMap imageName="tb_chara_06_npc.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Base_Footer" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="720" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="130" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Picture" name="Picture_03" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="10" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_03">
+              <texMap imageName="tb_spr_up_bar.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Window" name="Frame_00" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="303" y="52" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="204" b="204" a="255" />
+              <vtxColRT r="255" g="204" b="204" a="255" />
+              <vtxColLB r="255" g="204" b="204" a="255" />
+              <vtxColRB r="255" g="204" b="204" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00LT">
+                <texMap imageName="tb_spr_mid.bclim.00" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_04" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="26" y="16" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_04">
+              <texMap imageName="tb_same_mid_mark.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_05" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="294" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="26" y="16" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>FlipH</textureFlip>
+            <material name="Picture_05">
+              <texMap imageName="tb_same_mid_mark.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Group_00" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="25" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="52" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_01" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="230" b="100" a="255" />
+              <vtxColRT r="255" g="230" b="100" a="255" />
+              <vtxColLB r="255" g="230" b="100" a="255" />
+              <vtxColRB r="255" g="230" b="100" a="255" />
+              <material name="Frame_01C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_06" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="77" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_06">
+              <texMap imageName="07_01.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Picture02" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="176" y="96" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="84" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_02" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="303" y="52" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="204" b="204" a="255" />
+              <vtxColRT r="255" g="204" b="204" a="255" />
+              <vtxColLB r="255" g="204" b="204" a="255" />
+              <vtxColRB r="255" g="204" b="204" a="255" />
+              <material name="Frame_02C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02LT">
+                <texMap imageName="tb_spr_mid.bclim.00" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_07" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="26" y="16" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_07">
+              <texMap imageName="tb_same_mid_mark.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_08" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="294" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="26" y="16" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>FlipH</textureFlip>
+            <material name="Picture_08">
+              <texMap imageName="tb_same_mid_mark.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Group_02" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="1" y="259" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="52" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_03" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="105" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="230" b="100" a="255" />
+              <vtxColRT r="255" g="230" b="100" a="255" />
+              <vtxColLB r="255" g="230" b="100" a="255" />
+              <vtxColRB r="255" g="230" b="100" a="255" />
+              <material name="Frame_03C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_09" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="96" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_09">
+              <texMap imageName="07_02.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Picture01" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="168" y="327" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="105" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_01" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="495" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="320" y="52" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_04" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="303" y="52" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="204" b="204" a="255" />
+              <vtxColRT r="255" g="204" b="204" a="255" />
+              <vtxColLB r="255" g="204" b="204" a="255" />
+              <vtxColRB r="255" g="204" b="204" a="255" />
+              <material name="Frame_04C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_04LT">
+                <texMap imageName="tb_spr_mid.bclim.00" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_10" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="26" y="16" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_10">
+              <texMap imageName="tb_same_mid_mark.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Picture" name="Picture_11" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="294" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="26" y="16" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>FlipH</textureFlip>
+            <material name="Picture_11">
+              <texMap imageName="tb_same_mid_mark.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="Null" name="Picture03" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="176" y="566" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="84" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_05" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="136" y="84" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="230" b="100" a="255" />
+              <vtxColRT r="255" g="230" b="100" a="255" />
+              <vtxColLB r="255" g="230" b="100" a="255" />
+              <vtxColRB r="255" g="230" b="100" a="255" />
+              <material name="Frame_05C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_12" locked="true">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="77" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_12">
+              <texMap imageName="07_03.bclim.00" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="31" y="31" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="258" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666666" y="20" />
+            <text>Studying at the School of Magic (→11~12)</text>
+            <topColor r="145" g="32" b="32" a="255" />
+            <bottomColor r="145" g="32" b="32" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="86" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="100" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666666" y="20" />
+            <text>At the school of magic we learn all sorts from Living, Magic, Shops and Fasion!</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="188" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666666" y="20" />
+            <text>We can also customize the classroom to shhh!</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="29" y="264" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="258" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666666" y="20" />
+            <text>Developing the Shoppinf Mall (→19)</text>
+            <topColor r="145" g="32" b="32" a="255" />
+            <bottomColor r="145" g="32" b="32" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="327" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="140" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666666" y="20" />
+            <text>In the shopping mall, you can changed the shops around that ou got through streetpass &lt;img src=passing_icon.bclim.00/&gt; and from your friedns as well!</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="29" y="500" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="258" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666666" y="20" />
+            <text>Enjoying Fashion
+(→21~24)</text>
+            <topColor r="145" g="32" b="32" a="255" />
+            <bottomColor r="145" g="32" b="32" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_06" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="558" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="100" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666666" y="20" />
+            <text>You can change your outfit to mach fashion trends or something you made up yourself!</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_07" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="661" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666666" y="20" />
+            <text>If you get recognized your outfit might be be featured in a magazine!</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_08" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="Base_Footer">
+            <paneTree name="Picture_00" />
+            <paneTree name="Picture_01" />
+            <paneTree name="Picture_02" />
+          </paneTree>
+          <paneTree name="Picture_03" />
+          <paneTree name="Picture02">
+            <paneTree name="Frame_01" />
+            <paneTree name="Picture_06" />
+          </paneTree>
+          <paneTree name="Group_00">
+            <paneTree name="Frame_00" />
+            <paneTree name="Picture_04" />
+            <paneTree name="Picture_05" />
+          </paneTree>
+          <paneTree name="Picture01">
+            <paneTree name="Frame_03" />
+            <paneTree name="Picture_09" />
+          </paneTree>
+          <paneTree name="Group_02">
+            <paneTree name="Frame_02" />
+            <paneTree name="Picture_07" />
+            <paneTree name="Picture_08" />
+          </paneTree>
+          <paneTree name="Picture03">
+            <paneTree name="Frame_05" />
+            <paneTree name="Picture_12" />
+          </paneTree>
+          <paneTree name="Group_01">
+            <paneTree name="Frame_04" />
+            <paneTree name="Picture_10" />
+            <paneTree name="Picture_11" />
+          </paneTree>
+          <paneTree name="TextBox_00" />
+          <paneTree name="TextBox_01" />
+          <paneTree name="TextBox_02" />
+          <paneTree name="TextBox_03" />
+          <paneTree name="TextBox_05" />
+          <paneTree name="TextBox_06" />
+          <paneTree name="TextBox_07" />
+          <paneTree name="TextBox_08" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="860" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="228" g="228" b="228" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="158" g="158" b="158" a="64" />
+        </guide>
+        <maxEqualCharSpace>2</maxEqualCharSpace>
+        <textBoxCounter>9</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../textures/tb_bt_ill_spring.bclim.00.tga" />
+      <textureFile imagePath="../textures/tb_chara_06_pc.bclim.00.tga" />
+      <textureFile imagePath="../textures/tb_chara_06_npc.bclim.00.tga" />
+      <textureFile imagePath="../textures/tb_spr_up_bar.bclim.00.tga" />
+      <textureFile imagePath="../textures/tb_spr_mid.bclim.00.tga" />
+      <textureFile imagePath="../textures/tb_same_mid_mark.bclim.00.tga" />
+      <textureFile imagePath="../textures/07_01.bclim.00.tga" />
+      <textureFile imagePath="../textures/07_02.bclim.00.tga" />
+      <textureFile imagePath="../textures/07_03.bclim.00.tga" />
+      <textureFile imagePath="../textures/passing_icon.bclim.00.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2016-11-18T14:48:25.6531805-08:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Multipurpose Headings</header>
+      <category />
+      <paneSet>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="35" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="121" b="222" a="255" />
+              <vtxColRT r="0" g="121" b="222" a="255" />
+              <vtxColLB r="0" g="121" b="222" a="255" />
+              <vtxColRB r="0" g="121" b="222" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00LT">
+                <texMap imageName="freeblue_big_heading_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="16" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="13.333333" y="16" />
+            <text>Multipurpose Graphic Headings</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_08" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="291" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="20" y="24" />
+            <text>Insert Heading Text Here</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="35" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="6" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="70" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="35" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="6" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="35" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="28" b="8" a="255" />
+              <vtxColRT r="255" g="28" b="8" a="255" />
+              <vtxColLB r="255" g="28" b="8" a="255" />
+              <vtxColRB r="255" g="28" b="8" a="255" />
+              <material name="Frame_01C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_01LT">
+                <texMap imageName="freered_big_heading_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="291" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="20" y="24" />
+            <text>Insert Heading Text Here</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="111" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="35" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="6" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="35" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="121" b="222" a="255" />
+              <vtxColRT r="0" g="121" b="222" a="255" />
+              <vtxColLB r="0" g="121" b="222" a="255" />
+              <vtxColRB r="0" g="121" b="222" a="255" />
+              <material name="Frame_02C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02LT">
+                <texMap imageName="freeblue_big_heading_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_02RT">
+                <texMap imageName="freeblue_big_heading_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_02LB">
+                <texMap imageName="freeblue_big_heading_02_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02RB">
+                <texMap imageName="freeblue_big_heading_02_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="291" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="20" y="24" />
+            <text>Insert Heading Text Here</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="152" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="35" />
+          <horizontalCombinedGroup>
+            <margin t="5" b="6" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="35" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="28" b="8" a="255" />
+              <vtxColRT r="255" g="28" b="8" a="255" />
+              <vtxColLB r="255" g="28" b="8" a="255" />
+              <vtxColRB r="255" g="28" b="8" a="255" />
+              <material name="Frame_03C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_03LT">
+                <texMap imageName="freered_big_heading_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_03RT">
+                <texMap imageName="freered_big_heading_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_03LB">
+                <texMap imageName="freered_big_heading_02_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_03RB">
+                <texMap imageName="freered_big_heading_02_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="291" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="20" y="24" />
+            <text>Insert Heading Text Here</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="195" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="16" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="13.333333" y="16" />
+            <text>Multipurpose Graphic Sub-Headings</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_09" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="215" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="27" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="27" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_04C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_04LT">
+                <texMap imageName="freeblue_mid_heading" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="290" y="22" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="18.3333321" y="22" />
+            <text>Insert Text for Sub-Heading</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_04" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="246" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="27" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="27" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="66" b="8" a="255" />
+              <vtxColRT r="255" g="66" b="8" a="255" />
+              <vtxColLB r="255" g="66" b="8" a="255" />
+              <vtxColRB r="255" g="66" b="8" a="255" />
+              <material name="Frame_05C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_05LT">
+                <texMap imageName="freered_mid_heading" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="290" y="22" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="18.3333321" y="22" />
+            <text>Insert Text for Sub-Heading</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Window" name="Frame_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="25" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_06C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="17" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="280" y="22" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="18.3333321" y="22" />
+            <text>Insert Text for Sub-Heading</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_06" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="280" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="25" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="2" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="12" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="200" g="230" b="255" a="255" />
+              <vtxColRT r="200" g="230" b="255" a="255" />
+              <vtxColLB r="200" g="230" b="255" a="255" />
+              <vtxColRB r="200" g="230" b="255" a="255" />
+              <material name="Frame_08C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="4" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_09C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="16" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="2" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="140" b="206" a="255" />
+              <vtxColRT r="0" g="140" b="206" a="255" />
+              <vtxColLB r="0" g="140" b="206" a="255" />
+              <vtxColRB r="0" g="140" b="206" a="255" />
+              <material name="Frame_10C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="18" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="312" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="25" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="2" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="25" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="66" b="8" a="255" />
+              <vtxColRT r="255" g="66" b="8" a="255" />
+              <vtxColLB r="255" g="66" b="8" a="255" />
+              <vtxColRB r="255" g="66" b="8" a="255" />
+              <material name="Frame_07C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="18" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="12" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="250" g="193" b="163" a="255" />
+              <vtxColRT r="250" g="193" b="163" a="255" />
+              <vtxColLB r="250" g="193" b="163" a="255" />
+              <vtxColRB r="250" g="193" b="163" a="255" />
+              <material name="Frame_11C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="4" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="66" b="8" a="255" />
+              <vtxColRT r="255" g="66" b="8" a="255" />
+              <vtxColLB r="255" g="66" b="8" a="255" />
+              <vtxColRB r="255" g="66" b="8" a="255" />
+              <material name="Frame_12C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="16" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="7" y="2" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="66" b="8" a="255" />
+              <vtxColRT r="255" g="66" b="8" a="255" />
+              <vtxColLB r="255" g="66" b="8" a="255" />
+              <vtxColRB r="255" g="66" b="8" a="255" />
+              <material name="Frame_13C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="17" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="280" y="22" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Template ver.4.6&#xD;&#xA;file name: generic_fig_heading.ncpg&#xD;&#xA;category: generic_fig">
+            <fontSize x="18.3333321" y="22" />
+            <text>Insert Text for Sub-Heading</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_07" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="HorizonG_00">
+            <paneTree name="Frame_00" />
+            <paneTree name="TextBox_00" />
+          </paneTree>
+          <paneTree name="TextBox_08" />
+          <paneTree name="HorizonG_01">
+            <paneTree name="Frame_01" />
+            <paneTree name="TextBox_01" />
+          </paneTree>
+          <paneTree name="HorizonG_02">
+            <paneTree name="Frame_02" />
+            <paneTree name="TextBox_02" />
+          </paneTree>
+          <paneTree name="HorizonG_03">
+            <paneTree name="Frame_03" />
+            <paneTree name="TextBox_03" />
+          </paneTree>
+          <paneTree name="TextBox_09" />
+          <paneTree name="HorizonG_04">
+            <paneTree name="Frame_04" />
+            <paneTree name="TextBox_04" />
+          </paneTree>
+          <paneTree name="HorizonG_05">
+            <paneTree name="Frame_05" />
+            <paneTree name="TextBox_05" />
+          </paneTree>
+          <paneTree name="HorizonG_06">
+            <paneTree name="Frame_06" />
+            <paneTree name="Group_00">
+              <paneTree name="Frame_08" />
+              <paneTree name="Frame_09" />
+              <paneTree name="Frame_10" />
+            </paneTree>
+            <paneTree name="TextBox_06" />
+          </paneTree>
+          <paneTree name="HorizonG_07">
+            <paneTree name="Frame_07" />
+            <paneTree name="Group_01">
+              <paneTree name="Frame_11" />
+              <paneTree name="Frame_12" />
+              <paneTree name="Frame_13" />
+            </paneTree>
+            <paneTree name="TextBox_07" />
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="347" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>0</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../../textures/frame/freeblue_big_heading_01.tga" />
+      <textureFile imagePath="../../textures/frame/freeblue_big_heading_02.tga" />
+      <textureFile imagePath="../../textures/frame/freered_big_heading_01.tga" />
+      <textureFile imagePath="../../textures/frame/freeblue_big_heading_02_01.tga" />
+      <textureFile imagePath="../../textures/frame/freered_big_heading_02_01.tga" />
+      <textureFile imagePath="../../textures/frame/freered_big_heading_02.tga" />
+      <textureFile imagePath="../../textures/frame/freeblue_mid_heading.tga" />
+      <textureFile imagePath="../../textures/frame/freered_mid_heading.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2017-05-16T14:28:39.9809749-07:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Informações importantes</header>
+      <category />
+      <paneSet>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="11" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="600" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Rank A (★★) - Critical / 最重要&#xD;&#xA;[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: health_safety.ncpg &#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Antes de usar este software, leia todas as informações sobre saúde e segurança através do menu HOME. Se este software for utilizado por crianças pequenas, este manual deve ser lido e explicado à criança por um adulto.
+
+Para acessar estas informações, toque no ícone &lt;img src=safe_icon/&gt; no menu HOME, depois toque em &lt;color rgb=000000&gt;Abrir&lt;/color&gt; e leia com atenção o conteúdo em cada seção. Aperte &lt;img src=button_HOME/&gt; quando terminar para voltar ao menu HOME.
+
+É recomendado que leia também a seção de informações sobre saúde e segurança e outras informações no manual de instruções antes de usar este software.
+
+Observe que, a não ser quando indicado de outra forma, &lt;no new line&gt;"Nintendo 3DS"&lt;/no new line&gt; refere-se a todos os consoles na linha &lt;no new line&gt;Nintendo 3DS,&lt;/no new line&gt; incluindo o &lt;no new line&gt;New Nintendo 3DS,&lt;/no new line&gt; &lt;no new line&gt;New Nintendo 3DS XL,&lt;/no new line&gt; &lt;no new line&gt;Nintendo 3DS,&lt;/no new line&gt; &lt;no new line&gt;Nintendo 3DS XL,&lt;/no new line&gt; &lt;no new line&gt;Nintendo 2DS™,&lt;/no new line&gt; e &lt;no new line&gt;New Nintendo 2DS XL.&lt;/no new line&gt;</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_02" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="620" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>3</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../../textures/mark/safe_icon.tga" />
+      <textureFile imagePath="../../textures/hard/button_HOME.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

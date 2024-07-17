@@ -1,0 +1,44 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+<title>Normal Map Creation Plug-In </title>
+</head>
+<body>
+
+<h2 id="normalmap">Normal Map Creation Plug-In </h2>
+<p>This plug-in treats differences in luminosity in the image as differences in height, and creates a normal map from those bumps.  Color images can also be processed. </p>
+
+<h3 id="normalmap_usage">Usage </h3>
+<p>Select all channels, and then select <b>Filter</b> &gt; <b>NintendoWare for CTR</b> &gt; <b>NW4C_NormalMapFilter</b>. A dialog box appears. </p>
+<p><img src="images/NormalMapOpt1.gif" border="0"></p>
+<p>Use <b>Height Scale</b> to set a scale value to adjust the height of the bumps.  This value is a percentage.  A higher value emphasizes the bumps more. </p>
+<p>Use <b>Filter Type</b> to set the filter type.  The larger the value, the greater the range sampled.  The default is 3 x 3. </p>
+<p>Use <b>Edge </b>to set how to process the edge of the image.  Select <b>Wrap</b> to wrap the edge.  Select <b>Enlarge</b> to enlarge the pixels at the edge.  The default is <b>Wrap</b>. </p>
+<p>Use <b>The alpha channel is multiplied</b> to select whether to multiply the alpha channel by the height map. <br> Select the check box to multiply the alpha channel by the height map.  Clear the check box to not multiply the alpha channel by the height map.  No multiplication is performed if there is no alpha channel even if this check box is selected. </p>
+<p>Click <b>Load Param</b> to open a dialog box to select a settings file to load and apply as the current parameters. </p>
+<p>Click <b>Save Param</b> to open a dialog box to save the current parameters to a settings file. </p>
+
+<h3 id="normalmap_notes">Notes </h3>
+
+<h4 id="normalmap_image_mode">Image Mode </h4>
+<p>The plug-in only runs if the image mode is <b>RGB Color</b>. <br> You cannot run the plug-in on files that use 16 bits per channel. </p>
+
+<h4 id="normalmap_alpha_chan">Alpha Channel </h4>
+<p>If there are two or more alpha channels, the height map is multiplied only by the information for the alpha channel at the top of the list in the <b>Channel</b> window. <br> Select the RGB channel and run. <br> The plug-in will not process correctly if only the alpha channel selected. </p>
+
+<h4 id="normalmap_layer">Layers </h4>
+<p>The plug-in runs on the selected layers. <br></p>
+
+<h4 id="normalmap_mipmap">Using in Combination With Mipmaps </h4>
+<p>The process can also be applied to mipmap images. </p>
+<ol>
+<li>Create the mipmap image using the Mipmap Creation plug-in. </li>
+<li>Merge all layers. </li>
+<li>Apply the Normal Map Creation plug-in. </li>
+</ol>
+
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

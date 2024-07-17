@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2016-11-18T14:50:01.4251805-08:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Controle dos Pais</header>
+      <category />
+      <paneSet>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Use o Controle dos Pais para restringir o seguinte:</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="50" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="144" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;O acesso a este software (e a outros softwares) também pode ser restringido através da opção &lt;color rgb=000000&gt;Classificação indicativa&lt;/color&gt; no Controle dos Pais.
+&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Para mais informações sobre como configurar o Controle dos Pais, consulte o manual de instruções.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_04" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Navegador de internet</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Compras online Nintendo 3DS</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Registro de amigos</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Restringe o uso do navegador de internet.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Restringe a compra de conteúdo extra.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_06" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Restringe o registro de novos amigos.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_07" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="197" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="260" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="775" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="566" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="80" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Troca de imagens, áudio, vídeos e textos extensos</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_08" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="40" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Restringe a troca de fotos e o chat em jogo.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_09" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="649" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Interação online</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_10" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Restringe a interação online em jogos com outros usuários.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_11" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="712" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;StreetPass</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_12" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Restringe a troca de dados pelo StreetPass.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_13" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="837" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="80" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Visualização de vídeos distribuídos</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_16" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Restringe a visualização de vídeos distribuídos em jogo que não são apropriados para todas as idades.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_17" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="323" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="240" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Miiverse</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_18" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="16" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="220" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: parental_control.ncpg&#xD;&#xA;category: warning">
+            <fontSize x="16.666666" y="20" />
+            <text>Restringe a publicação de textos ou imagens no Miiverse. Se a função &lt;color rgb=000000&gt;Restringir publicação&lt;/color&gt; estiver ativada, publicações e mensagens escritas à mão não poderão ser publicadas. Se a função &lt;color rgb=000000&gt;Restringir publicação e visualização&lt;/color&gt; estiver ativada, publicações e mensagens escritas à mão não poderão ser publicadas ou visualizadas.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_19" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_03" />
+          <paneTree name="TextBox_04" />
+          <paneTree name="Group_00">
+            <paneTree name="TextBox_00" />
+            <paneTree name="TextBox_05" />
+          </paneTree>
+          <paneTree name="Group_01">
+            <paneTree name="TextBox_01" />
+            <paneTree name="TextBox_06" />
+          </paneTree>
+          <paneTree name="Group_02">
+            <paneTree name="TextBox_02" />
+            <paneTree name="TextBox_07" />
+          </paneTree>
+          <paneTree name="Group_03">
+            <paneTree name="TextBox_08" />
+            <paneTree name="TextBox_09" />
+          </paneTree>
+          <paneTree name="Group_04">
+            <paneTree name="TextBox_10" />
+            <paneTree name="TextBox_11" />
+          </paneTree>
+          <paneTree name="Group_05">
+            <paneTree name="TextBox_12" />
+            <paneTree name="TextBox_13" />
+          </paneTree>
+          <paneTree name="Group_07">
+            <paneTree name="TextBox_16" />
+            <paneTree name="TextBox_17" />
+          </paneTree>
+          <paneTree name="Group_08">
+            <paneTree name="TextBox_18" />
+            <paneTree name="TextBox_19" />
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="927" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>24</textBoxCounter>
+      </screenSetting>
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

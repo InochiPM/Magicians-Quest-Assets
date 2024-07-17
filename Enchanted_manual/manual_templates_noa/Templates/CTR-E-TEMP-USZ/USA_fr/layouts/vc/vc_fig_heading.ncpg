@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2016-11-18T14:49:00.1301805-08:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Virtual Console Headings</header>
+      <category />
+      <paneSet>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="16" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_headling.ncpg &#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Virtual Console Heading</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_headling.ncpg &#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>Insert Heading Text Here</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="78" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="16" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_headling.ncpg &#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Virtual Console Sub-Heading</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_04" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="22" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_headling.ncpg &#xD;&#xA;category: vc">
+            <fontSize x="18.3333321" y="22" />
+            <text>Insert Sub-Heading Text Here</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="32" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00LT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_00RT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_00LB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00RB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="3" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="36" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_01C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_01LT">
+                <texMap imageName="threeb_heading_big_shadow" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="32" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="307" y="36" />
+          <horizontalCombinedGroup>
+            <margin t="0" b="4" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="26" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="50" g="180" b="200" a="255" />
+              <vtxColRT r="50" g="180" b="200" a="255" />
+              <vtxColLB r="50" g="180" b="200" a="255" />
+              <vtxColRB r="50" g="180" b="200" a="255" />
+              <material name="Frame_02C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02LT">
+                <texMap imageName="threeb_heading_mid_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="100" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="26" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="158" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="26" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="26" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="240" g="100" b="40" a="255" />
+              <vtxColRT r="240" g="100" b="40" a="255" />
+              <vtxColLB r="240" g="100" b="40" a="255" />
+              <vtxColRB r="240" g="100" b="40" a="255" />
+              <material name="Frame_03C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_03LT">
+                <texMap imageName="threeb_heading_mid_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="22" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_headling.ncpg &#xD;&#xA;category: vc">
+            <fontSize x="18.3333321" y="22" />
+            <text>Insert Sub-Heading Text Here</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="136" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="16" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_headling.ncpg &#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Virtual Console Sub-Heading (Orange)</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_03" />
+          <paneTree name="TextBox_04" />
+          <paneTree name="HorizonG_01">
+            <paneTree name="Frame_01" />
+            <paneTree name="HorizonG_00">
+              <paneTree name="Frame_00" />
+              <paneTree name="TextBox_00" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="HorizonG_02">
+            <paneTree name="Frame_02" />
+            <paneTree name="TextBox_01" />
+          </paneTree>
+          <paneTree name="HorizonG_03">
+            <paneTree name="Frame_03" />
+            <paneTree name="TextBox_02" />
+          </paneTree>
+          <paneTree name="TextBox_05" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="194" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>0</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../../textures/frame/threeb_heading_big_shadow.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_big_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_big_02.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_mid_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_mid_02.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

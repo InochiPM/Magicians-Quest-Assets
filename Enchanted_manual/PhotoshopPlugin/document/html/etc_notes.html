@@ -1,0 +1,25 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+<title>Notes on the ETC Format </title>
+</head>
+<body>
+<h1>Notes on the ETC Format </h1>
+<p>The process of saving <CODE>NW4C_Tga</CODE> (<CODE>NW4C_ctex</CODE>) files differs, depending on whether the ETC filter has been applied to the image. <br> The differences are described below. </p>
+
+<p><a href="#filtered">When the ETC Filter Has Been Applied</a><br> <a href="#not_filtered">When the ETC Filter Has Not Been Applied</a> <br></p>
+
+<h2><a name="filtered">When the ETC Filter Has Been Applied</a></h2>
+<p>If you apply the ETC filter to an image and then do nothing else and save this as an ETC format  <CODE>NW4C_Tga</CODE> (<CODE>NW4C_ctex</CODE>) file, the data exported to the TGA file as additional information and to the CTEX file is exported in this post-filtered state without double compression. </p>
+<table class="arguments"><tbody><tr><td>If an ETC filter has been applied and then data is saved, the Photoshop image quality cannot be changed back to the state before the filter was applied. When applying filters, be careful not to save the resulting data in the same file used prior to filtering. </td></tr></tbody></table>
+<p><br>If the image is modified after applying the ETC filter, that image is handled in the same manner as if the filter was not applied. </p>
+
+<h2><a name="not_filtered">When the ETC Filter Has Not Been Applied</a></h2>
+<p>If you do not apply the ETC filter to an image and save it as an ETC format  <CODE>NW4C_Tga</CODE> (<CODE>NW4C_ctex</CODE>) file, the data exported to the TGA file as additional information and to the CTEX file is data for the compressed state of the image when saved. <br> The image quality in Photoshop is always for the image in its pre-compressed state, so there is no degradation in image quality when the <CODE>NW4C_Tga</CODE> file is saved. </p>
+
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

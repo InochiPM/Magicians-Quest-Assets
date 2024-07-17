@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2018-07-19T11:28:40.3155323-07:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Terms of Use</header>
+      <category />
+      <paneSet>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Rank A (★★) - Critical / 最重要&#xD;&#xA;[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: illegal_copy.ncpg &#xD;&#xA;category: warning">
+            <fontSize x="20" y="24" />
+            <text>Informations importantes</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="27" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="900" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Rank A (★★) - Critical / 最重要&#xD;&#xA;[EDITS PROHIBITED / 編集禁止]&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: illegal_copy.ncpg &#xD;&#xA;category: warning">
+            <fontSize x="15" y="18" />
+            <text>Votre console et ce logiciel ne sont pas conçus pour fonctionner avec des appareils non autorisés ou des accessoires non agréés. L'utilisation de tels produits peut être illégale. Elle contrevient également à vos obligations selon le contrat d'utilisation. De plus, une telle utilisation pourrait vous blesser ou causer des blessures à d'autres; elle pourrait aussi occasionner un mauvais rendement de votre console (et services connexes) &lt;no new line&gt;et/ou&lt;/no new line&gt; l'endommager. Nintendo et ses fabricants ou distributeurs autorisés ne peuvent être tenus responsables des dommages ou des pertes qui pourraient être causés suite à l'utilisation d'un appareil non autorisé ou d'un accessoire non agréé. À moins d'autorisation spéciale, le copiage de tout logiciel Nintendo est illégal et strictement interdit par les lois domestiques et internationales régissant la propriété intellectuelle. Les copies de &lt;no new line&gt;« sauvegarde »&lt;/no new line&gt; ou &lt;no new line&gt;d'« archivage »&lt;/no new line&gt; ne sont pas autorisées.
+
+Nintendo respecte la propriété intellectuelle d'autrui et demande à ses fournisseurs de contenu &lt;no new line&gt;Nintendo 3DS&lt;/no new line&gt; de faire de même. Conformément au Digital Millennium Copyright Act aux États-Unis, à la Directive européenne sur le commerce électronique dans l'Union européenne, ainsi qu'à d'autres lois applicables, Nintendo of America Inc. se réserve le droit d'enlever, dans les circonstances jugées appropriées et à sa discrétion, tout logiciel &lt;no new line&gt;Nintendo 3DS&lt;/no new line&gt; qui semble enfreindre la propriété intellectuelle d'autrui. Si vous croyez que votre travail a été copié d'une manière qui constitue une infraction aux droits d'auteur, veuillez visiter &lt;no new line&gt;www.nintendo.com/ippolicy&lt;/no new line&gt; afin de consulter la politique complète et comprendre vos droits.</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="943" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="255" />
+              <vtxColRT r="123" g="123" b="123" a="255" />
+              <vtxColLB r="123" g="123" b="123" a="255" />
+              <vtxColRB r="123" g="123" b="123" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00LT">
+                <texMap imageName="frame_R_gray_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="927" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="943" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="HorizonG_00">
+            <paneTree name="Frame_00" />
+            <paneTree name="Group_00">
+              <paneTree name="TextBox_01" />
+              <paneTree name="TextBox_00" />
+            </paneTree>
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="963" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>0</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../../textures/frame/frame_R_gray_01.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

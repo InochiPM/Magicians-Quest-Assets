@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2016-12-07T17:22:44.9486942-08:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Comprar conteúdo extra</header>
+      <category />
+      <paneSet>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="107" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Como adquirir</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="132" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="● " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Instruções:</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_04" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="91" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="1. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Selecione &lt;color rgb=000000&gt;Comprar conteúdo extra&lt;/color&gt; na tela do título.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_12">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>true</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="2. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Selecione o conteúdo extra que deseja adquirir e selecione &lt;color rgb=000000&gt;Comprar&lt;/color&gt;.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_13">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="200" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="79" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="60" g="60" b="60" a="255" />
+              <vtxColRT r="60" g="60" b="60" a="255" />
+              <vtxColLB r="60" g="60" b="60" a="255" />
+              <vtxColRB r="60" g="60" b="60" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="224" y="30" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="58" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true">
+            <fontSize x="16.666666" y="20" />
+            <text>sample</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_14" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="3. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Selecione &lt;color rgb=000000&gt;Comprar&lt;/color&gt;.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="4. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Selecione &lt;color rgb=000000&gt;Comprar&lt;/color&gt; novamente.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="473" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="5. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Selecione &lt;color rgb=000000&gt;Continuar&lt;/color&gt; na tela do título para continuar o jogo.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_06">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="6. " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Receba o conteúdo extra no jogo. </text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_07">
+              <texMap imageName="gray" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>RightTop</texLayoutPosition>
+            <texOffsetLeft>10</texOffsetLeft>
+            <texOffsetRight>2</texOffsetRight>
+            <texOffsetTop>6</texOffsetTop>
+            <texOffsetBottom>10</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="60" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="54" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="　◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Confira os avisos sobre o conteúdo mostrado na tela e então selecione &lt;color rgb=000000&gt;Próximo&lt;/color&gt;.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_10" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="36" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="　◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Leia as informações adicionais que estiverem disponíveis.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_11" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="　• " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;O download será iniciado.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_16" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="90" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="　◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Se não resgatar o conteúdo extra em 30 dias após a compra, ele será deletado. Se isso acontecer, siga o procedimento descrito acima para baixá-lo novamente.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_17" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="22" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="18.3333321" y="22" />
+            <text>Como adquirir conteúdo extra</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_18" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="37" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Este jogo permite a aquisição de conteúdo extra através da internet e do Nintendo eShop.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_19" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="91" />
+          <group>
+            <layoutPosition>Top</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="156" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="91" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="517" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="110" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="429" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="369" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="56" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Null" name="Group_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="251" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="114" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="638" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Avisos sobre a aquisição de conteúdo extra</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="683" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="200" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Você pode ver o histórico de compras de conteúdo extra em &lt;color rgb=000000&gt;Atividade na conta&lt;/color&gt;, no Nintendo eShop. 
+&lt;indent/&gt;Conteúdo extra não pode ser devolvido, reembolsado ou trocado por outros produtos ou serviços.
+&lt;indent/&gt;Conteúdo extra comprado pode ser baixado outra vez gratuitamente, mesmo após deletado.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1063" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="620" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="• " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;O conteúdo extra que for comprado será salvo no cartão SD.
+&lt;indent/&gt;O conteúdo extra é compatível apenas com o console &lt;no new line&gt;Nintendo 3DS&lt;/no new line&gt; usado para realizar a compra. Se você usar o mesmo cartão SD em outro console, os itens que você comprou não estarão disponíveis.
+&lt;indent/&gt;A unidade monetária do jogo se refere a itens virtuais como moedas, orbes, joias ou outros itens dentro do jogo que podem ser comprados ou obtidos pelos jogadores. A unidade monetária do jogo é disponibilizada pela Nintendo como um produto digital na forma de uma licença (direito) para trocar por ou obter outros produtos digitais no jogo.
+&lt;indent/&gt;As unidades monetárias do jogo, assim como outros produtos trocados por ou obtidos com estas unidades, apenas podem ser usadas no jogo, não podem ser transferidas a terceiros (a não ser que a transferência seja permitida dentro do jogo) nem podem ser trocadas pela moeda corrente ou por qualquer item ou direito fora do jogo.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_08" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="883" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="180" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="　◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Não será possível baixar novamente nenhum software se selecionar &lt;color rgb=000000&gt;Deletar conta do Nintendo eShop&lt;/color&gt; ou se a identificação do Nintendo Network utilizada para efetuar a compra for deletada.
+&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Tenha em mente que títulos de software que foram temporariamente ou permanentemente removidos não podem ser baixados novamente.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_09" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1720" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="140" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>É preciso ter créditos suficientes no saldo da sua conta do Nintendo eShop para efetuar a compra de um conteúdo extra. Se não tiver créditos suficientes, selecione &lt;color rgb=000000&gt;Adicionar créditos&lt;/color&gt; para adicionar créditos à sua conta.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_15" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1867" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>É possível adicionar créditos na sua conta com um cartão Nintendo eShop ou um cartão de crédito.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_20" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1934" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="162" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;É possível salvar os dados de um cartão de crédito. Assim, na próxima vez que desejar adicionar créditos à sua conta, só será preciso inserir a senha de segurança criada quando os dados do cartão foram salvos.
+&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Para deletar os dados do cartão de crédito, acesse &lt;color rgb=000000&gt;Configurações e opções&lt;/color&gt; no Nintendo eShop.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_22" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1693" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6 &#xD;&#xA;file name: add_contents.ncpg&#xD;&#xA;category: communications">
+            <fontSize x="16.666666" y="20" />
+            <text>Adicionar créditos à sua conta</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_23" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_03" />
+          <paneTree name="TextBox_04" />
+          <paneTree name="TextBox_18" />
+          <paneTree name="TextBox_19" />
+          <paneTree name="TextBox_06" />
+          <paneTree name="Group_11">
+            <paneTree name="Group_00">
+              <paneTree name="Frame_00" />
+              <paneTree name="TextBox_12" />
+            </paneTree>
+            <paneTree name="TextBox_14" />
+          </paneTree>
+          <paneTree name="Group_12">
+            <paneTree name="TextBox_17" />
+            <paneTree name="TextBox_07" />
+          </paneTree>
+          <paneTree name="Group_13">
+            <paneTree name="TextBox_16" />
+            <paneTree name="TextBox_01" />
+          </paneTree>
+          <paneTree name="Group_14">
+            <paneTree name="TextBox_11" />
+            <paneTree name="TextBox_00" />
+          </paneTree>
+          <paneTree name="Group_15">
+            <paneTree name="TextBox_10" />
+            <paneTree name="TextBox_13" />
+          </paneTree>
+          <paneTree name="TextBox_02" />
+          <paneTree name="TextBox_05" />
+          <paneTree name="TextBox_09" />
+          <paneTree name="TextBox_08" />
+          <paneTree name="TextBox_23" />
+          <paneTree name="TextBox_15" />
+          <paneTree name="TextBox_20" />
+          <paneTree name="TextBox_22" />
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="2106" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="false">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>24</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../../textures/other/gray.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

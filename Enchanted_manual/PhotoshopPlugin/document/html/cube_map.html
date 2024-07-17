@@ -1,0 +1,52 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+<style type="text/css">
+<!--
+TABLE.custom1
+{
+	margin				: 0px 8px 0px 20px;
+	border-collapse		: collapse;
+}
+TABLE.custom1 TR, TABLE.custom1 TD
+{
+	font				: normal normal normal 10pt normal Arial;
+	text-align			: center;
+	padding				: 2px;
+	background			: #dfd;
+	border				: solid 1px #888;
+}
+-->
+</style>
+<title>Creating Cube Maps </title>
+</head>
+<body>
+<h1>Creating Cube Maps </h1>
+<p>Cube maps are created under Adobe Photoshop as shown below by arranging images for each view direction in a horizontal cross pattern without gaps between images. </p>
+<table class="custom1"><tbody>
+<tr height="32"><td width="30" style="background:white;">&nbsp;</td><td width="30">+Y </td><td width="30" style="background:white;">&nbsp;</td><td width="30" style="background:white;">&nbsp;</td></tr>
+<tr height="32"><td>-X </td><td>-Z </td><td>+X </td><td>+Z </td></tr>
+<tr height="32"><td style="background:white;">&nbsp;</td><td>-Y </td><td style="background:white;">&nbsp;</td><td style="background:white;">&nbsp;</td></tr>
+</tbody></table>
+<p>(The blank parts in each of the four corners are not used.) </p>
+<p>The  image for each view direction must be a cube (of the same width and height) sized in a power of 2 between 8 and 1024. <br> The coordinate axes of each view direction image under Photoshop are defined as follows. </p>
+<table class="arguments" style="width:auto;"><tbody>
+<tr><th style="width:70px;">View direction </th><th style="width:70px;">Vertical direction </th><th style="width:70px;">Right direction </th></tr>
+<tr><td>+X </td><td>+Y </td><td>+Z </td></tr>
+<tr><td>-X </td><td>+Y </td><td>-Z </td></tr>
+<tr><td>+Y </td><td>+Z </td><td>+X </td></tr>
+<tr><td>-Y </td><td>-Z </td><td>+X </td></tr>
+<tr><td>+Z </td><td>+Y </td><td>-X </td></tr>
+<tr><td>-Z </td><td>+Y </td><td>+X </td></tr>
+</tbody></table>
+<p>On CTR systems, the -Y direction is upward. Data rotated 180 degrees is exported as additional information to the TGA files and to the CTEX files for the images representing the +X, -X, +Z, and -Z directions. </p>
+
+<p>Run the <a href="NW4C_CreateMipMap.html">mipmap creation plug-in</a> on the images arranged in a horizontal cross shape to create a cube map mipmap. </p>
+<p><img src="images/CubeMipMap1.gif" border="0"></p>
+
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

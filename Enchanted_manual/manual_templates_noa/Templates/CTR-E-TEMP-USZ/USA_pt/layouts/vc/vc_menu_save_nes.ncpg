@@ -1,0 +1,3554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2016-11-18T14:49:57.0371805-08:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Funções do Virtual Console</header>
+      <category />
+      <paneSet>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Há várias funções do Virtual Console que são úteis ao jogar os jogos do Virtual Console.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="9" y="347" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="307" y="60" />
+          <horizontalCombinedGroup>
+            <margin t="0" b="4" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="3" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_01C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_01LT">
+                <texMap imageName="threeb_heading_big_shadow" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="56" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_92">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="56" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_92C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_92LT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_92RT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_92LB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_92RB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>Menu principal do Virtual Console</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_04" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="78" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="307" y="36" />
+          <horizontalCombinedGroup>
+            <margin t="0" b="4" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="3" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="36" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_04C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_04LT">
+                <texMap imageName="threeb_heading_big_shadow" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="32" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_05C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_05LT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_05RT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_05LB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_05RB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>Ponto de suspensão</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="117" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="180" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Se você apertar &lt;img src=button_HOME/&gt; ao jogar um jogo de Virtual Console, o jogo será pausado e o progresso será salvo temporariamente. Você poderá continuar o jogo a partir desse ponto, mesmo se você mudar de software pelo menu HOME ou desligar o console enquanto o jogo estiver pausado.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="783" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="307" y="36" />
+          <horizontalCombinedGroup>
+            <margin t="0" b="4" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="3" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="36" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_06C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_06LT">
+                <texMap imageName="threeb_heading_big_shadow" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="3" b="5" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="32" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="30" g="150" b="180" a="255" />
+              <vtxColRT r="30" g="150" b="180" a="255" />
+              <vtxColLB r="30" g="150" b="180" a="255" />
+              <vtxColRB r="30" g="150" b="180" a="255" />
+              <material name="Frame_07C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_07LT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_07RT">
+                <texMap imageName="threeb_heading_big_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_07LB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_07RB">
+                <texMap imageName="threeb_heading_big_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>Pontos de restauração</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_09" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="303" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="36" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=ff7814&gt;&lt;indent/&gt;Se você reiniciar o jogo, o ponto de suspensão será deletado.&lt;/color&gt;</text>
+            <topColor r="255" g="120" b="20" a="255" />
+            <bottomColor r="255" g="120" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="822" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="240" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Utilize esta função para salvar o estado atual e o progresso do jogo (incluindo qualquer progresso que tenha salvo dentro do jogo). Um ponto de restauração é substituído cada vez que um novo ponto de restauração for criado. Você pode carregar o seu ponto de restauração várias vezes para começar o jogo a partir daquele instante ou salvar o progresso antes de enfrentar um inimigo muito difícil!</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_10" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="2796" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="26" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_33">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="26" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="50" g="180" b="200" a="255" />
+              <vtxColRT r="50" g="180" b="200" a="255" />
+              <vtxColLB r="50" g="180" b="200" a="255" />
+              <vtxColRB r="50" g="180" b="200" a="255" />
+              <material name="Frame_33C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_33LT">
+                <texMap imageName="threeb_heading_mid_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_47">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="22" />
+          <textBox font="cbf_std" charSpace="-1" autoWidthAdjust="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="18.3333321" y="22" />
+            <text>Quando a função estiver ativada</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_47" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="2948" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="37" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_36">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="130" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_36C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_36LT">
+                <texMap imageName="threeb_table_left_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_36RT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_36LB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_36RB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_37">
+          <basePositionType x="Left" y="Top" />
+          <translate x="127" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="177" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_37C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_37LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_37RT">
+                <texMap imageName="threeb_table_right_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_37LB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_37RB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_48">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Continuar</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_48" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_49">
+          <basePositionType x="Left" y="Top" />
+          <translate x="137" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Continua o jogo.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_49" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3188" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="128" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_38">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="130" y="128" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_38C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_38LT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_38RT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_38LB">
+                <texMap imageName="threeb_table_left_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_38RB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_39">
+          <basePositionType x="Left" y="Top" />
+          <translate x="127" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="177" y="128" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_39C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_39LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_39RT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_39LB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_39RB">
+                <texMap imageName="threeb_table_right_blue_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_54">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="34" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Carregar ponto de restauração</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_54" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_55">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Carrega o ponto de restauração.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_55" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="2982" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="136" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_40">
+          <basePositionType x="Left" y="Top" />
+          <translate x="127" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="177" y="136" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_40C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_40LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_41">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="130" y="136" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_41C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_41LT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_41RT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_41LB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_41RB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_50">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="48" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Criar ponto de restauração</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_50" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_51">
+          <basePositionType x="Left" y="Top" />
+          <translate x="137" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="120" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Cria um ponto de restauração que contém o progresso e os dados salvos do jogo.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_51" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3115" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="76" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_42">
+          <basePositionType x="Left" y="Top" />
+          <translate x="127" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="177" y="76" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_42C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_42LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_43">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="130" y="76" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_43C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_43LT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_43RT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_43LB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_43RB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_52">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="28" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Reiniciar</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_52" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_53">
+          <basePositionType x="Left" y="Top" />
+          <translate x="137" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Reinicia e volta à tela principal do jogo.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_53" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_56">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="40" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="72" />
+          <textBox font="cbf_std" charSpace="-1" autoWidthAdjust="true" indentEnabled="true" indentText="◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Esta opção somente aparece quando um ponto de restauração já tiver sido criado.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_56" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="137" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="160" y="112" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="TextBox" name="TextBox_57">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3349" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="220" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Para criar um ponto de restauração, toque na tela tátil para acessar o menu principal do Virtual Console. Depois, com a função de criar pontos de restauração ativada, toque em &lt;color rgb=000000&gt;Criar ponto de restauração&lt;/color&gt;. A imagem na tela superior será usada como miniatura para representar seu progresso atual. Toque em &lt;color rgb=000000&gt;Sim&lt;/color&gt; para criar o ponto de restauração. </text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_57" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_58">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3665" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="180" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>&lt;indent/&gt;Só é possível ter 1 ponto de restauração para cada jogo de Virtual Console. Cada vez que criar outro ponto de restauração, o antigo será substituído.
+&lt;indent/&gt;Se o jogo está sendo compartilhado por vários jogadores, cuidado para não substituir os dados de um outro jogador com o seu ponto de restauração.</text>
+            <topColor r="255" g="120" b="20" a="255" />
+            <bottomColor r="255" g="120" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_58" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="410" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="180" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Para acessar o menu principal do Virtual Console, toque na tela tátil ao jogar um jogo de Virtual Console. O jogo ficará pausado enquanto o menu principal estiver sendo exibido. As opções do menu mudam dependendo se a função de criar pontos de restauração estiver ativada ou não.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="738" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="36" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Veja abaixo mais informações sobre pontos de restauração.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_08" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="598" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="132" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_49">
+          <basePositionType x="Left" y="Top" />
+          <translate x="3" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="138" y="128" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="187" b="170" a="255" />
+              <vtxColRT r="187" g="187" b="170" a="255" />
+              <vtxColLB r="187" g="187" b="170" a="255" />
+              <vtxColRB r="187" g="187" b="170" a="255" />
+              <material name="Frame_49C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_49LT">
+                <texMap imageName="threeb_photo_frame_shadow" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_50">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="138" y="128" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_50C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_50LT">
+                <texMap imageName="threeb_photo_frame" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="96" />
+          <picture stereoEnabled="true">
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_04">
+              <texMap imageName="vc_menu_04" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="103" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="18" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>Ativado</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_06" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="170" y="598" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="132" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="3" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="138" y="128" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="187" b="170" a="255" />
+              <vtxColRT r="187" g="187" b="170" a="255" />
+              <vtxColLB r="187" g="187" b="170" a="255" />
+              <vtxColRB r="187" g="187" b="170" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00LT">
+                <texMap imageName="threeb_photo_frame_shadow" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="138" y="128" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_02C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02LT">
+                <texMap imageName="threeb_photo_frame" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="96" />
+          <picture stereoEnabled="true">
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_02">
+              <texMap imageName="vc_menu_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="TextBox" name="TextBox_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="103" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="18" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>Desativado</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_07" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="2497" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="48" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="48" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="50" g="180" b="200" a="255" />
+              <vtxColRT r="50" g="180" b="200" a="255" />
+              <vtxColLB r="50" g="180" b="200" a="255" />
+              <vtxColRB r="50" g="180" b="200" a="255" />
+              <material name="Frame_03C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_03LT">
+                <texMap imageName="threeb_heading_mid_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_45">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="44" />
+          <textBox font="cbf_std" charSpace="-1" autoWidthAdjust="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="18.3333321" y="22" />
+            <text>Ativar/Desativar pontos de restauração</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_45" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_46">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="2548" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="240" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Quando tocar na tela tátil e acessar o menu principal do Virtual Console pela primeira vez durante um jogo, você será perguntado se sabe como utilizar os pontos de restauração. Responda às perguntas e siga as instruções na tela para ativar ou desativar a função de criar pontos de restauração. Aperte &lt;img src=button_START/&gt; +  +  no menu principal do Virtual Console quando quiser ativar/desativar esta função.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_46" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="91" y="2827" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="110" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_34">
+          <basePositionType x="Left" y="Top" />
+          <translate x="3" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="138" y="106" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="187" b="170" a="255" />
+              <vtxColRT r="187" g="187" b="170" a="255" />
+              <vtxColLB r="187" g="187" b="170" a="255" />
+              <vtxColRB r="187" g="187" b="170" a="255" />
+              <material name="Frame_34C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_34LT">
+                <texMap imageName="threeb_photo_frame_shadow" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_35">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="138" y="106" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_35C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_35LT">
+                <texMap imageName="threeb_photo_frame" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="96" />
+          <picture stereoEnabled="true">
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_01">
+              <texMap imageName="vc_menu_04" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3853" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="48" />
+          <horizontalCombinedGroup>
+            <margin t="1" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_48">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="48" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="50" g="180" b="200" a="255" />
+              <vtxColRT r="50" g="180" b="200" a="255" />
+              <vtxColLB r="50" g="180" b="200" a="255" />
+              <vtxColRB r="50" g="180" b="200" a="255" />
+              <material name="Frame_48C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_48LT">
+                <texMap imageName="threeb_heading_mid_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_59">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="286" y="44" />
+          <textBox font="cbf_std" charSpace="-1" autoWidthAdjust="true" stereoEnabled="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="18.3333321" y="22" />
+            <text>Quando a função estiver desativada</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_59" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_60">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="4028" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="180" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>O menu principal do Virtual Console aparecerá como a tela acima quando a função for desativada. Toque em &lt;color rgb=000000&gt;Continuar&lt;/color&gt; para voltar ao jogo, ou toque em &lt;color rgb=000000&gt;Reiniciar&lt;/color&gt; para reiniciar o jogo e voltar à tela principal. Para ativar a função de criar pontos de restauração, aperte &lt;img src=button_START/&gt; +  +  nesse menu.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_60" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_61">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="4214" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="54" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="◆ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>&lt;color rgb=006aff&gt;&lt;indent/&gt;&lt;/color&gt;Um ponto de restauração criado será conservado mesmo quando a função for desativada.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_61" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="91" y="3908" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="141" y="110" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_51">
+          <basePositionType x="Left" y="Top" />
+          <translate x="3" y="4" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="138" y="106" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="187" b="170" a="255" />
+              <vtxColRT r="187" g="187" b="170" a="255" />
+              <vtxColLB r="187" g="187" b="170" a="255" />
+              <vtxColRB r="187" g="187" b="170" a="255" />
+              <material name="Frame_51C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_51LT">
+                <texMap imageName="threeb_photo_frame_shadow" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_52">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="138" y="106" />
+          <window stereoEnabled="true">
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_52C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_52LT">
+                <texMap imageName="threeb_photo_frame" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Picture" name="Picture_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="5" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="96" />
+          <picture stereoEnabled="true">
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_03">
+              <texMap imageName="vc_menu_03" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="TextBox" name="TextBox_57a_NOA">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3323" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="● ">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Criar um ponto de restauração</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_57a_NOA" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_57b_NOA">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3575" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="● ">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Carregar um ponto de restauração</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_57b_NOA" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_57c_NOA">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="3599" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true">
+            <fontSize x="16.666666" y="20" />
+            <text>Para continuar o jogo a partir do ponto de restauração, toque em &lt;color rgb=000000&gt;Carregar ponto de restauração&lt;/color&gt;.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_57c_NOA" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1073" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="1407" />
+          <horizontalCombinedGroup>
+            <margin t="15" b="15" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_32">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="1407" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="0" g="0" b="0" a="0" />
+              <vtxColRT r="0" g="0" b="0" a="0" />
+              <vtxColLB r="0" g="0" b="0" a="0" />
+              <vtxColRB r="0" g="0" b="0" a="0" />
+              <material name="Frame_32C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_32LT">
+                <texMap imageName="threeb_tips_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="15" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="1377" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Picture" name="Picture_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="137" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="14" y="20" />
+          <picture>
+            <vtxColLT r="255" g="255" b="255" a="255" />
+            <vtxColRT r="255" g="255" b="255" a="255" />
+            <vtxColLB r="255" g="255" b="255" a="255" />
+            <vtxColRB r="255" g="255" b="255" a="255" />
+            <textureFlip>None</textureFlip>
+            <material name="Picture_00">
+              <texMap imageName="exclamation" imageNameLeft="" imageNameRight="" stereoEnabled="false" />
+            </material>
+          </picture>
+        </pane>
+        <pane kind="TextBox" name="TextBox_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="24" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="274" y="44" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="18.3333321" y="22" />
+            <text>Atenção ao usar pontos de restauração!</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_11" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="88" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="274" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;color rgb=ff7814&gt;Os dados salvos do jogo atual serão substituídos&lt;/color&gt; ao carregar um ponto de restauração.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_12" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="168" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="274" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Exemplo:</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_13" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="202" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="274" y="180" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="❶ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;No dia 24 de outubro, um ponto de restauração foi criado. Lembre-se, um ponto de restauração salva tudo até o momento em que executar a função. Isso quer dizer que &lt;color rgb=28aabe&gt;o ponto de restauração ()&lt;/color&gt; contém o progresso e os dados salvos do jogo.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_14" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="392" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="23" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="23" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="240" g="100" b="40" a="255" />
+              <vtxColRT r="240" g="100" b="40" a="255" />
+              <vtxColLB r="240" g="100" b="40" a="255" />
+              <vtxColRB r="240" g="100" b="40" a="255" />
+              <material name="Frame_08C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_08LT">
+                <texMap imageName="threeb_heading_mid_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="18" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>24 de outubro</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_15" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="136" y="469" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="20" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text></text>
+            <topColor r="50" g="180" b="200" a="255" />
+            <bottomColor r="50" g="180" b="200" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_19" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="155" y="525" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Ponto de restauração</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_23" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_25">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="574" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="274" y="80" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="❷ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;No dia 28 de outubro, os dados salvos do jogo foram atualizados (&lt;color rgb=ff7814&gt;+&lt;/color&gt;) com o progresso do jogo atual.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_25" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="666" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="23" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="23" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="240" g="100" b="40" a="255" />
+              <vtxColRT r="240" g="100" b="40" a="255" />
+              <vtxColLB r="240" g="100" b="40" a="255" />
+              <vtxColRB r="240" g="100" b="40" a="255" />
+              <material name="Frame_16C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_16LT">
+                <texMap imageName="threeb_heading_mid_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_26">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="18" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>28 de outubro</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_26" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_30">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="823" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="274" y="60" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="❸ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Depois, o ponto de restauração criado no dia 24 de outubro foi &lt;color rgb=ff7814&gt;carregado ()&lt;/color&gt;.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_30" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_34">
+          <basePositionType x="Left" y="Top" />
+          <translate x="136" y="963" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="17" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text></text>
+            <topColor r="250" g="120" b="20" a="255" />
+            <bottomColor r="250" g="120" b="20" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_34" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_38">
+          <basePositionType x="Left" y="Top" />
+          <translate x="155" y="1021" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="128" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Ponto de restauração</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_38" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="891" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="23" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="23" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="240" g="100" b="40" a="255" />
+              <vtxColRT r="240" g="100" b="40" a="255" />
+              <vtxColLB r="240" g="100" b="40" a="255" />
+              <vtxColRB r="240" g="100" b="40" a="255" />
+              <material name="Frame_20C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_20LT">
+                <texMap imageName="threeb_heading_mid_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_31">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="18" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>28 de outubro</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_31" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_40">
+          <basePositionType x="Left" y="Top" />
+          <translate x="7" y="1067" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="274" y="160" />
+          <textBox font="cbf_std" autoWidthAdjust="true" indentEnabled="true" indentText="❹ " commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>&lt;indent/&gt;Os dados salvos do jogo atual (&lt;color rgb=ff7814&gt;+&lt;/color&gt;) são substituídos pelos dados do ponto de restauração, e o progresso do jogo atual será perdido. O estado do jogo se converte de volta àquele do dia 24 de outubro.</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_40" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="1238" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="23" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_27">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="23" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="240" g="100" b="40" a="255" />
+              <vtxColRT r="240" g="100" b="40" a="255" />
+              <vtxColLB r="240" g="100" b="40" a="255" />
+              <vtxColRB r="240" g="100" b="40" a="255" />
+              <material name="Frame_27C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_27LT">
+                <texMap imageName="threeb_heading_mid_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_41">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="18" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="15" y="18" />
+            <text>28 de outubro</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_41" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="423" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="102" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="14" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="88" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="0" />
+              <vtxColRT r="123" g="123" b="123" a="0" />
+              <vtxColLB r="123" g="123" b="123" a="0" />
+              <vtxColRB r="123" g="123" b="123" a="0" />
+              <material name="Frame_09C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_09LT">
+                <texMap imageName="free_tips_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="255" />
+              <vtxColRT r="123" g="123" b="123" a="255" />
+              <vtxColLB r="123" g="123" b="123" a="255" />
+              <vtxColRB r="123" g="123" b="123" a="255" />
+              <material name="Frame_11C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_11LT">
+                <texMap imageName="frame_R_gray_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Conteúdo
+do jogo</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_16" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="40" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="32" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="200" g="200" b="200" a="255" />
+              <vtxColRT r="200" g="200" b="200" a="255" />
+              <vtxColLB r="200" g="200" b="200" a="255" />
+              <vtxColRB r="200" g="200" b="200" a="255" />
+              <material name="Frame_12C " />
+            </content>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Progresso
+do jogo</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_17" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="74" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="21" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="21" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="200" g="200" b="200" a="255" />
+              <vtxColRT r="200" g="200" b="200" a="255" />
+              <vtxColLB r="200" g="200" b="200" a="255" />
+              <vtxColRB r="200" g="200" b="200" a="255" />
+              <material name="Frame_13C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_13LT" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="16" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Dados salvos</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_18" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="160" y="437" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="88" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="88" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="0" />
+              <vtxColRT r="123" g="123" b="123" a="0" />
+              <vtxColLB r="123" g="123" b="123" a="0" />
+              <vtxColRB r="123" g="123" b="123" a="0" />
+              <material name="Frame_10C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_10LT">
+                <texMap imageName="threeb_tips_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="7" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="16" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>24 de outubro</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_20" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="26" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="32" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="140" g="230" b="240" a="255" />
+              <vtxColRT r="140" g="230" b="240" a="255" />
+              <vtxColLB r="140" g="230" b="240" a="255" />
+              <vtxColRB r="140" g="230" b="240" a="255" />
+              <material name="Frame_15C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_15LT" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Progresso
+do jogo</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_21" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="60" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="21" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="21" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="140" g="230" b="240" a="255" />
+              <vtxColRT r="140" g="230" b="240" a="255" />
+              <vtxColLB r="140" g="230" b="240" a="255" />
+              <vtxColRB r="140" g="230" b="240" a="255" />
+              <material name="Frame_14C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_14LT" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="16" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Dados salvos</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_22" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="74" y="698" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="140" y="108" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="140" y="88" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="0" />
+              <vtxColRT r="123" g="123" b="123" a="0" />
+              <vtxColLB r="123" g="123" b="123" a="0" />
+              <vtxColRB r="123" g="123" b="123" a="0" />
+              <material name="Frame_18C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_18LT">
+                <texMap imageName="free_tips_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="18" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_24">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="255" />
+              <vtxColRT r="123" g="123" b="123" a="255" />
+              <vtxColLB r="123" g="123" b="123" a="255" />
+              <vtxColRB r="123" g="123" b="123" a="255" />
+              <material name="Frame_19C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_19LT">
+                <texMap imageName="frame_R_gray_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_27">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Conteúdo
+do jogo</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_27" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_25">
+          <basePositionType x="Left" y="Top" />
+          <translate x="10" y="80" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="21" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="21" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="200" g="200" b="200" a="255" />
+              <vtxColRT r="200" g="200" b="200" a="255" />
+              <vtxColLB r="200" g="200" b="200" a="255" />
+              <vtxColRB r="200" g="200" b="200" a="255" />
+              <material name="Frame_17C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_17LT" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_28">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="16" />
+          <textBox font="cbf_std" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Dados salvos &lt;color rgb=ff7814&gt;+&lt;/color&gt;</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_28" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="919" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="101" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_24">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="13" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="88" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="0" />
+              <vtxColRT r="123" g="123" b="123" a="0" />
+              <vtxColLB r="123" g="123" b="123" a="0" />
+              <vtxColRB r="123" g="123" b="123" a="0" />
+              <material name="Frame_24C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_24LT">
+                <texMap imageName="free_tips_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_28">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_26">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="255" />
+              <vtxColRT r="123" g="123" b="123" a="255" />
+              <vtxColLB r="123" g="123" b="123" a="255" />
+              <vtxColRB r="123" g="123" b="123" a="255" />
+              <material name="Frame_26C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_26LT">
+                <texMap imageName="frame_R_gray_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_32">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Conteúdo
+do jogo</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_32" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_27">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="73" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="105" y="21" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="105" y="21" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="200" g="200" b="200" a="255" />
+              <vtxColRT r="200" g="200" b="200" a="255" />
+              <vtxColLB r="200" g="200" b="200" a="255" />
+              <vtxColRB r="200" g="200" b="200" a="255" />
+              <material name="Frame_21C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_21LT" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_33">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="105" y="16" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Dados salvos &lt;color rgb=ff7814&gt;+&lt;/color&gt;</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_33" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="160" y="932" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="88" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_25">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="88" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="0" />
+              <vtxColRT r="123" g="123" b="123" a="0" />
+              <vtxColLB r="123" g="123" b="123" a="0" />
+              <vtxColRB r="123" g="123" b="123" a="0" />
+              <material name="Frame_25C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_25LT">
+                <texMap imageName="threeb_tips_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_35">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="7" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="16" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>24 de outubro</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_35" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_26">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="60" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="21" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="21" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="140" g="230" b="240" a="255" />
+              <vtxColRT r="140" g="230" b="240" a="255" />
+              <vtxColLB r="140" g="230" b="240" a="255" />
+              <vtxColRB r="140" g="230" b="240" a="255" />
+              <material name="Frame_22C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_22LT" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_37">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="16" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Dados salvos</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_37" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_29">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="26" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="32" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="140" g="230" b="240" a="255" />
+              <vtxColRT r="140" g="230" b="240" a="255" />
+              <vtxColLB r="140" g="230" b="240" a="255" />
+              <vtxColRB r="140" g="230" b="240" a="255" />
+              <material name="Frame_23C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_23LT" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_36">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Progresso
+do jogo</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_36" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Null" name="Group_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="85" y="1270" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="107" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="Window" name="Frame_30">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="19" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="120" y="88" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="0" />
+              <vtxColRT r="123" g="123" b="123" a="0" />
+              <vtxColLB r="123" g="123" b="123" a="0" />
+              <vtxColRB r="123" g="123" b="123" a="0" />
+              <material name="Frame_30C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_30LT">
+                <texMap imageName="threeb_tips_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Null" name="Group_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <group>
+            <layoutPosition>None</layoutPosition>
+          </group>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_30">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_31">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="104" y="32" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="123" g="123" b="123" a="255" />
+              <vtxColRT r="123" g="123" b="123" a="255" />
+              <vtxColLB r="123" g="123" b="123" a="255" />
+              <vtxColRB r="123" g="123" b="123" a="255" />
+              <material name="Frame_31C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_31LT">
+                <texMap imageName="frame_R_gray_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_42">
+          <basePositionType x="Left" y="Top" />
+          <translate x="4" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Conteúdo
+do jogo</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_42" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_31">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="45" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="32" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_29">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="32" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="140" g="230" b="240" a="255" />
+              <vtxColRT r="140" g="230" b="240" a="255" />
+              <vtxColLB r="140" g="230" b="240" a="255" />
+              <vtxColRB r="140" g="230" b="240" a="255" />
+              <material name="Frame_29C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_29LT" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_43">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="27" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Progresso
+do jogo</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_43" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_32">
+          <basePositionType x="Left" y="Top" />
+          <translate x="12" y="79" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="21" />
+          <horizontalCombinedGroup>
+            <margin t="2" b="3" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_28">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="21" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="140" g="230" b="240" a="255" />
+              <vtxColRT r="140" g="230" b="240" a="255" />
+              <vtxColLB r="140" g="230" b="240" a="255" />
+              <vtxColRB r="140" g="230" b="240" a="255" />
+              <material name="Frame_28C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_28LT" />
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_44">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="2" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="96" y="16" />
+          <textBox font="cbf_std" lineSpace="-5" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Dados salvos</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_44" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_24">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="554" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="16" />
+          <textBox font="cbf_std" charSpace="-8" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</text>
+            <topColor r="130" g="130" b="130" a="255" />
+            <bottomColor r="130" g="130" b="130" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_24" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_29">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="807" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="16" />
+          <textBox font="cbf_std" charSpace="-8" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</text>
+            <topColor r="130" g="130" b="130" a="255" />
+            <bottomColor r="130" g="130" b="130" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_29" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_39">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="1049" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="288" y="16" />
+          <textBox font="cbf_std" charSpace="-8" autoWidthAdjust="true" notMagnify="true" commentText="Sample Text / サンプルテキスト&#xD;&#xA;Template ver.4.6&#xD;&#xA;file name: vc_menu_save_nes.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・・</text>
+            <topColor r="130" g="130" b="130" a="255" />
+            <bottomColor r="130" g="130" b="130" a="255" />
+            <positionType x="Center" y="Top" />
+            <material name="TextBox_39" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_00" />
+          <paneTree name="HorizonG_01">
+            <paneTree name="Frame_01" />
+            <paneTree name="HorizonG_00">
+              <paneTree name="Frame_92" />
+              <paneTree name="TextBox_04" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="HorizonG_02">
+            <paneTree name="Frame_04" />
+            <paneTree name="HorizonG_03">
+              <paneTree name="Frame_05" />
+              <paneTree name="TextBox_01" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="TextBox_02" />
+          <paneTree name="TextBox_03" />
+          <paneTree name="HorizonG_04">
+            <paneTree name="Frame_06" />
+            <paneTree name="HorizonG_05">
+              <paneTree name="Frame_07" />
+              <paneTree name="TextBox_09" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="TextBox_10" />
+          <paneTree name="HorizonG_11">
+            <paneTree name="Frame_33" />
+            <paneTree name="TextBox_47" />
+          </paneTree>
+          <paneTree name="HorizonG_12">
+            <paneTree name="Frame_36" />
+            <paneTree name="Frame_37" />
+            <paneTree name="TextBox_48" />
+            <paneTree name="TextBox_49" />
+          </paneTree>
+          <paneTree name="HorizonG_13">
+            <paneTree name="Frame_38" />
+            <paneTree name="Frame_39" />
+            <paneTree name="TextBox_54" />
+            <paneTree name="Group_14">
+              <paneTree name="TextBox_55" />
+              <paneTree name="TextBox_56" />
+            </paneTree>
+          </paneTree>
+          <paneTree name="HorizonG_14">
+            <paneTree name="Frame_40" />
+            <paneTree name="Frame_41" />
+            <paneTree name="TextBox_50" />
+            <paneTree name="TextBox_51" />
+          </paneTree>
+          <paneTree name="HorizonG_15">
+            <paneTree name="Frame_42" />
+            <paneTree name="Frame_43" />
+            <paneTree name="TextBox_52" />
+            <paneTree name="TextBox_53" />
+          </paneTree>
+          <paneTree name="TextBox_57" />
+          <paneTree name="TextBox_58" />
+          <paneTree name="TextBox_05" />
+          <paneTree name="TextBox_08" />
+          <paneTree name="Group_15">
+            <paneTree name="Frame_49" />
+            <paneTree name="Frame_50" />
+            <paneTree name="Picture_04" />
+            <paneTree name="TextBox_06" />
+          </paneTree>
+          <paneTree name="Group_00">
+            <paneTree name="Frame_00" />
+            <paneTree name="Frame_02" />
+            <paneTree name="Picture_02" />
+            <paneTree name="TextBox_07" />
+          </paneTree>
+          <paneTree name="HorizonG_20">
+            <paneTree name="Frame_03" />
+            <paneTree name="TextBox_45" />
+          </paneTree>
+          <paneTree name="TextBox_46" />
+          <paneTree name="Group_01">
+            <paneTree name="Frame_34" />
+            <paneTree name="Frame_35" />
+            <paneTree name="Picture_01" />
+          </paneTree>
+          <paneTree name="HorizonG_21">
+            <paneTree name="Frame_48" />
+            <paneTree name="TextBox_59" />
+          </paneTree>
+          <paneTree name="TextBox_60" />
+          <paneTree name="TextBox_61" />
+          <paneTree name="Group_13">
+            <paneTree name="Frame_51" />
+            <paneTree name="Frame_52" />
+            <paneTree name="Picture_03" />
+          </paneTree>
+          <paneTree name="TextBox_57a_NOA" />
+          <paneTree name="TextBox_57b_NOA" />
+          <paneTree name="TextBox_57c_NOA" />
+          <paneTree name="HorizonG_10">
+            <paneTree name="Frame_32" />
+            <paneTree name="Group_12">
+              <paneTree name="Picture_00" />
+              <paneTree name="TextBox_11" />
+              <paneTree name="TextBox_12" />
+              <paneTree name="TextBox_13" />
+              <paneTree name="TextBox_14" />
+              <paneTree name="HorizonG_06">
+                <paneTree name="Frame_08" />
+                <paneTree name="TextBox_15" />
+              </paneTree>
+              <paneTree name="TextBox_19" />
+              <paneTree name="TextBox_23" />
+              <paneTree name="TextBox_25" />
+              <paneTree name="HorizonG_07">
+                <paneTree name="Frame_16" />
+                <paneTree name="TextBox_26" />
+              </paneTree>
+              <paneTree name="TextBox_30" />
+              <paneTree name="TextBox_34" />
+              <paneTree name="TextBox_38" />
+              <paneTree name="HorizonG_08">
+                <paneTree name="Frame_20" />
+                <paneTree name="TextBox_31" />
+              </paneTree>
+              <paneTree name="TextBox_40" />
+              <paneTree name="HorizonG_09">
+                <paneTree name="Frame_27" />
+                <paneTree name="TextBox_41" />
+              </paneTree>
+              <paneTree name="Group_06">
+                <paneTree name="Frame_09" />
+                <paneTree name="Group_02">
+                  <paneTree name="HorizonG_17">
+                    <paneTree name="Frame_11" />
+                    <paneTree name="TextBox_16" />
+                  </paneTree>
+                </paneTree>
+                <paneTree name="HorizonG_18">
+                  <paneTree name="Frame_12" />
+                  <paneTree name="TextBox_17" />
+                </paneTree>
+                <paneTree name="HorizonG_19">
+                  <paneTree name="Frame_13" />
+                  <paneTree name="TextBox_18" />
+                </paneTree>
+              </paneTree>
+              <paneTree name="Group_07">
+                <paneTree name="Frame_10" />
+                <paneTree name="TextBox_20" />
+                <paneTree name="HorizonG_22">
+                  <paneTree name="Frame_15" />
+                  <paneTree name="TextBox_21" />
+                </paneTree>
+                <paneTree name="HorizonG_23">
+                  <paneTree name="Frame_14" />
+                  <paneTree name="TextBox_22" />
+                </paneTree>
+              </paneTree>
+              <paneTree name="Group_08">
+                <paneTree name="Frame_18" />
+                <paneTree name="Group_03">
+                  <paneTree name="HorizonG_24">
+                    <paneTree name="Frame_19" />
+                    <paneTree name="TextBox_27" />
+                  </paneTree>
+                </paneTree>
+                <paneTree name="HorizonG_25">
+                  <paneTree name="Frame_17" />
+                  <paneTree name="TextBox_28" />
+                </paneTree>
+              </paneTree>
+              <paneTree name="Group_09">
+                <paneTree name="Frame_24" />
+                <paneTree name="Group_04">
+                  <paneTree name="HorizonG_28">
+                    <paneTree name="Frame_26" />
+                    <paneTree name="TextBox_32" />
+                  </paneTree>
+                </paneTree>
+                <paneTree name="HorizonG_27">
+                  <paneTree name="Frame_21" />
+                  <paneTree name="TextBox_33" />
+                </paneTree>
+              </paneTree>
+              <paneTree name="Group_10">
+                <paneTree name="Frame_25" />
+                <paneTree name="TextBox_35" />
+                <paneTree name="HorizonG_26">
+                  <paneTree name="Frame_22" />
+                  <paneTree name="TextBox_37" />
+                </paneTree>
+                <paneTree name="HorizonG_29">
+                  <paneTree name="Frame_23" />
+                  <paneTree name="TextBox_36" />
+                </paneTree>
+              </paneTree>
+              <paneTree name="Group_11">
+                <paneTree name="Frame_30" />
+                <paneTree name="Group_05">
+                  <paneTree name="HorizonG_30">
+                    <paneTree name="Frame_31" />
+                    <paneTree name="TextBox_42" />
+                  </paneTree>
+                </paneTree>
+                <paneTree name="HorizonG_31">
+                  <paneTree name="Frame_29" />
+                  <paneTree name="TextBox_43" />
+                </paneTree>
+                <paneTree name="HorizonG_32">
+                  <paneTree name="Frame_28" />
+                  <paneTree name="TextBox_44" />
+                </paneTree>
+              </paneTree>
+              <paneTree name="TextBox_24" />
+              <paneTree name="TextBox_29" />
+              <paneTree name="TextBox_39" />
+            </paneTree>
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="4278" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="true">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>0</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../../textures/frame/threeb_heading_big_shadow.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_big_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_big_02.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_photo_frame_shadow.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_photo_frame.tga" />
+      <textureFile imagePath="../../textures/hard/button_HOME.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_mid_01.tga" />
+      <textureFile imagePath="../../textures/hard/button_START.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_left_blue_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_left_blue_02.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_right_blue_02.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_right_blue_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_left_blue_03.tga" />
+      <textureFile imagePath="../../textures/vc_menu/vc_menu_04.tga" />
+      <textureFile imagePath="../../textures/vc_menu/vc_menu_03.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_tips_02.tga" />
+      <textureFile imagePath="../../textures/mark/exclamation.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_heading_mid_02.tga" />
+      <textureFile imagePath="../../textures/frame/free_tips_01.tga" />
+      <textureFile imagePath="../../textures/frame/frame_R_gray_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_tips_01.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>

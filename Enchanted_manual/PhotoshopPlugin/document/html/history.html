@@ -1,0 +1,82 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title>Revision History </title>
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+</head>
+<body>
+<h1>Revision History </h1>
+
+<h2>2010-10-20 </h2>
+<p>Additions and Changes </p>
+<ul>
+<li>Added support for Adobe Photoshop CS5 (32-bit/64-bit). </li>
+</ul>
+<p>Bug Fixes </p>
+<ul>
+<li>Revised the Mipmap Creation plug-in so that the display of <b>ALL(ETC1)</b> would not be cut off </li>
+</ul>
+
+<h2>2010-09-20 </h2>
+<p>Additions and Changes </p>
+<ul>
+<li>In the <b>Save</b> dialog box for TGA files, the <b>For LayoutEditor</b> option is now a choice instead of a compulsory selection when a texture is not the right size or is a cube map texture. </li>
+<li>The selection made for <b>For LayoutEditor</b> option in the <b>Save</b> dialog box for TGA files is now saved to and read from the registry. </li>
+<li>When selecting the ETC1 compression format in the dialog boxes to save TGA and CTEX files, all data is cached after it has been encoded. </li>
+<li>Added <b>ALL(ETC1) </b>(the maximum number of ETC1 compressed mipmaps) to the list in the Mipmap Creation plug-in. </li>
+</ul>
+
+<h2>2010-07-16 </h2>
+<p>Additions and Changes </p>
+<ul>
+<li>Added 64-bit support. </li>
+<li>The normal map creation plug-in now processes by layers. </li>
+<li>Added a feature to the normal map creation plug-in for multiplying the alpha channel by the height map. </li>
+<li>Added a feature to the normal map creation plug-in for saving and loading settings. </li>
+<li>The folder selection dialog box can now be resized when using the plug-in for collecting particle images. </li>
+</ul>
+<p>Bug Fixes </p>
+<ul>
+<li>Fixed a bug in the Normal Map Creation plug-in where the alpha channel would not be not multiplied if there was only a background layer and not all of the channels—RGB and alpha—were selected. </li>
+<li>Fixed a bug with the Normal Map Creation plug-in where a file extension was not being automatically added when saving settings. </li>
+</ul>
+
+<h2>2010-06-22 </h2>
+<p>Additions and Changes </p>
+<ul>
+<li>Updated the plug-in to version 0.8.0. </li>
+<li>When an 8x8 pixel mipmap is being created, you can now select ETC1 on the <b>NW4C_Tga Format Option</b> screen, and when you go to save the file, a message dialog box now appears.  </li>
+<li>Changed the processing with the HILO8 format so that the B component is set to 0x00 and the A component is set to 0xFF. </li>
+<li>Updated the CTEX version information to version 0.7.0. </li>
+<li>Added a plug-in for creating normal maps. </li>
+<li>Added a plug-in for collecting particle images. </li>
+</ul>
+
+<h2>2009-12-10 </h2>
+<p>Additions and Changes </p>
+<ul>
+<li>Updated the plug-in to version 0.3.0. </li>
+</ul>
+<p>Bug Fixes </p>
+<ul>
+<li>Fixed a bug where data could not be saved in LA4 format when the image width or height was 8. </li>
+<li>Fixed a bug where data in ETC1_A4 format was not being saved correctly. </li>
+<li>Fixed a bug where the <a href="NW4C_ETC.html">ETC filter</a> did not work correctly when the data was in the ETC1_A4 format. </li>
+</ul>
+
+<h2>2009-11-10 </h2>
+<p>Additions and Changes </p>
+<ul>
+<li>Updated the plug-in to version 0.2.1. </li>
+<li>The <a href="format.html">File Format plug-in</a> now supports the L4 and A4 formats. </li>
+<li>The <a href="NW4C_ColorDepth.html">Color Depth Filter plug-in</a> now supports the L4 and A4 formats. </li>
+</ul>
+
+<h2>2009-10-30 </h2>
+<p>Initial version. </p>
+
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

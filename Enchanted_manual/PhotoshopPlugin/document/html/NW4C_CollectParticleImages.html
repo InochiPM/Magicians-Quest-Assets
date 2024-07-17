@@ -1,0 +1,29 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+<title>Collect Particle Images Plug-In </title>
+</head>
+<body>
+
+<h2 id="collect_images">Collect Particle Images Plug-In </h2>
+<p>This plug-in collects serially numbered images from a specified Photoshop folder into a single image. </p>
+
+<h3 id="collect_opt">Usage </h3>
+<p>From the <b>File</b> menu, select <b>Automatic Processing</b> &gt; <b>NW4C_CollectParticleImages</b>. A dialog box appears. <br> Configure the settings, and then click <b>OK</b> to create a file that collects those settings. </p>
+<p><img src="images/CollectParticleImagesOpt1.gif" border="0"></p>
+<p>For <b>Target Folder</b>, enter the full path to the folder where the particle images are stored. <br> Click the <b>...</b> button to open a dialog box and browse for the folder. </p>
+<p>In <b>Number of pixels for one image</b>, select the image size. <br> Both the width and the height can be selected from drop-down lists. <br> For each dimension, you can select 8, 16, 32, 64, or 128. <br> If you select the <b>same value</b> option, when you choose a value for the height, the same value is selected for the width. </p>
+<p>In <b>Number of images of one line</b>, select how many images you want to place in a single line. <br> Both horizontal and vertical values can be selected from drop-down lists. <br> For each dimension, you can select 8, 16, 32, 64, or 16. <br> If you select the <b>same value</b> option, when you choose a value for <b>Vertical</b>, the same value is also selected for <b>Horizontal.</b> </p>
+<p>In <b>The alpha channel is processed</b>, select whether to enable or disable alpha channel processing. </p>
+<p>In <b>The pixel edge is painted out with the black</b>, select whether to fill the edge pixels of each frame of the collected images. <br> Select <b>Color Channel</b> to paint the one pixel at the edge with black. <br> Select <b>Alpha Channel</b> to paint the one pixel at the edge of the alpha channel with black. <br> This <b>Alpha Channel</b> option only works when <b>The alpha channel is processed</b> is enabled. </p><br> <br><h3 id="collect_notes">Notes </h3>
+
+<h4 id="collect_layer">Layers </h4>
+<p>If the selected image has multiple view layers, the layers are automatically merged into one. <br> If alpha processing is being used and the loaded image includes a background layer, merge all visible layers other than the background layer and use them. </p>
+
+<h4 id="collect_interp">Image Interpolation Methods </h4>
+<p>Use <b>Bilinear</b> for the interpolation method when enlarging or reducing an image. </p>
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

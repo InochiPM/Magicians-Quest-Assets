@@ -1,0 +1,448 @@
+/*****************************************************************************
+	Stylesheet for the Man Page
+
+ *****************************************************************************/
+
+BODY
+{
+	font-family			: Arial;
+	font-size			: 10pt;
+
+	background-color	: #fff;
+	color				: #111;
+
+	margin				: 8px;
+	padding				: 0px;
+}
+
+
+/*============================================================
+	Styles for Headings
+ *============================================================*/
+
+H1
+{
+	font-family			: Arial;
+	font-weight			: bold;
+	font-size			: 36px;
+
+	margin				: 0px 0px 20px  0px;
+	padding				: 0px 0px  0px 10px;
+
+	border-style		: none none solid none;
+	border-width		: 5px;
+	border-color		: #48f;
+}
+
+H2
+{
+	font-family			: Arial;
+	font-weight			: bold;
+	font-size			: 20px;
+
+	margin				: 30px 0px 10px  0px;
+	padding				:  0px 0px  0px 10px;
+
+	border-style		: none none solid double;
+	border-width		: 0px 0px 2px 8px;
+	border-color		: #49f;
+}
+
+H3
+{
+	font-family			: Arial;
+	font-weight			: bold;
+	font-size			: 12px;
+
+	margin				: 20px 0px 10px 20px;
+	padding				: 0px;
+}
+
+H4
+{
+	font-family			: Arial;
+	font-size			: 12px;
+
+	margin				: 20px 0px 10px 20px;
+	padding				: 0px 4px;
+
+	border-style		: solid solid solid solid;
+	border-width		: 1px;
+}
+
+/*============================================================
+	Style for Syntax
+ *============================================================*/
+
+PRE.construction
+{
+	font-family			: "Courier New", monospace;
+	font-weight			: normal;
+	font-size			: 11pt;
+
+	margin				: 0px 0px 10px 20px;
+	padding				: 0px;
+
+	background-color	: #fff;
+}
+
+
+/*============================================================
+	Style for Parameters
+ *============================================================*/
+
+TABLE.arguments
+{
+	font-family			: Arial;
+	font-size			: 10pt;
+
+	width				: 95%;
+	padding				: 0px;
+	margin-left			: 20px;
+
+	border-style		: none;
+}
+
+TABLE.arguments TH, span.argument
+{
+	font-style			: oblique;
+	font-weight			: bold;
+}
+
+TABLE.arguments TH
+{
+	text-align			: left;
+
+	width				: 20%;
+	padding				: 2px 8px 2px 4px;
+	margin				: 0px;
+
+	border-width		: 2pt;
+	border-style		: none;
+	background			: #ddf;
+
+}
+
+TABLE.arguments TD
+{
+	font-style			: normal;
+	font-weight			: normal;
+	text-align			: left;
+
+	padding				: 2px 4px 2px 4px;
+	margin				: 0px;
+
+	border-width		: 2pt;
+	border-style		: none;
+	background			: #ddf;
+}
+
+/*============================================================
+	Tables in Lists *============================================================*/
+
+TABLE.list_table
+{
+	font-family			: Arial;
+	font-size			: 10pt;
+
+	width				: 85%;
+	padding				: 0px;
+	margin-left			: 00px;
+
+	border-style		: none;
+}
+
+TABLE.list_table TH, span.argument
+{
+	font-style			: oblique;
+	font-weight			: bold;
+}
+
+TABLE.list_table TH
+{
+	text-align			: left;
+
+	width				: 20%;
+	padding				: 2px 8px 2px 4px;
+	margin				: 0px;
+
+	border-width		: 2pt;
+	border-style		: none;
+	background			: #ddf;
+
+}
+
+TABLE.list_table TD
+{
+	font-style			: normal;
+	font-weight			: normal;
+	text-align			: left;
+
+	padding				: 2px 4px 2px 4px;
+	margin				: 0px;
+
+	border-width		: 2pt;
+	border-style		: none;
+	background			: #ddf;
+}
+
+/*============================================================
+	Style for Class Hierarchies
+ *============================================================*/
+
+PRE.hierarchy
+{
+	font-style			: normal
+	font-weight			: normal;
+	font-size			: 11pt;
+
+	margin				: 0px 0px 10px 20px;
+	padding				: 0px;
+
+	background-color	: #fff;
+}
+
+PRE.definition
+{
+	font-family			: "Courier New", monospace;
+	font-weight			: normal;
+	font-size			: 11pt;
+
+	margin				: 10px 20px 10px 40px;
+	padding				: 8px 12px 8px 12px;
+
+	background-color	: #eee;
+}
+
+
+/*============================================================
+	Style for Class Members
+ *============================================================*/
+
+TABLE.members, TABLE.demos
+{
+	width				: 95%;
+	padding				: 0px;
+	margin-left			: 20px;
+
+	border-style		: none;
+	border-width		: 0px;
+}
+
+TABLE.members CAPTION, TABLE.demos CAPTION
+{
+	font-family			: Arial;
+	font-style			: normal;
+	font-weight			: bold;
+	font-size			: 10pt;
+	text-align			: left;
+
+	padding				: 2px;
+	border-width		: 2px;
+	background			: #acf;
+	border-color		: #fff;
+	border-style		: none solid none solid;
+}
+
+TABLE.members TD, TABLE.members TH, TABLE.demos TD, TABLE.demos TH
+{
+	font-family			: Arial;
+	font-style			: normal;
+	font-weight			: normal;
+	font-size			: 10pt;
+	text-align			: left;
+
+	padding				: 2px;
+	border-width		: 2px;
+	background			: #ddf;
+	border-style		: none;
+}
+
+
+TABLE.members TH, TABLE.demos TH
+{
+	width				: 40%;
+}
+
+
+TABLE.members TH.category, TABLE.demos TH.category
+{
+	font-weight			: bold;
+	background			: #acf;
+}
+
+
+/*============================================================
+	Style for Reference Listings
+ *============================================================*/
+
+P.reference
+{
+	font-family			: "Courier New", monospace;
+	font-size			: 10pt;
+	font-weight			: normal;
+
+	margin				: 0px 8px 10px 20px;
+	padding				: 0px;
+}
+
+
+/*============================================================
+	Style for History Listings
+ *============================================================*/
+
+DL.history
+{
+	margin				: 0px 0px 10px 20px;
+	padding				: 0px;
+}
+
+DL.history DT
+{
+	font-family			: Arial;
+	font-style			: normal;
+	font-weight			: bold;
+	text-align			: left;
+	font-size			: 9pt;
+
+	margin				: 0px;
+	padding				: 0px;
+
+/*	background			: #eef; */
+}
+
+DL.history DD
+{
+	font-family			: Arial;
+	font-style			: normal;
+	font-weight			: normal;
+	text-align			: left;
+	font-size			: 10pt;
+
+	margin				: 0px 0px 4px 0px;
+	padding				: 0px;
+}
+
+
+/*============================================================
+	Style for Description Listings
+ *============================================================*/
+
+P
+{
+	font-family			: Arial;
+	font-weight			: normal;
+	font-size			: 10pt;
+
+	margin				: 0px 8px 10px 20px;
+	padding				: 0px;
+}
+
+PRE
+{
+	font-family			: "Courier New", monospace;
+	font-weight			: normal;
+	font-size			: 10pt;
+
+	margin				: 0px 20px 10px 30px;
+	padding				: 2px 4px 2px 4px;
+
+	background-color	: #eee;
+}
+
+UL
+{
+	font-family			: Arial;
+	font-weight			: normal;
+	font-size			: 10pt;
+
+	margin				: 0px 8px 10px 40px;
+	padding				: 0px;
+}
+
+OL
+{
+	font-family			: Arial;
+	font-weight			: normal;
+	font-size			: 10pt;
+
+	margin				: 0px 8px 10px 50px;
+	padding				: 0px;
+
+	list-style-type		: decimal;
+}
+
+LI
+{
+	margin				: 0px 8px 2px 16px;
+	padding				: 0px;
+}
+
+CODE
+{
+	font-family			: "Courier New", monospace;
+	font-size			: 10pt;
+
+	position			: normal;
+}
+
+TABLE.table
+{
+	margin				: 0px 8px 10px 20px;
+}
+
+TABLE.table TR, TABLE.table TD
+{
+	font-family			: Arial;
+	font-style			: normal;
+	font-weight			: normal;
+	font-size			: 10pt;
+	text-align			: center;
+
+	padding				: 2px;
+	border-width		: 2px;
+	background			: #dfd;
+	border-color		: #fff;
+	border-style		: none;
+}
+
+TABLE.table TH
+{
+	font-family			: Arial;
+	font-style			: normal;
+	font-weight			: bold;
+	font-size			: 10pt;
+	text-align			: left;
+
+	padding				: 2px;
+	border-width		: 2px;
+	background			: #BCF4D3;
+	border-color		: #fff;
+}
+
+/*============================================================
+	Style for Links
+ *============================================================*/
+
+A
+{
+	color				: inherit;
+	background			: inherit;
+	text-decoration		: none;
+}
+
+A:VISITED
+{
+	color				: inherit;
+}
+
+A:HOVER
+{
+	background			: #d0e0f0;
+	text-decoration		: underline;
+}
+
+A:ACTIVE
+{
+	color				: #ff0000;
+}

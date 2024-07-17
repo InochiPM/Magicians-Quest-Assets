@@ -1,0 +1,45 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+<title>CTEX Format Plug-In </title>
+</head>
+<body>
+
+<h2><a name="ctex_format">CTEX Format Plug-In</a></h2>
+<p>This plug-in saves and loads 3D intermediate texture files (CTEX files). </p>
+<p><a href="#ctex_save">Saving</a><br> <a href="#ctex_load">Loading</a><br> <a href="#ctex_notes">Notes</a> <br></p>
+
+<h3><a name="ctex_save">Saving</a></h3>
+<p>To save a texture as a 3D intermediate file, select <b>File</b> &gt; <b>Save as</b>, and set the file format to <b>NW4C_ctex</b>. <br> Enter a name for the CTEX file and click <b>Save</b>. A dialog box appears. </p>
+<p>The options are the same as for the <a href="NW4C_Tga.html#tga_save">TGA Format plug-in</a>. <br> However, you cannot select the<b> For LayoutEditor</b> option. </p>
+<table class="arguments"><tbody><tr><td>This plug-in can save CTEX files conforming to version 0.7.0. </td></tr></tbody></table>
+<p><br></p>
+
+<h3><a name="ctex_load">Loading</a></h3>
+<p>To load a 3D intermediate file for a texture (a CTEX file), select <b>File</b> &gt; <b>Open</b>, select the CTEX file, and then click <b>Open</b>. <br> You can also load CTEX files by dragging them to the Photoshop window. </p>
+<p>The Photoshop image mode that results after loading the CTEX file is determined based on the format being used, as follows. </p>
+<table class="arguments" style="width:auto;">
+<tbody>
+<tr>
+<th nowrap style="width:100px;">Format name </th>
+<th nowrap style="width:200px;">Image mode after loading </th>
+</tr>
+<tr>
+<td nowrap valign="top">L4<br>L8<br>A4<br>A8<br>LA4<br>LA8 </td>
+<td nowrap valign="top">Grayscale </td>
+</tr>
+<tr>
+<td nowrap valign="top">HILO8<br>RGB565<br>RGB8<br>RGB5_A1<br>RGBA4<br>RGBA8<br>ETC1<br>ETC1_A4 </td>
+<td nowrap valign="top">RGB </td>
+</tr>
+</tbody>
+</table>
+
+<h3><a name="ctex_notes">Notes</a></h3>
+<p>Notes are the same as for the <a href="NW4C_Tga.html#tga_notes">TGA Format plug-in</a>. <br> Note, however, that <b>the image quality will not be retained</b> when you reload a saved NW4C_ctex file if the format was something other than L8, A8, LA8, HILO8, RGB8, or RGBA8. <br> The size for both the image height and width must be a power of two between 8 and 1024. </p>
+<p>About the <CODE>Path</CODE> attribute of the &lt;ImageTextureCtr&gt; tab in the 3D intermediate file (CTEX)<br> The <CODE>Path</CODE> attribute shows the path of the original file. <br>If you selected <b>File</b> &gt; <b>Save As</b> to save the CTEX file, the original filename (that was loaded in PhotoShop) is saved here, instead of the name of the saved CTEX file. <br> </p>
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

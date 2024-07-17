@@ -1,0 +1,2394 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<title>CTR E-Manual Templates Version 4.5</title>
+<style type="text/css">
+<!--
+	/* REVISION HISTORY TABLES */
+	.table1 {border: 2px solid #900;border-collapse:collapse;width:80%; margin-left:30px;}
+		.table1 td {background: #fff url("images/sprites.gif") repeat-x 0 -1600px;padding:3px;border: 1px solid #fff}
+		.table1 th {text-align:left;border: 1px solid #fff}
+		.table1 thead th {color:#fff;font-size:145%;background: #900 url("images/sprites.gif") repeat-x 0 -1300px;padding: 10px 6px}
+		.table1 tbody th {color:#fff;font-size:115%;background: #88b8db url("images/sprites.gif") repeat-x 0 -1400px;padding: 6px}
+		.table1 tbody th.sub {font-size:100%;color:#000;background: #efefef url("images/sprites.gif") repeat-x 0 -1500px;padding: 6px}
+		
+body {
+/*
+    font-size       : 10pt;
+*/
+    font-weight     : normal;
+    color           : #000000;
+    margin          : 8px;
+}
+
+div {
+    width           : 98%;
+    white-space     : nowrap;
+}
+
+div.title {
+    text-align      : left;
+    font-weight     : bold;
+/*
+    font-size       : 16pt;
+*/
+    font-size       : 150%;
+    color           : #202020;
+    border-style    : double;
+    border-width    : 8px;
+    /* タイトルを囲む枠線の色を指定 */
+    border-color    : #cd202c;
+
+    /* RVL プラットフォーム系列 */
+/*
+    border-color    : #34beed;
+*/
+
+    /* TWL プラットフォーム系列 */
+/*
+    border-color    : #ff458f;
+*/
+
+    margin          : 4px;
+    padding         : 4px;
+}
+
+h1 {
+    font-weight     : bold;
+/*
+    font-size       : 16pt;
+*/
+    font-size       : 150%;
+    border-style    : none none solid double;
+    border-width    : 0px 0px 2px 8px;
+    /* 見出しの線の色を指定 */
+    border-color    : #cd202c;
+
+    /* RVLプラットフォーム系列 */
+/*
+    border-color    : #34beed;
+*/
+
+    /* TWLプラットフォーム系列 */
+/*
+    border-color    : #cd202c;
+*/
+
+    margin-left     : 4px;
+    padding-left    : 4px;
+}
+
+p {
+    margin-left     : 4px;
+}
+/* テーブル */
+table {
+	width:                  auto;
+	margin:                 1em 1em;
+	font-size:              100%;
+	font-weight:            normal;
+	border:                 1px solid black;
+}
+th {
+	border:                 1px solid black;
+	padding:                0.2em 0.6em;
+	text-align:             left;
+}
+td {
+	border:                 1px solid black;
+	padding:                0.2em 0.6em;
+}
+thead {
+	text-align:             left;
+}
+th p {
+	margin:                 0.8em 0em 0.8em;
+}
+.text_right {
+	text-align:right;
+}
+.bc {
+	color: #01acca;
+}
+dl {
+	margin:                 0.8em 3em;
+	font-size:              100%;
+	font-weight:            normal;
+}
+div.warning {
+	background-color:       #FFA;
+	margin:                 1em 1em;
+	padding:                1em;
+	border-width:           1px;
+	border-color:           #000;
+	border-style:           solid;
+	font-size:				80%;
+}
+div.warning strong {
+	color:                  red;
+	font-weight:            bold;
+}
+body{
+    font-family:Arial, Helvetica, sans-serif; 
+    font-size:13px;
+}
+.info {
+    width : 93%;
+    white-space: pre-wrap;      /* CSS3 */   
+    white-space: -moz-pre-wrap; /* Firefox */    
+    white-space: -pre-wrap;     /* Opera <7 */   
+    white-space: -o-pre-wrap;   /* Opera 7 */    
+    word-wrap: break-word;      /* IE */
+    border: 1px solid;
+    margin: 10px 10px 0px;
+    padding:15px 10px 15px 50px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+}
+.info {
+    color: #00529B;
+    background-color: #BDE5F8;
+    background-image: 
+	}
+-->
+</style>
+
+</head>
+<body>
+<a name="top"></a>
+
+<div class="title">
+Readme-CTR_E_Manual_Templates-4_6-en.html<br /> <br />CTR E-Manual Templates Version 4.6<br />
+</div>
+
+<h1>Contents</h1>
+    <ol>
+<li><a href="#ss01">Introduction</a></li>
+<li><a href="#ss02">Notes</a></li>
+<li><a href="#ss03">System Requirements</a></li>
+<li><a href="#ss04">File List</a></li>
+<li><a href="#ss05">Grace Period</a></li>
+<li><a href="#ss06">Next Steps</a></li>
+<li><a href="#ss07">Revision History</a></li>
+    </ol>
+
+<h1>1. <a name="ss01">Introduction</a></h1>
+    <p>
+This package contains the templates and a manual for creating electronic manuals (&quot;e-manuals&quot;) to display on the Nintendo 3DS system.<br />
+    </p>
+
+<div align="right"><a href="#top">Back to top</a></div>
+
+<h1>2. <a name="ss02">Notes</a></h1>
+<p>
+It is now possible to use e-manuals for card-based applications, as well as downloadable applications. This package also explains how to create e-manuals for card-based applications.
+</p>
+<p>
+The middleware copyright template units contain copyright wording that is based on the contracts between Nintendo and the companies involved or the rules of other companies. Middleware legal lines are intended to be applied for software that uses Nintendo-provided middleware. For licensee-published titles, adjust these templates as necessary based on any contracts with other companies or those companies&rsquo; guidelines. 
+</p>
+
+<div align="right"><a href="#top">Back to top</a></div>
+
+<h1>3. <a name="ss03">System Requirements</a></h1>
+<p>The following software is required to use this package:<br /><br />• CTR-ManualEditor (included in the CTR-ManualTools package)<br /> <br />• Adobe Photoshop CS6/CS5/CS4/CS3/CS2 (Windows version)<br /> <br />• CTR-ManualTools_PhotoshopPlugin (included in the CTR-ManualTools package)<br />
+    </p>
+
+<div align="right"><a href="#top">Back to top</a></div>
+
+<h1>4. <a name="ss04">File List</a></h1>
+    <p>
+<pre>
+CTR-E_Manual_Templates-XXXXXX
+    |
+    +- CTR-E_Manual_Cookbook_1.pdf         : CTR E-Manual Creation Guide, Part 1: Manual Creation Workflow
+    |
+    +- CTR-E_Manual_Cookbook_2.pdf         : CTR E-Manual Creation Guide, Part 2: Template Units
+    |
+    +- Templates                           : All the templates are stored in this directory, and used by the &quot;Template Manager&quot;
+    |    |                                   feature of CTR-ManualEditor
+    |    |
+    |    +- USA_en/                        : Language folder
+    |        | 
+    |        +- layouts/                   : Stores the layout data (.ncpg files)
+    |        |     | 
+    |        |     +-accessory/            : Fixed-language text related to accessories (template units)
+    |        |     | 
+    |        |     +-button/               : Stores the START, SELECT, and HOME button images (design templates)
+    |        |     | 
+    |        |     +-communications/       : Fixed-language text related to communication (template units)
+    |        |     | 
+    |        |     +-copyright&trademark/  : Fixed-language legal text, including copyrights, trademarks, and legal disclaimers (template units)
+    |        |     | 
+    |        |     +-emanual_code/         : E-manual Code (template unit)
+    |        |     | 
+    |        |     +-font/                 : Fixed-language attribution and licensing text for fonts (template units)
+    |        |     | 
+    |        |     +-generic_fig/          : General-purpose headings, tables, and callouts (design templates)
+    |        |     | 
+    |        |     +-language/         	   : Notice of English language images in localized templates (template unit)
+    |        |     | 
+    |        |     +-middleware/           : Fixed-language attribution and licensing text for middleware (template units)
+    |        |     | 
+    |        |     +-oss/                  : Open source software (template units)
+    |        |     | 
+    |        |     +-support_info/         : Support information (template units)
+    |        |     | 
+    |        |     +-vc/                   : Templates created specifically for Virtual Console titles (design templates)
+    |        |     | 
+    |        |     +-warning/              : Health and safety information, online-related precautions (template units)
+    |        |     
+    |        +- textures/                  : Stores images used by the templates (in .tga format)
+    |              | 
+    |              +-frame/                : Images for frames
+    |              | 
+    |              +-hard/                 : Images for buttons, hardware, and the stylus
+    |              | 
+    |              +-mark/                 : Logos, icons, and other miscellaneous illustrations
+    |              | 
+    |              +-other/                : Other image files
+    |              | 
+    |              +-vc_menu/              : Images specific to Virtual Console titles
+    | 
+    | 
+    +- Readme-CTR_E_Manual_Templates-4_6-en.html     : This document
+</pre>
+    <br />
+    </p>
+
+<div align="right"><a href="#top">Back to top</a></div>
+
+<h1>5. <a name="ss05">Grace Period</a></h1>
+<p>
+The specifications in <I>CTR Electronic Manual Creation Guide, Version 4.6</I> are mandatory for master submissions after February 1, 2019.
+</p> 
+<p>
+It is always prudent to use the latest released version of the templates, but a grace period allows most of the specifications from earlier versions of the <I>CTR Electronic Manual Creation Guide</I> to be accepted as follows: 
+</p>
+	<ul>
+		<li>
+		<I>CTR Electronic Manual Creation Guide</I> version 4.5 can be used until January 31, 2019.
+		</li>
+	</ul>
+<p>
+Note, however, that critical items &#8212; underlined items in sections identified with a &quot;&#9670;&quot; symbol &#8212; in the most recent guide’s Revision History must be addressed prior to submission, <b>even during the grace period</b>.
+</p>
+<p>
+The following guidelines govern master submissions:
+</p>
+<table cellspacing=0 cellpadding=4>
+<thead>
+  <tr>
+    <th>Release Type</th>
+    <th>Acceptable Template Version</th>
+    <th>Action Required</th>
+  </tr>
+</thead>
+<tr>
+  <td rowspan=2>New Title</td>
+  <td>Latest release</td>
+  <td>No research required</td>
+</tr>
+<tr>
+  <td>Earlier release within grace period</td>
+  <td>Address critical items from subsequent releases</td>
+</tr>
+<tr>
+  <td>Re-released Title</td>
+  <td>Earlier release (even if the grace period has expired)</td>
+  <td>Address critical items from subsequent releases</td>
+</tr>
+<tr>
+  <td>Card-based titles being released as downloads, or vice-versa</td>
+  <td>Earlier release (even if the grace period has expired)</td>
+  <td>Address critical items from subsequent releases</td>
+</tr>
+</table>
+<ul>
+<li>If your software was developed as a card-based application and you then wish to sell it as a downloadable application, follow the rules in the &quot;Creating a Downloadable Application&quot; section of <I>CTR Programming Manual: How to Create Applications</I>.
+</ul>
+<div align="right"><a href="#top">Back to top</a></div>
+<h1>6. <a name="ss06">Next Steps</a></h1>
+    <p>
+See the <I>CTR Electronic Manual Creation Guide</I> (both parts) for tips and rules related to e-manual creation. <br />
+    </p>
+
+<div align="right"><a href="#top">Back to top</a></div>
+
+<h1>7. <a name="ss07">Revision History</a></h1>
+    <dl>
+This section describes the revision history of the NOA templates. <br /><br />
+
+<b>*** Unless specifically noted, changes apply to all languages ***</b>
+
+<h3>Version 4.6 (2018-08-01)</h3>
+
+
+	<h4>Content Changes</h4>
+
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Template</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>illegal_copy.ncpg</code></td>
+				<td colspan="2">Updated legal wording.</td>
+			</tr>
+		</tbody>
+	</table>
+</br>
+
+	</ul>			
+		<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">Removed Template</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+				</tr>
+				<tr>
+					<td><code>nuance.ncpg</code></td>
+				</tr>				
+			</tbody>
+		</table>
+
+
+<h3>Version 4.5 (2017-06-15)</h3>
+
+
+	<h4>Content Changes</h4>
+
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>amiibo.ncpg</code></td>
+				<td colspan="2">Added New Nintendo 2DS XL.</td>
+			</tr>
+			<tr>
+				<td><code>circle_pad1_ref.ncpg</code></td>
+				<td colspan="2">Added New Nintendo 2DS XL.</td>
+			</tr>
+			<tr>
+				<td><code>health_safety.ncpg</code></td>
+				<td colspan="2">Added New Nintendo 2DS XL.</td>
+			</tr>
+			<tr>
+				<td><code>new3ds.ncpg</code></td>
+				<td colspan="2">Added New Nintendo 2DS XL.</td>
+			</tr>
+		</tbody>
+	</table>
+</br>
+
+<h3>Version 4.4a (2017-04-15)</h3>
+
+<ul>
+<li>Changed template order in Section 2.1 2.1 Template Units – Requirements/Insertion Order (First Page).
+</ul>
+
+<h3>Version 4.4 (2016-11-30)</h3>
+
+<ul>
+<li>Corrected titles in Section 3.5 Parental Controls.
+</ul>
+
+	<h4>Structural Changes</h4>
+
+	<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">New Templates</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+				</tr>
+				<tr>
+					<td><code>unity.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>gameware.ncpg</code></td>
+				</tr>
+			</tbody>
+	</table>
+</br>
+
+	<h4>Content Changes</h4>
+
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>amiibo.ncpg</code></td>
+				<td colspan="2">Updated text for clarity.</td>
+			</tr>
+			<tr>
+				<td><code>internet_connection.ncpg</code></td>
+				<td colspan="2">Updated text for clarity.</td>
+			</tr>
+			<tr>
+				<td><code>add_contents.ncpg</code></td>
+				<td colspan="2">Added information about in-game currency.</td>
+			</tr>
+			<tr>
+				<td><code>timeticket.ncpg</code></td>
+				<td colspan="2">Updated text for clarity.</td>
+			</tr>
+			<tr>
+				<td><code>spotpass.ncpg</code></td>
+				<td colspan="2">Updated text for clarity.</td>
+			</tr>
+			</tbody>
+	</table>
+</br>
+
+
+
+<h3>Version 4.3 (2015-06-05)</h3>
+
+	<h4>Structural Changes</h4>
+
+	<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">New Templates</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+				</tr>
+				<tr>
+					<td><code>lang_3in1_NOA.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>libnx_oss_LZ4.ncpg</code></td>
+				</tr>
+			</tbody>
+	</table>
+</br>
+
+	<h4>Content Changes</h4>
+
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>amiibo.ncpg</code></td>
+				<td colspan="2">Updated text for clarity, changed color for bullets, changed the maximum spacing for justification, and removed sold-separately content.</td>
+			</tr>
+			<tr>
+				<td><code>standard_copyright.ncpg</code></td>
+				<td colspan="2">Changed the maximum spacing for justification.</td>
+			</tr>
+			<tr>
+				<td><code>vc_fig_chart.ncpg</code></td>
+				<td colspan="2">Changed the maximum spacing for justification.</td>
+			</tr>
+			<tr>
+				<td><code>vc_fig_line.ncpg</code></td>
+				<td colspan="2">Changed the maximum spacing for justification.</td>
+			</tr>
+		</tbody>
+	</table>
+</br>
+	
+<h3>Version 4.2.1 (2014-11-14)</h3>
+
+	<h4>Structural Changes</h4>
+
+	<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">New Template</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+				</tr>
+				<tr>
+					<td><code>amiibo.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>button2.ncpg</code></td>
+				</tr>
+				<tr>
+				<tr>
+					<td><code>new3ds.ncpg</code></td>
+				</tr>
+					<td><code>touchpen.ncpg</code></td>
+				</tr>
+			</tbody>
+	</table>
+</br>
+
+	<h4>Content Changes</h4>
+
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>add_contents.ncpg</code></td>
+				<td colspan="2">Changed layout slightly to remove the phrase "Use one of the following:" in relation to 
+				credit cards and eShop cards. Also revised the general purpose term for DLC.</td>
+			</tr>
+			<tr>
+				<td><code>circle_pad1_ref.ncpg</code></td>
+				<td colspan="2">Added reference to New Nintendo 3DS/3DS XL systems.</td>
+			</tr>
+			<tr>
+				<td><code>parental_control.ncpg</code></td>
+				<td colspan="2">Revised to use general purpose term for DLC.</td>
+			</tr>
+			<tr>
+				<td><code>support.ncpg</code></td>
+				<td colspan="2">Revised text instructions to developers.</td>
+			</tr>
+			<tr>
+				<td><code>timeticket.ncpg</code></td>
+				<td colspan="2">Changed layout slightly to remove the phrase "Use one of the following:" in relation to 
+				credit cards and eShop cards. Also revised the general purpose term for DLC.</td>
+			</tr>
+		</tbody>
+	</table>
+</br>
+	
+<h3>Version 4.1 (2014-04-24)</h3>
+
+	<h4>Structural Changes</h4>
+	<ul>
+		<li>
+		Added a new <code>xref.nfpg</code> template unit in French, Spanish, and Portuguese.
+		</li>
+	</ul>
+
+	<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">New Template</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+				</tr>
+				<tr>
+					<td><code>xref.ncpg</code></td>
+				</tr>
+			</tbody>
+	</table>
+</br>
+
+	<h4>Content Changes</h4>
+
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>add_contents.ncpg</code></td>
+				<td colspan="2">Changed "Nintendo Prepaid Card" to "Nintendo eShop card."</td>
+			</tr>
+			<tr>
+				<td><code>timeticket.ncpg</code></td>
+				<td colspan="2">Changed "Nintendo Prepaid Card" to "Nintendo eShop card."</td>
+			</tr>
+		</tbody>
+	</table>
+</br>
+	
+
+<h3>Version 4.0 (2014-01-14)</h3>
+
+	<h4>Structural Changes</h4>
+	<ul>
+		<li>
+		Added a new <code>libnx_oss.ncpg</code> template unit. (&quot;nlib&quot; is used only  for Nintendo-published titles.)
+		</li>
+		<li>
+		Merged, edited, and restructured existing content:
+			<ul>
+				<li>
+				Replaced <code>add_contents1.ncpg</code> and <code>add_contents2.ncpg</code> with <code>add_contents.ncpg</code>.
+				</li>
+				<li>
+				Replaced <code>timeticket1.ncpg</code> and <code>timeticket2.ncpg</code> with <code>timeticket.ncpg</code>.
+				</li>
+				<li>
+				Removed <code>balance.ncpg</code> and merged its content into both <code>add_contents.ncpg</code> and <code>timeticket.ncpg</code>.
+				</li>
+				<li>
+				Removed <code>greeting.ncpg</code> and merged its content into <code>health_safety.ncpg</code>.
+				</li>
+			</ul>
+	</ul>
+	<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">New Template</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+				</tr>
+				<tr>
+					<td><code>libnx_oss.ncpg</code></td>
+				</tr>
+			</tbody>
+		</table>
+		</br>
+		
+		<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">Removed Templates</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+				</tr>
+				<tr>
+					<td><code>add_contents1.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>add_contents2.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>balance.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>greeting.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>timeticket1.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>timeticket2.ncpg</code></td>
+				</tr>
+			</tbody>
+		</table>
+
+
+	<h4>Content Changes</h4>
+	<ul>
+		<li>
+		Replaced placeholder text, such as <code>XXXXXXXXX</code>, with workable sample text in as many templates as possible.
+		</li>
+		<li>
+		Changed color of placeholder text from red to blue.
+		</li>
+		<li>
+		Rewrote text that previously used the phrase &quot;copies of the software.&quot;
+		</li>
+		<li>
+		Replaced many references to &quot;Nintendo 3DS system&quot; with &quot;system in the Nintendo 3DS family&quot; to follow terminology revisions after the Nintendo 2DS launch.
+		</li>
+		<li>
+		When applicable, changed &quot;touch&quot; to &quot;select.&quot;
+		</li>
+		<li>
+		Reworked the &quot;speech bubbles&quot; in <code>timeticket.ncpg</code>. (They used to be static images, but are now frames that more gracefully accommodate varying text lengths.)
+		</li>
+	</ul>
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>add_contents.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>circle_pad3_cal.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>health_safety.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>internet.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>internet_connection.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>local.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>spotpass.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>streetpass.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>support.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>timeticket.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+			<tr>
+				<td><code>vc_download_play.ncpg</code></td>
+				<td colspan="2">Edited extensively.</td>
+			</tr>
+		</tbody>
+	</table>
+</br>
+	
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">New and Modified Texture Files</th>
+			</tr>
+		</thead>
+		<tbody>
+				<tr>
+					<th>Texture Name</th>
+				</tr>
+				<tr>
+					<td><code>bubble_corner.tga</code></td>
+				</tr>
+				<tr>
+					<td><code>bubble_spike.tga</code></td>
+				</tr>
+				<tr>
+					<td><code>bubble_spike_slant.tga</code></td>
+				</tr>
+				<tr>
+					<td><code>gray.tga</code></td>
+				</tr>
+				<tr>
+					<td><code>gray2.tga</code></td>
+				</tr>
+				<tr>
+					<td><code>icon_news.tga</code></td>
+				</tr>
+
+	
+		</tbody>
+	</table>
+	
+<h3>Version 3.3 (2013-06-13)</h3>
+
+	<h4>Structural Changes</h4>
+	<ul>
+		
+		<li>Removed the following template units in order to match NCL's templates more closely:</li>
+
+	</ul>			
+		<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">Removed Templates</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+				</tr>
+				<tr>
+					<td><code>mobiclip.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>speech_rate_conv.ncpg</code></td>
+				</tr>				
+			</tbody>
+		</table>
+
+
+	<h4>Content Changes</h4>
+
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>add_contents1.ncpg</code></td>
+				<td colspan="2">Changed "Add-on Content" to "DLC" in the page title.</td>
+			</tr>
+			<tr>
+				<td><code>add_contents2.ncpg</code></td>
+				<td colspan="2">Changed "Add-on Content" to "DLC" in the page title.</td>
+			</tr>
+			<tr>
+				<td><code>add_contents1.ncpg (fr)</code></td>
+				<td colspan="2">Changed "Achat de contenu additionnel" to "Achat de contenu telechargeable" in the page title.</td>
+			</tr>
+			<tr>
+				<td><code>add_contents2.ncpg (fr)</code></td>
+				<td colspan="2">Changed "Infos sur le contenu additionnel" to "Infos sur le contenu telechargeable" in the page title.</td>
+			</tr>			
+			<tr>
+			<td><code>add_contents1.ncpg (es)</code></td>
+				<td colspan="2">Changed "Adquirir contenido adicional" to "Adquirir contenido descargable" in the page title. Changed "Como comprar" to "Como adquirir".</td>
+			</tr>
+			<tr>
+				<td><code>add_contents2.ncpg (es)</code></td>
+				<td colspan="2">Changed "Sobre el contenido adicional" to "Sobre el contenido descargable" in the page title. Changed "que compres se" to que adquieras se".</td>
+			</tr>
+			<tr>
+				<td><code>balance.ncpg</code></td>
+				<td colspan="2">Changed "XXXXXX" to "Add Funds" and replaced the "Sample" text box with "Insuff_Funds" image.</td>
+			</tr>
+			<tr>
+				<td><code>balance.ncpg  (fr)</code></td>
+				<td colspan="2">Changed "XXXXXX" to "Approvisionner" and replaced the "Sample" text box with "Insuff_Funds" image.</td>
+			</tr>			
+			<tr>
+				<td><code>balance.ncpg  (es)</code></td>
+				<td colspan="2">Changed "XXXXXX" to "Anadir fondos" and replaced the "Sample" text box with "Insuff_Funds" image.</td>
+			</tr>			
+			<tr>
+				<td><code>balance.ncpg  (pt)</code></td>
+				<td colspan="2">Changed "XXXXXX" to "Adicionar creditos" and replaced the "Sample" text box with "Insuff_Funds" image.</td>
+			</tr>
+			<tr>
+				<td><code>emanual_code.ncpg</code></td>
+				<td colspan="2">Removed the regional destination code.</td>
+			</tr>
+			<tr>
+				<td><code>greeting_code.ncpg</code></td>
+				<td colspan="2">Removed the first paragraph and reversed the order of the second and third paragraph.</td>
+			</tr>
+			<tr>
+				<td><code>internet.ncpg</code></td>
+				<td colspan="2">Removed color tags around the text in the "Protecting Your Privacy" section. Also added new diamond bullet point and
+				note: "Refer to your Operations Manual for information about connecting your system to the Internet." (Moved from
+				<code>internet_connection.ncpg</code> template.)</td>
+			</tr>
+			<tr>
+				<td><code>internet_connection.ncpg</code></td>
+				<td colspan="2">Removed diamond bullet point and text, "Refer to your Operations Manual for information about connecting your system
+ 				to the Internet." (Moved to <code>internet.ncpg template</code>.)</td>
+			</tr>
+			<tr>
+				<td><code>nuance.ncpg</code></td>
+				<td colspan="2">Overhauled the design, including resizing the Nuance logo (NuanceLogoColor_TM.tga).</td>
+			</tr>
+			<tr>
+				<td><code>parental_control.ncpg</code></td>
+				<td colspan="2">Rewrote the introductory paragraph, and added specific names of the items within Parental Controls that can be supported at the application level, along with sample text for describing these features in a game-specific way. Also, per NOA Legal, added bullet point text at the end of the template that matches text in the Wii U Parental Control template.</td>
+			</tr>			
+			<tr>
+				<td><code>QR_code_reader.ncpg</code></td>
+				<td colspan="2">Removed text:"...in JAPAN and other countries," in order to conform with current legal agreements.</td>
+			</tr>
+			<tr>
+				<td><code>sleep_mode.ncpg (es)</code></td>
+				<td colspan="2">Changed "El modo de espera no se activara si cierras la consola mientras usas" to "El modo de espera no se activara si cierras la consola".</td>
+			</tr>			
+			<tr>
+				<td><code>spotpass_code.ncpg</code></td>
+				<td colspan="2">Removed diamond bullet point and text, "Before you can use SpotPass, you must first accept the Nintendo 3DS Service
+				User Agreement and set up an Internet connection."</td>
+			</tr>
+			<tr>			
+				<td><code>support.ncpg</code></td>
+				<td colspan="2">Removed template heading, "Support Information for Software Title".</td>
+			</tr>
+			<tr>			
+				<td><code>support_vc.ncpg</code></td>
+				<td colspan="2">Removed template heading, "Support Information for Software Title".</td>
+			</tr>
+			<tr>			
+				<td><code>support_vc.ncpg (es)</code></td>
+				<td colspan="2">Changed "Resolucion de problemas" to "Solucion de problemas".</td>
+			</tr>
+			<tr>			
+				<td><code>ugc.ncpg</code></td>
+				<td colspan="2">Restructured template to provide a description of user-generated content (UGC) and text regarding legal liability 
+				with regards to UGC. Also removed all variable text and restructured the layout to conform with NCL's <code>ugc.ncpg</code> template.</td>
+			</tr>
+			<tr>
+				<td><code>vc_switch_ctrl_alternate.ncpg</code></td>
+				<td colspan="2">Added opening paragraph, "This game was originally released on the Nintendo Entertainment System™, a console that supports two separate controllers. In keeping with this original functionality, you can switch between Controller 1 and Controller 2 while playing this game," to bring this template in line with the other vc_switch_ctrl templates.</td>
+			</tr>
+			<tr>
+				<td><code>INSUFF_FUNDS.tga (all languages)</code></td>
+				<td colspan="2">Created a new misc folder in the texture directory for each language and included a language-specific screenshot entitled INSUFF_FUNDS.tga to replace the Sample Text Box in the balance.ncpg template.</td>
+			</tr>
+			<tr>
+				<td><code>standard_copyright.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>LCfont_1.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>LCfont2.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>greeting.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>mpeg4.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>QR_code_reader.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>ar_cards.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>health_safety.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>illegal_copy.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>parental_control.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			<tr>
+				<td><code>stylus_caution.ncpg</code></td>
+				<td colspan="2">Changed the margin at the bottom of the template unit from 0 to 10 pixels.</td>
+			</tr>
+			
+		</tbody>
+	</table>
+
+<h3>Version 3.2.1 (2013-01-16)</h3>
+
+	<h4>Structural Changes</h4>
+	<ul>
+		
+		<li>Removed the following template unit in order to match NCL's templates more closely:</li>
+
+	</ul>
+	</br>			
+		<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">Removed Templates</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+				</tr>
+				<tr>
+					<td><code>QR_code.ncpg</code></td>
+					</tr>
+			</tbody>
+		</table>
+
+
+	<h4>Content Changes</h4>
+
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>backup.ncpg</code></td>
+				<td colspan="2">Changed the text from "...removing the Game Card or SD Card while saving..." to "...removing a Game Card or SD Card while saving..."</td>
+			</tr>
+			<tr>
+				<td><code>circle_pad1_ref.ncpg</code></td>
+				<td colspan="2">Changed the text from "See the Nintendo 3DS Circle Pad Pro Operations Manual..." to "See the Circle Pad Pro Operations Manual..."</td>
+			</tr>
+			<tr>
+				<td><code>balance.ncpg</code></td>
+				<td colspan="2">Changed the text from "Nintendo 3DS Prepaid Card" to "Nintendo Prepaid Card"</td>
+			</tr>			
+			<tr>
+				<td><code>support_vc.ncpg  (fr)</code></td>
+				<td colspan="2">Changed "Aide aux clients" to "Service a la clientele".</td>
+			</tr>
+			<tr>
+				<td><code>vc_switch_ctrl_single.ncpg  (fr)</code></td>
+				<td colspan="2">Added "Si vous n'arrivez pas a controler le jeu avec la manette 2, revenez a la manette 1." to the last paragraph to bring it into alignment with the other languages.</td>
+			</tr>			
+			<tr>
+				<td><code>support_vc.ncpg  (es)</code></td>
+				<td colspan="2">Changed page title from "Información de servicio al cliente" to "Información de ayuda".</td>
+			</tr>			
+		</tbody>
+	</table>
+
+
+	<h3>Version 3.1 (2012-10-10)</h3>
+
+	<h4>Structural Changes</h4>
+	<ul>
+		
+		<li>Moved the following template unit into different folder in order to match NCL's templates more closely:</li>
+
+	</ul>
+	</br>			
+		<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">Moved Templates</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+					<th>Previous Category</th>
+					<th>New Category</th>
+				</tr>
+				<tr>
+					<td><code>internet.ncpg</code></td>
+					<td><code>warning</code></td>
+					<td><code>communications</code></td>
+				</tr>
+			</tbody>
+		</table>
+
+
+	
+	<h4>Style Changes Made Throughout Templates</h4>
+
+	<ul>
+		<li>A number of slight content changes were made in order to align more closely with NCL's layouts or improve the flow, or correct previous errors.</li>
+	</ul>
+
+	<h4>Content Changes</h4>
+
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>nuance.ncpg</code></td>
+				<td colspan="2">New template featuring the Nuance logo added to the <code>middleware</code> folder.</td>
+			</tr>
+			<tr>
+				<td><code>nintendo_network.ncpg</code></td>
+				<td colspan="2">Template deleted. Content moved to <code>internet.ncpg</code> and <code>internet_connection.ncpg</code> templates.</td>
+			</tr>
+			<tr>
+				<td><code>internet_connection.ncpg</code></td>
+				<td colspan="2">Added five text boxes with variable text (red Xs) to bottom of template.</td>
+			</tr>
+			<tr>
+				<td><code>internet.ncpg</code></td>
+				<td colspan="2">One of the text boxes has been removed, the objects have been renamed (renumbered), and some content from the old <code>nintendo_network</code> template has been added to this file.</td>
+			</tr>
+			<tr>
+				<td><code>vc_menu.ncpg</code></td>
+				<td colspan="2">All red text (for example, in notes and captions) has been changed to an orange color.</td>
+			</tr>
+			<tr>
+				<td><code>vc_menu_nes.ncpg</code></td>
+				<td colspan="2">All red text (for example, in notes and captions) has been changed to an orange color.</td>
+			</tr>
+			<tr>
+				<td><code>vc_menu_nes_dlplay.ncpg</code></td>
+				<td colspan="2">All red text (for example, in notes and captions) has been changed to an orange color.</td>
+			</tr>
+			<tr>
+				<td><code>vc_menu_save.ncpg</code></td>
+				<td colspan="2">All red text (for example, in notes and captions) has been changed to an orange color.</td>
+			</tr>
+			<tr>
+				<td><code>vc_menu_save_nes</code></td>
+				<td colspan="2">All red text (for example, in notes and captions) has been changed to an orange color.</td>
+			</tr>
+			<tr>
+				<td><code>vc_menu_save_nes_dlplay.ncpg</code></td>
+				<td colspan="2">All red text (for example, in notes and captions) has been changed to an orange color.</td>
+			</tr>
+			<tr>
+				<td><code>parental_control.ncpg</code></td>
+				<td colspan="2">Changed the heading from “Internet Communication” to “Parental Controls”.</td>
+			</tr>
+			<tr>
+				<td><code>ugc.ncpg</code></td>
+				<td colspan="2">Changed the heading (TextBox_06) from being one big placeholder to “Information-Sharing Precautions”.</td>
+			</tr>
+			<tr>
+				<td><code>download.ncpg (ES)</code></td>
+				<td colspan="2">Changed “Modo descarga” to “modo descarga”.</td>
+			</tr>
+			<tr>
+				<td><code>vc_download_play.ncpg (ES)</code></td>
+				<td colspan="2">Changed “Modo descarga” to “modo descarga”.</td>
+			</tr>
+			<tr>
+				<td><code>local.ncpg (ES)</code></td>
+				<td colspan="2">Changed “(Juego local)” to “(juego local)”.</td>
+			</tr>
+			<tr>
+				<td><code>internet_connection.ncgp (ES)</code></td>
+				<td colspan="2">Changed “(Internet)” to “(internet)”.</td>
+			</tr>
+		</tbody>
+	</table>
+
+
+<h3>Version 2.5a (2012-08-27)</h3>
+
+	<h4>Structural Changes</h4>
+	<ul>
+		<li>Renamed the following files in order to match NCL's templates more closely:</li>
+					
+		<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="2">Renamed Templates</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Previous Name</th>
+					<th>New Name</th>
+				</tr>
+				<tr>
+					<td><code>standard_copyright.ncpg</code></td>
+					<td><code>copyright_soft_02.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>support_internal.ncpg</code></td>
+					<td><code>support_nintendo.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>support_licensee.ncpg</code></td>
+					<td><code>support.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>personal_privacy.ncpg</code></td>
+					<td><code>internet.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>termsofuse.ncpg</code></td>
+					<td><code>illegal_copy.ncpg</code></td>
+				</tr>
+			</tbody>
+		</table>
+		
+		<li>Moved the following template units into different folders in order to match NCL's templates more closely:</li>
+				
+		<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="3">Moved Templates</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Template Name</th>
+					<th>Previous Category</th>
+					<th>New Category</th>
+				</tr>
+				<tr>
+					<td><code>illegal_copy.ncpg</code><br />(Formerly <code>termsofuse.ncpg</code>) </td>
+					<td><code>support_info</code></td>
+					<td><code>warning</code></td>
+				</tr>
+			</tbody>
+		</table>
+
+		<li>Aligned all object names with those used in NCL's Japanese templates, and made object names consistent for all NOA languages. This was done in order to prepare for a workflow change; future versions of the templates will be localized in MessageStudio.</li>
+		<li>The suffix <code>_NOA</code> has been added to all NOA-specific text boxes.</li>
+	</ul>
+	
+	<h4>Style Changes Made Throughout Templates</h4>
+	<ul>
+		<li>Changed all occurrences of notes (e.g., &quot;<span class="note">Note:</span> XXXX&quot;) to diamonds (e.g., &quot;<span class="note">?</span> XXXX&quot;) in order to conserve space and be consistent with the design standards created for the Wii&nbsp;U E-Manual Templates. In Spanish, this had the aftereffect of changing the subsequent letter from lowercase to capital.</li>
+		<li>Changed the font size for all notes from "Medium" to "Small" to conserve space and improve the balance of the files.</li>
+		<li>Replaced large black circles (?) and hyphens (-) with bullets (&bull;) in bulleted lists. The large black circle (?) symbol continues to be used to mark section headers.</li>
+		<li>Standardized on the use of pure black text to mark references to on-screen text in the US English templates. (In versions of the templates prior to 2.5a, this standard had not been applied consistently.)</li>
+		<li>Substantially increased the consistency of the amount of whitespace between vertically adjacent objects.</li>
+		<li>Unified the amount of whitespace at the top and bottom of each template with NCL's templates.</li>
+
+	</ul>
+
+	<h4>Content Changes</h4>
+	<ul>
+		<li>A number of slight content changes were made in order to align more closely with NCL's layouts or improve the flow, or correct previous errors:</li>
+	</ul>
+	<table class="table1">
+		<thead>
+			<tr>
+			<th colspan="3">Content Changes to Existing Templates</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>Template Name</th>
+				<th colspan="2">Description of Changes</th>
+			</tr>
+			<tr>
+				<td><code>add_contents1.ncpg</code></td>
+				<td colspan="2">Removed &quot;? Procedure,&quot; since it was an unnecessary heading.</td>
+			</tr>
+			<tr>
+				<td><code>circle_pad3_cal.ncpg</code></td>
+				<td colspan="2">Added a space (in an <code>&lt;indent&gt;</code> tag) to the &quot;Right Circle Pad&quot; callout.</td>
+			</tr>
+			<tr>
+				<td><code>copyright_soft_02.ncpg</code></td>
+				<td colspan="2">Changed the page title from &quot;Standard Copyright&quot; to &quot;Copyrights and Trademarks&quot; to match the Wii&nbsp;U e-manual templates.</td>
+			</tr>
+			<tr>
+				<td><code>generic_fig_line.ncpg</code></td>
+				<td colspan="2">Added two-digit callouts (somehow these were missing from NOA's templates for quite a long time).</td>
+			</tr>
+			<tr>
+				<td><code>greeting.ncpg</code></td>
+				<td colspan="2">Added a new paragraph explaining that within a given e-manual, the term &quot;Nintendo 3DS&quot; refers to both the Nintendo 3DS and the Nintendo 3DS XL systems. Also changed &quot;Nintendo 3DS Operations Manual&quot; to &quot;your operations manual&quot; to be generic enough to accomodate the Nintendo 3DS XL.</td>
+			</tr>
+			<tr>
+				<td><code>health_safety.ncpg</code></td>
+				<td colspan="2">Removed the initial heading (&quot;Health and Safety Information&quot;), since it was unnecessary. Also changed &quot;Nintendo 3DS Operations Manual&quot; to &quot;your operations manual&quot; to be generic enough to accomodate the Nintendo 3DS XL. Changed &quot;before using Nintendo 3DS&trade; software&quot; to &quot;before using this software.&quot;</td>
+			</tr>
+			<tr>
+				<td><code>illegal_copy.ncpg</code></td>
+				<td colspan="2">Added a header (&quot;IMPORTANT&quot;) to match the Japanese more closely, and also match the terms of use in the Wii&nbsp;U e-manual templates. Changed the font size from <strong>Smallest</strong> to <strong>Small</strong>.</td>
+			</tr>
+			<tr>
+				<td><code>internet_connection.ncpg</code></td>
+				<td colspan="2">Changed &quot;Nintendo 3DS Operations Manual&quot; to &quot;your operations manual&quot; to be generic enough to accomodate the Nintendo 3DS XL.</td>
+			</tr>
+			<tr>
+				<td><code>mpeg4.ncpg</code></td>
+				<td colspan="2">Removed an unnecessary line break.</td>
+			</tr>
+			<tr>
+				<td><code>sleep_mode.ncpg</code></td>
+				<td colspan="2">Removed the <code>&lt;indent&gt;</code> tag so that this text can be integrated more naturally into other pages.</td>
+			</tr>
+			<tr>
+				<td><code>spotpass.ncpg</code></td>
+				<td colspan="2">Removed &quot; ? Setup,&quot; since it was an unnecessary heading. Streamlined the text by making the former &quot;? Setup&quot; content into a note, and making the bulleted list of requirements part of this note.</td>
+			</tr>
+			<tr>
+				<td><code>streetpass.ncpg</code></td>
+				<td colspan="2">Made the sentence about all users needing to activate StreetPass into a note for readability's sake. Reorganized the note at the bottom of the template.</td>
+			</tr>
+			<tr>
+				<td><code>support.ncpg</code></td>
+				<td colspan="2">Replaced the &quot;Dummy Support&quot; content with an outline of suggested information to match NCL's template and NOA's Wii&nbsp;U templates. Also added a note about not providing gameplay tips.</td>
+			</tr>
+			<tr>
+				<td><code>timeticket1.ncpg</code></td>
+				<td colspan="2">Added ? symbols before the &quot;Duration of &hellip;&quot; and &quot;How to Purchase &hellip;&quot; sections to make them stand out more.</td>
+			</tr>
+			<tr>
+				<td><code>timeticket2.ncpg</code></td>
+				<td colspan="2">Changed &quot;[name of software]&quot; to &quot;Software Title&quot; to be consistent with notation used elsewhere in the templates.</td>
+			</tr>
+			<tr>
+				<td><code>vc_end.ncpg</code></td>
+				<td colspan="2">Changed &quot;please see Suspend Point on the Virtual Console Functions page&quot; to &quot;please see the &apos;Suspend Point&apos; section of the Virtual Console Functions page&quot; for clarity.</td>
+			</tr>
+			<tr>
+				<td><code>vc_fig_line.ncpg</code></td>
+				<td colspan="2">Added two-digit callouts (somehow these were missing from NOA's templates for quite a long time).</td>
+			</tr>
+			<tr>
+				<td><code>vc_menu*.ncpg</code></td>
+				<td colspan="2">Removed &quot;or hold (X)&quot; to match the Japanese. Made the headings (for example, &quot;Activate/Deactivate Restore Points,&quot; &quot;When Restore Points Are Activated,&quot; and &quot;When Restore Points Are Deactivated&quot; from &quot;Medium&quot; to &quot;Small&quot; font size. As a result, some headings now span two lines. Outdented the body text under the &quot;Creating a Restore Point&quot; and &quot;Loading a Resetore Point&quot; sections.</td>
+			</tr>
+			<tr>
+				<td><code>vc_menu_save*.ncpg</code></td>
+				<td colspan="2">In the first paragraph under the &quot;Restore Points&quot; section, added &quot;including any in-game save data&quot; to match the Japanese and better reflect the specifications. Added a &quot;Caution&quot; symbol before the &quot;Be careful when using restore points!&quot; section. Changed &quot;October 24&quot; and &quot;October 28&quot; to &quot;October 24th&quot; and &quot;October 28th,&quot; respectively. Did the same thing for &quot;Oct. 24&quot; and &quot;Oct. 28.&quot; Implemented the boxes for Game Content, Game Progress, and Save Data as linked groups. </td>
+			</tr>
+			<tr>
+				<td><code>vc_switch_ctrler_multi.ncpg</code></td>
+				<td colspan="2">Made the note &quot;You cannot use Controller 2&hellip;&quot; red, since this doesn't always need to be used. Implemented separate paragraphs and notes as separate text boxes. 
+								<strong>TODO:</strong> In the next version (3.1), I'd like to add &quot;You cannot switch controllers during Download Play&quot; to match the Japanese. This seems like important information. 
+								<strong>TODO:</strong> I should check with Scott and the rest of the team to make sure they remove &quot;You cannot use both controllers at the same time.&quot; which was present in Scott's latest text file. I believe Treehouse said they didn't want to include this text, because it was so incredibly obvious, and NCL accepted (it's already removed from 2.5)./td>
+			</tr>
+			<tr>
+				<td><code>vc_switch_ctrler_single.ncpg</code></td>
+				<td colspan="2">Implemented separate paragraphs and notes as separate text boxes.</td>
+			</tr>
+		</tbody>
+	</table>
+	
+	<h4>Permanent Differences Between NCL's and NOA's Templates</h4>
+
+	<ul>
+		<li>The following structural differences continue to exist between NOA's and NCL's templates.<br />(<strong>Note:</strong> TGA files specific to each region are not shown)</li>
+	</ul>
+				
+		<table class="table1">
+			<thead>
+				<tr>
+				<th colspan="2">Remaining Structural Differences (JPN vs USZ)</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<th>Japanese File</th>
+					<th>English File</th>
+				</tr>
+				<tr>
+					<td><code>-</code></td>
+					<td><code>generic_fig_photoframe.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>-</code></td>
+					<td><code>ar_cards.ncpg</code></td>
+				</tr>
+
+				<tr>
+					<td><code>-</code></td>
+					<td><code>stylus_caution.ncpg</code></td>
+				</tr>
+				<tr>
+					<td><code>copyright_ds.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>copyright_pokemon.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>copyright_soft_01.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>copyright_soft_03.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>registration.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>Dynafont.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>fontworks.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>LCfont_3.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>FaceU.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>gesture.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>LiteSpeech.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>rakuhira.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>vc_copyright.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>vc_templates.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>business_use_01.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>
+				<tr>
+					<td><code>business_use_02.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>							
+				<tr>
+					<td><code>use_attention.ncpg</code></td>
+					<td><code>-</code></td>
+				</tr>							
+			</tbody>
+		</table>
+
+<h3>Version 2.5a (2012-06-06)</h3>
+<pre>
+
+* greeting.ncpg (PT)
+
+      - Changed "comecar" to "usar este software"
+      - Changed "Nintendo 3DS" to "console"
+
+* greeting.ncpg (ES)
+
+      - Deleted "Nintendo 3DS" in the third paragraph
+	
+* health_safety.ncpg (PT)
+ 
+      - Changed "um software Nintendo 3DS" to "este software"  
+
+* health_safety.ncpg (ES)
+ 
+      - Changed "los titulos de la consola Nintendo 3DS" to "este programa"  
+      
+* streetpass.ncpg (ES)
+ 
+      - Changed "Este programa te permite el uso de funciones como el 
+        registro en clasificaciones o el intercambio de datos a treves 
+        del servicio StreetPass (comunicacion inalambrica local.)" 
+        to "Este programa emplea el servicio StreetPass (comunicación 
+        inalámbrica local), lo que permite el uso de funciones como el 
+        registro de clasificaciones o el intercambio de datos."  
+
+* balance.ncpg (ES)
+ 
+      - Reformatted image placeholder to avoid breaking the word "Ejemplo"  
+
+* va_menu_save.ncpg (ES)
+ 
+      - Inserted "incluyendo los datos de guardado de sesión de juego,"
+
+* va_menu_save_nes.ncpg (ES)
+ 
+      - Inserted "incluyendo los datos de guardado de sesión de juego,"
+
+* va_menu_save_nes_dlp.ncpg (ES)
+ 
+      - Inserted "incluyendo los datos de guardado de sesión de juego,"      
+
+
+
+<h3>Version 2.5 (2012-05-02)</h3>
+<pre>
+Removed all existing Game Ratings Information pages (PT)
+
+      - support_info\rating_dual.ncpg 
+      - support_info\rating_E.ncpg
+      - support_info\rating_E10.ncpg  
+      - support_info\rating_EC.ncpg 
+      - support_info\rating_M.ncpg  
+      - support_info\rating_T.ncpg   
+
+* sleep_mode.ncpg (PT)
+
+      - Changed "XXXXXXXXXXXXXXX, o modo de descanso n縊 ser・ativado ao 
+        fechar o console." to "O modo de descanso n縊 ser・ativado ao fechar o 
+        console enquanto estiver usando XXXXXXXXXXXXXXX"
+
+* Removed the following texture files (PT)
+
+      - djctq_10.tga
+      - djctq_12.tga   
+      - djctq_14.tga   
+      - djctq_16.tga
+      - djctq_18.tga   
+      - djctq_ER.tga
+      - djctq_L.tga
+      - esrb_E.tga
+      - esrb_E10.tga 
+      - esrb_EC.tga
+      - esrb_M.tga 
+      - esrb_T.tga
+      - vc_menu_05.tga  
+
+  * Added the following new template units:
+
+      - vc_menu_nes_dlplay.ncpg
+      - vc_menu_save_nes_dlplay.ncpg
+      - vc_download_play.ncpg
+      - vc_switch_ctrler_single.ncpg
+      - vc_switch_ctrler_multi.ncpg
+
+  * Removed all ESRB-related template units and images.
+
+  * add_contents2.ncpg (ES)
+
+      - Changed "Nota: No podr疽 volver a descargar programas" to "Nota: no
+        podr疽 volver a descargar programas"
+      - Change "Nota: Ten en cuenta que" to "Nota: ten en cuenta que"
+	
+  * balance.ncpg (ES)
+ 
+      - Changed "Nota: Podr疽 guardar la informaci" to "Nota: podr疽 guardar
+        la informaci"  
+      - Changed "Nota: En la secci de Nintendo eShop" to "Nota: en la 
+        secci de Nintendo eShop"
+
+  * button.ncpg
+
+      - Added missing button template unit and textures.
+
+  * nintendo_network.ncpg (PT)
+
+      - Changed "Ela oferece acesso a v疵ios servi輟s onlines..." to "O 
+        Nintendo Network oferece acesso a v疵ios servi輟s online..."
+      - Changed "Softwares compat咩eis com a Nintendo Network trazem o 
+        logotipo da Nintendo Network na embalagem." to "Softwares compat咩eis 
+        com o Nintendo Network trazem o logotipo do Nintendo Network na 
+        embalagem."
+      - Removed "Note: [name of software] does not support online play."
+      - Changed "Nota: Consulta XXXXXXXXXXXXXXX para" to "Nota: consulta 
+        XXXXXXXXXXXXXXX para" (ES)
+	  
+  * sleep_mode.ncpg
+  
+      - Changed "With this software" to "XXXXXXXXXXXXXXX," since the Sleep 
+        Mode warning is now required both for titles that don't support Sleep 
+        Mode at all and for titles that include modes (like Download Play
+        for Virtual Console) that don't support Sleep Mode.
+
+  * spotpass.ncpg
+  
+      - Changed "As a result, an SD Card is required to use SpotPass." to "As 
+        a result, it is recommended that you keep an SD Card inserted in your 
+        system at all times.・
+      - Changed bullet point to em dash.		 
+	   
+  * termsofuse.ncpg
+
+      - Removed the first of the three paragraphs, since this text has been
+        incorporated into the User Agreement in the 2nd NUP.
+
+  * vc_download_play.ncpg (ES)
+
+      - Changed "Detener modo descarga" to "Salir del modo descarga"
+
+  * vc_extras_cgb.ncpg (ES)
+
+      - Changed "...original de Nintendo Game Boy・Color. Solo debes..." to
+        "...original de Nintendo Game Boy・Color, solo debes..." 
+
+  * vc_extras_gb.ncpg (ES)
+
+      - Changed "...original de Nintendo Game Boy・ Solo debes..." to 
+        "...original de Nintendo Game Boy・ solo debes..." 
+
+  * vc_menu.ncpg (ES)
+
+      - Changed "...punto de restauraci, oprime..." to "...punto de 
+        restauraci, mant駭 oprimido..."
+
+  * vc_menu_save.ncpg (ES)
+
+      - Changed "...punto de restauraci, oprime..." to "...punto de 
+        restauraci, mant駭 oprimido..."
+
+  * vc_timeticket1.ncpg 
+
+      - Changed white button preceding "Procedure" to a black button.
+	  
+  * vc_menu.ncpg / vc_menu_save.ncpg / vc_menu_nes.ncpg / vc_menu_save_nes.ncpg
+
+      - Added a "Note:" before the text above.
+      - Changed "Once the game is restarted, the temporary save data will be 
+        deleted." to "Once the game is downloaded, the suspend point will be 
+        deleted. (EN)
+      - Changed "Nota: cuando reanudes una partida suspendida, el punto de 
+        suspensi se borrar・y ya no podr疽
+        volver a reanudarla desde ese punto." to "Nota: cuando reanudes una 
+        partida suspendida, el punto de suspensi se borrar・" (ES)
+</pre>
+
+<h3>Version 2.4 (2012-03-22)</h3>
+<pre>
+  (Unreleased at NOA. All changes were rolled into 2.5 instead.)
+</pre>
+
+<h3>Version 2.3.1a (2012-03-09)</h3>
+<pre>
+  * Fixed problem where merging vc_disclaimer.ncpg and termsofuse.ncpg through
+    the Template Manager resulted in a page that caused binary export to fail.
+
+  * Re-added design templates that were unintentionally left out of the 
+    2.3.1 release.
+</pre>
+
+<h3>Version 2.3.1 (2012-03-09)</h3>
+<pre>
+  * Added the following new template units:
+
+      - add_contents1.ncpg
+      - add_contents2.ncpg
+      - balance.ncpg
+      - nintendo_network.ncpg
+      - timeticket1.ncpg
+      - timeticket2.ncpg
+      - ugc.ncpg
+
+  * Added the following new texture files:
+
+      - button_HOME_03.tga
+      - button_SELECT_03.tga
+      - button_START_03.tga
+      - download_icon_W.tga
+      - internet_icon_W.tga
+      - local_icon_W.tga
+      - nintendo_network_logo.tga
+      - passing_icon_W.tga
+      - spotpass_icon_W.tga
+
+  * Changed the filenames of several template units and texture files:
+
+      - circle_pad1.ncpg    =&gt;  circle_pad1_ref.ncpg
+      - circle_pad2.ncpg    =&gt;  circle_pad2_sby.ncpg
+      - circle_pad3.ncpg    =&gt;  circle_pad3_cal.ncpg
+      - slidepad.tga        =&gt;  circlepad.tga
+      - slidepad_2.tga      =&gt;  circlepad_2.tga
+
+  * button.ncpg
+
+      - Added red versions  of SELECT, START, and HOME Buttons.
+
+  * emanual_code.ncpg
+
+      - Made the hyphen in &quot;X-XXXX&quot; black instead of red.
+
+  * internet_connection.ncpg
+
+      - Changed the indentation around the &quot;Note:&quot; text to be consistent with
+        other template units, adjusted the amount of whitespace between the
+        note and the preceding paragraph to four pixels, and changed the
+        X-tracking of the note to -1 px.
+
+  * official_seal.ncpg
+
+      - Removed this template after discussion between NOA and NCL. The texture
+        &quot;officialseal_graphic.tga&quot; has been removed from the package as well.
+
+  * personal_privacy.ncpg
+  
+      - Added a &trade; symbol after the first occurence of &quot;Mii&quot; in the body text (EN).
+
+  * support_internal.ncpg
+
+      - Modified the template to contain phone numbers for both North and
+	Central/Latin America. This request came from Consumer Services, and
+	will make our e-manual templates consistent with the preferred wording
+	currently used in printed manuals.
+
+  * termsofuse.ncpg
+
+      - Changed &quot;Nintendo of America Inc.&quot; to &quot;Nintendo&quot; to accommodate a
+        request from NAL.
+
+  * vc_extras_gb.ncpg
+
+      - Removed the whitespace at the top of the template unit.
+      - Changed &quot;enfonc&eacute;&quot; to &quot;enfonc&eacute;s&quot; [FR].
+
+  * vc_extras_cgb.ncpg
+
+      - Removed the whitespace at the top of the template unit.
+  
+  * streetpass.ncpg (EN)
+      
+      - Changed &quot;then StreetPass Management&quot; to &quot;and then select StreetPass Management.&quot;
+      - Added comma &quot;System Settings&quot;.
+
+  * spotpass.ncpg (EN)
+
+      - Added &quot;the&quot; before &quot;automatic download&quot;.
+      - Changed bullets to &quot;-&quot;.
+      - Changed &quot;Activation Procedure&quot; to &quot;Activating SpotPass&quot;. 
+
+  * backup.ncpg (EN)
+
+      - Added comma after &quot;use action&quot;.
+      - Removed comma after &quot;the system&quot;.
+
+  * circle_pad3_cal.ncpg (EN)
+
+      - Changed &quot;from the Home Menu&quot; to &quot;on the Home Menu&quot;.
+
+  * personal_privacy.ncpg (FR)
+
+      - Added color tags to variable text. (&quot;via la communication&quot;)
+
+  * health_safety.ncpg (ES)
+
+      - Changed &quot;Informaci&oacute;n &quot; to &quot;informaci&oacute;n&quot; for consistency. 
+ 
+  * backup.ncpg (ES)
+
+      - Changed Spanish text to match English.
+
+	Before:  &quot;Durante este proceso, procura adem&aacute;s no realizar ninguna operaci&oacute;n equivocada (por
+                 ejemplo. reiniciar la consola) y no dejes que entre suciedad en los terminales.&quot;
+	After:   &quot;La p&eacute;rdida de datos tambi&eacute;n puede ser ocasionada por problemas de conexi&oacute;n, debido
+                 a la presencia de polvo o suciedad en los terminales.&quot;
+
+  * stylus_caution.ncpg (FR)
+
+      - Enclosed &quot;l&rsquo;&eacute;cran&quot; in tags that prevent breaking. 
+
+  * spotpass.ncpg (FR)
+
+      - Removed space in &quot;l&#x27;utilisation&quot;
+
+  * spotpass.ncpg (ES)
+      - Moved &quot;consulta el manual de instrucciones para mayor informaci&oacute;n.&quot;
+        It is now below the bullet points. 
+
+  * personal_privacy.ncpg (ES)
+
+      -  Removed comma after &quot;f&iacute;sica&quot;. 
+
+  * nintendo_network.ncpg (ES)
+
+      - Changed &quot;A trav&eacute;s de Nintendo Network&quot; to &quot;Con Nintendo Network&quot; 
+
+  * backup.ncpg (PT) 
+
+      - Changed &quot;Algumas a&ccedil;&otilde;es causadas&quot; to &quot;Algumas a&ccedil;&otilde;es realizadas&quot;. 
+      - Changed &quot;Sujeira ou poeira nos terminais do console tamb&eacute;m podem resultar em perda de
+        dados.&quot; to &quot;Sujeira ou poeira nos terminais do console podem causar baixa conectividade 
+        resultando em perda de dados.&quot;
+
+  * vc_menu_save.ncpg (PT)
+
+      - Added missing screenshot. (&quot;Desativado&quot;).
+
+  * nintendo_network.ncpg (PT)
+
+      - Changed &quot;logo da Nintendo Network&quot; to &quot;logotipo da Nintendo Network&quot;. 
+
+  * vc_extras_cgb.ncpg and vc_extras_gb.ncpg
+  
+      - Removed &quot;TM&quot; symbol after &quot;Virtual Console&quot;.
+</pre>
+
+<h3>Version 2.2 (2011-10-30)</h3>
+<pre>
+  * Added several textures that are used by the latest template units:
+
+      - vc_menu_03.tga: Red version of vc_menu_01.tga (VC Menu screenshot w/o Suspend Point) for use with NES titles.
+      - vc_menu_04.tga: Red version of vc_menu_02.tga (VC Menu screenshot w/ Suspend Point) for use with NES titles.
+
+  * Added several textures for communication feature icons on black backgrounds:
+
+      - download_icon_W.tga
+      - internet_icon_W.tga
+      - local_icon_W.tga
+      - passing_icon_W.tga
+      - spotpass_icon_W.tga
+
+  * circle_pad1.ncpg
+  * circle_pad2.ncpg
+  * circle_pad3.ncpg 
+  
+      - Added these template units, which explain how to use the Circle Pad Pro accessory.
+
+  * internet_connection.ncpg
+  
+      - Changed &quot;your Nintendo 3DS system&quot; to &quot;your system.&quot; (EN)
+      - Changed &quot;seu console Nintendo 3DS&quot; to &quot;seu console.&quot; (PT)
+      - Changed &quot;tu consola Nintendo 3DS&quot; to &quot;tu consola.&quot; (ES)
+
+  * personal_privacy.ncpg
+  
+      - Corrected a grammatical error in the French version of this page (FR).
+        (Changed &quot;des renseignements, telles que&quot; to &quot;des renseignements, tels que.&quot;)
+
+  * sleep_mode.ncpg
+  
+      - Moved from the &quot;instruction&quot; folder to the &quot;warning&quot; folder,
+        and deleted the &quot;instruction&quot; folder.
+
+  * slidepad.tga
+  * slidepad_2.tga
+  
+      - Added these textures, which are used by the Circle Pad Pro accessory templates. 
+	   
+  * spotpass.ncpg
+
+      - Changed &quot;An SD Card is required to use SpotPass.&quot; to &quot;Data
+	received through SpotPass is saved on SD Cards. As a result,
+	an SD Card is required to use SpotPass.&quot;
+  
+  * streetpass.ncpg
+
+      - Changed the indentation of the &quot;Note:&quot; text at the bottom.
+	  
+  * vc_disclaimer.ncpg
+
+      - Changed the tracking between characters from -1 px to 0 px.
+      - Changed the font size from &quot;Small&quot; to &quot;Medium.&quot;
+      - Removed the text &quot;, except for the communication features.&quot;
+
+  * Restructured the Virtual Console Functions pages. The &quot;Special Features&quot;
+    sections at the bottom of the following four templates have been split out
+    into short, platform-specific template units, and additional variants on the
+    templates have been created. (Note: NES titles don&rsquo;t offer the ability to
+    press the X Button to display the VC Menu, whereas Game Boy and Game Boy
+    Color titles do.)
+</pre>
+<h3>Version 2.1 (2011-08-10)</h3>
+<pre>
+||    ======================== &lt; POST-REVIEW CHANGES &gt; ========================
+||	
+||    * Made slight adjustments to the wording of the &quot;Protecting Your Privacy&quot;
+||      template unit (personal_privacy.ncpg) in all four languages.
+||    
+||    * Replaced &quot;Game Boy&quot; with &quot;Nintendo Game Boy&quot; in the Spanish versions of
+||      the following four template units, and moved the trademark sign from the
+||      body text to the heading to improve the readability. Also replaced
+||      &quot;Podr&aacute;s&quot; with &quot;Si quieres&quot; at the beginning of the &quot;original resolution&quot;
+||      section within Special Features.
+||
+||          - vc_menu_cgb.ncpg
+||          - vc_menu_cgb_save.ncpg
+||          - vc_menu_gb.ncpg
+||          - vc_menu_gb_save.ncpg
+||
+||    =========================================================================
+
+  * Changed the category name &quot;support&quot; to &quot;support_info.&quot;
+
+  * Redesigned the &quot;official_seal.ncpg&quot; template to use a text box for the text
+    accompanying the seal instead of implementing this as an image. As a result,
+    the &quot;officialseal_text&quot; texture was removed, and the &quot;officiaseal_graphic&quot;
+    texture was overhauled to use a transparent background.
+
+  * Added two middleware-related templates, &quot;mpeg4.ncpg&quot; and &quot;speech_rate_conv.ncpg.&quot;
+
+  * Changed &quot;v&iacute;deojuegos&quot; to &quot;videojuegos&quot; in the Spanish version of the
+    &quot;official_seal.ncpg&quot; template.
+	
+  * Changed &quot;recomendando&quot; to &quot;recomendado&quot; in the Portuguese version of the
+    &quot;personal_privacy.ncpg&quot; template.
+
+  * Changed &quot;QR code reader&quot; to &quot;QR Code reader&quot; in QR_code_reader.ncpg.
+
+  * Changed &quot;desempenham da mesma forma&quot; to &quot;t&ecirc;m o mesmo efeito&quot; in the Portuguese
+    version of the &quot;stylus_caution.ncpg&quot; template.
+
+  * Added a note to the &quot;spotpass.ncpg&quot; template informing consumers that an SD Card
+    is required in order to use SpotPass.
+
+  * Revised the content and usage conditions of the &quot;sleep_mode.ncpg&quot; template. In
+    v2.0, this template was required for all titles that support Sleep Mode, and
+    explained how this feature works. In v2.1, it is required for titles that do *not*
+    support Sleep Mode, and explains the lack of support to consumers.
+
+  * Replaced the &quot;safe_icon.tga&quot; texture.
+</pre>
+
+<h3>Version 2.0 (2011-08-08)</h3>
+<pre>
+  * Changed the filenames of several templates:
+
+    - internet.ncpg       =&gt;  internet_connection.ncpg
+    - online.ncpg         =&gt;  personal_privacy.ncpg
+    - support_basic.ncpg  =&gt;  support_internal.ncpg
+    - product_code.ncpg   =&gt;  emanual_code.ncpg
+
+  * Changed the categories of several templates:
+
+    - health_safety.ncpg       : legal =&gt; warning
+    - personal_privacy.ncpg    : legal =&gt; warning
+    - rating.ncpg              : legal =&gt; support
+    - termsofuse.ncpg          : legal =&gt; support
+    - standard_copyright.ncpg  : legal =&gt; copyright&amp;trademark
+    - emanual_code.ncpg        : product_code =&gt; emanual_code
+
+  * Added new templates:
+
+    - sleep_mode.ncpg      (in &quot;instruction&quot; category)
+    - official_seal.ncpg   (in &quot;support&quot; category)
+    - vc_disclaimer.ncpg   (in &quot;vc&quot; category)
+    - ar_cards.ncpg        (in &quot;warning&quot; category)
+    - backup.ncpg          (in &quot;warning&quot; category)
+    - gyro_motion.ncpg     (in &quot;warning&quot; category)
+    - stylus_caution.ncpg  (in &quot;warning&quot; category)
+
+       Note: The content of &quot;vc_disclaimer&quot; was included as a
+             part of &quot;termsofuse.ncpg&quot; in the 1.2.2a templates.
+
+  * Changed the &quot;Max Width for Full Justification&quot; setting for the
+    following template units from the default value of 2.0 to the
+	standard used by NOA of 0.5:
+	
+    - instruction\sleep_mode.ncpg
+	- middleware\mobiclip.ncpg
+	- vc\vc_end.ncpg
+	- vc\vc_menu_cgb.ncpg
+	- vc\vc_menu_cgb_save.ncpg
+	- vc\vc_menu_gb.ncpg
+	- vc\vc_menu_gb_save.ncpg
+	- warning\ar_cards.ncpg
+	- warning\backup.ncpg
+	- warning\gyro_motion.ncpg
+	
+  * Removed the unused texture file &quot;news_icon.tga.&quot;
+
+  * download.ncpg
+  
+	- Changed &quot;necessaire&quot; to &quot;n&eacute;cessaire.&quot; (FR)
+	- Changed &quot;Voc&ecirc; vai precisar&quot; to &quot;Voc&ecirc; vai precisar de.&quot; (PT)
+	- Changed &quot;permite&quot; to &quot;te permite.&quot; (ES)
+	- Changed &quot;Uno de los jugadores&quot; to &quot;Al menos uno de los jugadores.&quot; (ES)
+	  
+  * emanual_code.ncpg (formerly &quot;product_code.ncpg&quot;)
+
+    - Changed the page title.
+    - Changed the code format from CTR-XXXX-USZ to CTR-X-XXXX-USZ-X.
+	
+  * health_safety.ncpg
+
+    - Removed the last paragraph (&quot;Use Parental Controls to restrict 3D mode
+      for children 6 and under. For more information, refer to the operations
+      manual.&quot;) because it already appears in the &quot;Health and Safety&quot; applet.
+    - Changed &quot;mode d&#x27;emploi&quot; to &quot;mode d&#x27;emploi Nintendo 3DS.&quot; (FR)
+
+  * internet_connection.ncpg
+  
+	- Changed &quot;permite&quot; to &quot;te permite.&quot; (ES)
+ 
+  * local.ncpg (PT)
+  
+	- Changed &quot;Voc&ecirc; vai precisar&quot; to &quot;Voc&ecirc; vai precisar de.&quot; 
+	  
+  * personal_privacy.ncpg (formerly &quot;online.ncpg&quot;)
+
+    - Changed page title (&quot;Online Precautions&quot; =&gt; &quot;Protecting Your Privacy&quot;).
+    - Revised the introductory paragraph to shift the focus toward the
+      protection of privacy instead of the use of online services.
+    - Revised the first bullet point to match text used in printed manuals
+      for the Americas.
+    - Removed the final three bullet points, since they are already covered by
+      the Nintendo 3DS Service User Agreement.
+
+  * spotpass.ncpg (ES)
+  
+    - Changed &quot;Configurar conexi&oacute;n&quot; to &quot;Configurar la conexi&oacute;n.&quot; 
+  
+  * streetpass.ncpg (ES)
+  
+	- Changed &quot;permite&quot; to &quot;te permite.&quot; (ES)
+	  
+  * support_internal.ncpg (formerly &quot;support_basic.ncpg&quot;)
+
+    - Changed the page title, and set the page category to &quot;Troubleshooting.&quot;
+    - Simplified the content to match the information appearing on the outside
+      cover template and the title sheet template for card-based titles.
+
+  * support_licensee.ncpg
+
+    - Changed the page title, and set the page category to &quot;Troubleshooting.&quot;
+    - Modified the content to remove descriptions of how to edit the template.
+      (These descriptions have been moved to the cookbook.)
+
+  * termsofuse.ncpg
+
+    - Revised the content of the first paragraph to make it applicable to
+      card-based titles as well as downloadable titles.
+    - Revised the content of the second paragraph based on feedback from
+      Nintendo of America&#x27;s Anti-Piracy Group.
+    - Changed &quot;en relaci&oacute;n a este programa&quot; to &quot;con relaci&oacute;n a este programa.&quot; (ES)
+    - Removed &quot;, limitada&quot; to make the Spanish text match the English text. (ES)
+    - Changed &quot;utilisez logiciel&quot; to &quot;utilisez ce logiciel.&quot; (FR)
+    - Changed &quot;t&eacute;l&eacute;chargez ou utilisez ce logiciel&quot; to &quot;t&eacute;l&eacute;chargez en utilisant ce logiciel.&quot; (FR)
+    - Changed &quot;d&rsquo;utilisation&quot; to &quot;d&#x27;utilisation&quot; to prevent word-breaking after the apostrophe. (FR)
+    - Added &lt;no new line&gt; tags around &quot;d&#x27;&laquo;&nbsp;archivage&nbsp;&raquo;&quot; to prevent word-breaking. (FR)
+    - Changed &quot;Tal uso pode ser considerado ilegal, anular sua garantia e &eacute; uma infra&ccedil;&atilde;o
+      das suas obriga&ccedil;&otilde;es do Acordo de Usu&aacute;rio.&quot; to &quot;Tal uso pode ser ilegal e anular qualquer
+      garantia, al&eacute;m de ser uma viola&ccedil;&atilde;o das suas obriga&ccedil;&otilde;es conforme o Acordo de Usu&aacute;rio de
+      Servi&ccedil;o Nintendo 3DS.&quot; (PT)
+    - Changed &quot;ferimentos a voc&ecirc; ou outros&quot; to &quot;ferimentos a voc&ecirc; ou outras pessoas.&quot;(PT)
+	
+  * vc_menu_cgb.ncpg / vc_menu_gb.ncpg (FR)
+
+    - Corrected a capitalization error (&quot;Virtual console&quot; =&gt; &quot;Virtual Console&quot;) 
+
+  * vc_menu_cgb_save.ncpg / vc_menu_gb_save.ncpg (PT)
+
+    - Deleted an extra space before a period (&quot;...dados salvos do jogo .&quot;).
+</pre>
+
+<h3>Version 1.2.2a (2011-06-15)</h3>
+<pre>
+
+  * Added &lt;no new line&gt; tags around all instances of the terms &quot;Nintendo 3DS,&quot; &quot;Game Boy,&quot; and &quot;Game Boy Color&quot;
+    to keep the platform names on the same line. This change affected the following files, but only happened to
+    alter the layout for the starred items.
+
+    - download.ncpg
+    - internet.ncpg
+    - local.ncpg
+    - spotpass.ncpg
+    - greeting.ncpg
+    - disclaimer.ncpg (*)
+    - health_safety.ncpg (*)
+    - standard_copyright.ncpg
+    - vc_menu_cgb.ncpg (*)
+    - vc_menu_cgb_save.ncpg (*)
+    - vc_menu_gb.ncpg (*)
+    - vc_menu_gb_save.ncpg (*)
+
+  * Added &lt;no new line&gt; tags around all URLs to keep them on one line as much as possible.
+    This change affected the files listed below.
+
+    - disclaimer.ncpg
+    - rating_*.ncpg (PT)
+
+  * Replaced &quot;right single quotation marks&quot; (U+2019) with &quot;apostrophes&quot; (U+0027) in the following files to
+    prevent the words using these characters from being broken after the punctuation mark. This affected
+    21 occurrences in total.
+
+    - support_basic.ncpg (EN)
+    - disclaimer.ncpg (FR)
+    - health_safety.ncpg (FR)
+    - online.ncpg (FR)
+    - vc_end.ncpg (FR)
+    - vc_menu_cgb.ncpg (FR)
+    - vc_menu_cgbp_save.ncpg (FR)
+    - vc_menu_gb.ncpg (FR)
+    - vc_menu_gb_save.ncpg (FR)
+	
+  * Changed the color of all on-screen text being referred to within e-manual text from the
+    standard gray color (60:60:60) to pure black (0:0:0) for French, Spanish, and Portuguese.
+    The French and Spanish were previously unmarked, and the Portuguese previously used
+    quotation marks to set such text apart from the rest of the sentence. This impacted the
+    following files for all three languages.
+	
+    - health_safety.ncpg
+    - streetpass.ncpg
+    - vc_end.ncpg
+    - vc_menu_cgb.ncpg
+    - vc_menu_cgbp_save.ncpg
+    - vc_menu_gb.ncpg
+    - vc_menu_gb_save.ncpg
+  
+  * greeting.ncpg
+
+    - Changed &quot;Thank you for downloading&quot; to &quot;Thank you for choosing.&quot;
+    - Changed &quot;before playing the game&quot; to &quot;before using the software.&quot;
+    - Added missing accents (&otilde;,&atilde;,&ecirc; and &ccedil;) in the second paragraph (PT).
+
+  * disclaimer.ncpg (now &quot;termsofuse.ncpg&quot;)
+
+    - Changed the filename to &quot;termsofuse.ncpg.&quot;
+    - Changed the entire first paragraph.
+    - Removed the second sentence from paragraph 3 (&quot;The furnishing of...&quot;).
+    - Removed an extra space after &quot;prohibited&quot; (EN).
+    - Corrected a grammatical error (&quot;acompa&ntilde;an, est&aacute;n&quot; &gt; &quot;acompa&ntilde;an est&aacute;n&quot;) (ES).
+    - Added a missing accent (&quot;adaptacion&quot; &gt; &quot;adaptaci&oacute;n&quot;) (ES).
+    - Removed hyphen in &quot;n&atilde;o-autorizados&quot; in two places (PT). 
+
+  * download.ncpg
+  
+    - Changed &quot;carte de jeu&quot; to &quot;exemplaire du logiciel&quot; (FR).
+
+  * generic_fig_photoframe.ncpg
+
+    - Added this as a new template for use with Nintendo 3DS download software.
+      (Several new TGA files were added specifically for these files as well.)
+
+  * health_safety.ncpg
+
+    - Added a fourth paragraph that is required only for titles that support stereoscopic 3D display.
+    - Added &lt;no new line&gt; tags around the word &quot;d&rsquo;emploi&quot; to prevent the word from breaking after the apostrophe (FR).
+
+  * internet.ncpg
+  
+    - Changed &quot;Internet&quot; to &quot;internet&quot; in two places (PT).
+	
+  * local.ncpg
+  
+    - Changed &quot;carte de jeu&quot; to &quot;exemplaire du logiciel&quot; (FR).
+	
+  * online.ncpg
+
+    - Changed &quot;This game&quot; to &quot;This software.&quot;
+    - Added a comma after &quot;penalties.&quot; (EN)
+    - Corrected a spelling error (&quot;supendida&quot; &gt; &quot;suspendida&quot;). (ES)
+    - Reworded the first paragraph (&quot;se conectar&quot; &gt; &quot;conectar-se&quot; / &quot;avaliar&quot; &gt; &quot;rankings&quot;) (PT).
+    - Reworded the first bullet point (&quot;ou usar palavras&quot; &gt; &quot;ou palavras&quot; (PT).
+    - Removed an extra space in the second bullet point (&quot;permite  a&quot;) (PT).
+    - Reworded the third bullet point (&quot;n&atilde;o apropriadas&quot; &gt; &quot;inapropriadas&quot;) (PT).
+    - Reworded the last bullet point (&quot;Nintendo&quot; &gt; &quot;A Nintendo&quot;) (PT).
+
+  * product_code.ncpg
+
+    - Changed &quot;CTR-XXXX-USA&quot; to &quot;CTR-XXXX-USZ.&quot;
+
+  * rating.ncpg
+  
+    - Replaced the Spanish ESRB icons with versions without thin white borders. (ES)
+   
+  * spotpass.ncpg
+
+    - Added French, Spanish, and Portuguese translations (ES, FR, PT).
+    - Changed the bullet for &quot;Activation procedure&quot; from white to black to match the others.
+    - Changed punctuation around the parentheses in the introduction (PT).
+
+  * streetpass.ncpg
+  
+    - Rewrote the first paragraph. (EN)
+  
+  * vc_end.ncpg
+
+    - Removed quotation marks around the term &quot;Suspend Point&quot; (EN, ES, FR).
+
+  * vc_menu_cgb.ncpg
+
+    - Made the spaces between sections more consistent.
+    - Changed the text in the table explaining the functions of the four buttons
+      in the Virtual Console Menu. The explanation of the &quot;Create Restore Point&quot;
+      option now differs slightly between software that support in-game saves and
+      software that doesn&#x27;t.
+    - Standardized capitalization of &quot;punto de restauraci&oacute;n&quot; (ES).
+    - Changed &quot;oprime&quot; to &quot;mant&eacute;n oprimido&quot; for clarity (ES).
+    - Added missing information (&quot;Si el juego est&aacute; siendo...&quot;) (ES).
+    - Changed &quot;muestra&quot; to &quot;muestre&quot; (ES).
+    - Changed &quot;La imagen en la pantalla superior&quot; to &quot;La imagen de arriba&quot; (ES).
+    - Changed &quot;Load the Restore Point&quot; to &quot;Load the restore point&quot; (EN).
+    - Changed &quot;Nintendo Game Boy&trade; Color&quot; to &quot;Game Boy&trade; Color&quot; (ES, FR).
+    - Changed &quot;Nintendo Game Boy&quot; to &quot;Game Boy&quot; (ES, FR, PT).
+    - Changed &quot;[x Button]&quot; to graphic text representing the X Button (FR).
+    - Changed ! to ? in &quot;un boss particuli&egrave;rement coriace!&quot; (FR).
+    - Corrected a spelling error (&quot;Lorque&quot; &gt; &quot;Lorsque&quot;) (FR).
+    - Changed &quot;foi criado&quot; to &quot;for criado&quot; (PT).
+    - Changed &quot;ajudam manter&quot; to &quot;ajudam a manter&quot; (PT).
+    - Changed &quot;criado &eacute; conservado&quot; to &quot;criado ser&aacute; conservado&quot; (PT).
+    - Changed &quot;fun&ccedil;&atilde;o &eacute; desativada&quot; to &quot;fun&ccedil;&atilde;o for desativada&quot; (PT).
+    - Changed &quot;como tamb&eacute;m&quot; to &quot;e sobre&quot; (PT).
+    - Changed &quot;para ver mais&quot; to &quot;mais&quot; (PT).
+    - Added &quot;for criado&quot; to end of second sentence under &quot;Pontos de restaura&ccedil;&atilde;o&quot; (PT).
+    - Changed &quot;for criado&quot; to &quot;j&aacute; tiver sido criado&quot; (PT).
+
+  * vc_menu_cgb_save.ncpg
+
+    - Changed &quot;save data may be replaced&quot; to &quot;save data will be replaced.&quot;
+    - Made the spaces between sections more consistent.
+    - Changed the text in the table explaining the functions of the four buttons
+      in the Virtual Console Menu. The explanation of the &quot;Create Restore Point&quot;
+      option now differs slightly between software that support in-game saves and    
+      software that doesn&#x27;t.
+    - Standardized capitalization of &quot;punto de restauraci&oacute;n&quot; (ES).
+    - Changed &quot;oprime&quot; to &quot;mant&eacute;n oprimido&quot; for clarity (ES).
+    - Added missing information (&quot;Si el juego est&aacute; siendo...&quot; (ES).
+    - Changed &quot;muestra&quot; to &quot;muestre&quot; (ES).
+    - Changed &quot;La imagen en la pantalla superior&quot; to &quot;La imagen de arriba&quot; (ES).
+    - Changed &quot;Nintendo Game Boy&trade; Color&quot; to &quot;Game Boy&trade; Color&quot; (ES, FR).
+    - Changed &quot;Nintendo Game Boy&quot; to &quot;Game Boy&quot; (ES, FR, PT).
+    - Changed &quot;Responde las preguntas&quot; to &quot;Responde a las preguntas&quot; (ES).
+    - Changed &quot;encuentres en el men&uacute;&quot; to &quot;encuentres en el men&uacute; de Virtual Console&quot; (ES).
+    - Changed &quot;[x Button]&quot; to graphic text representing the X Button (FR).
+    - Changed ! to ? in &quot;un boss particuli&egrave;rement coriace!&quot; (FR).
+    - Corrected a spelling error (&quot;Lorque&quot; &gt; &quot;Lorsque&quot;) (FR).
+    - Changed &quot;foi criado&quot; to &quot;for criado&quot; (PT).
+    - Changed &quot;ajudam manter&quot; to &quot;ajudam a manter&quot; (PT).
+    - Changed &quot;criado &eacute; conservado&quot; to &quot;criado ser&aacute; conservado&quot; (PT).
+    - Changed &quot;fun&ccedil;&atilde;o &eacute; desativada&quot; to &quot;fun&ccedil;&atilde;o for desativada&quot; (PT).
+    - Changed &quot;como tamb&eacute;m&quot; to &quot;e sobre&quot; (PT).
+    - Changed &quot;para ver mais&quot; to &quot;mais&quot; (PT).
+    - Added &quot;for criado&quot; to end of second sentence under &quot;Pontos de restaura&ccedil;&atilde;o&quot; (PT).
+    - Changed &quot;for criado&quot; to &quot;j&aacute; tiver sido criado&quot; (PT).
+    - Changed &quot;tocar a tela&quot; to &quot;tocar na tela&quot; (PT).
+
+  * vc_menu_gb.ncpg
+
+    - Made the spaces between sections more consistent.
+    - Changed the text in the table explaining the functions of the four buttons
+      in the Virtual Console Menu. The explanation of the &quot;Create Restore Point&quot;
+      option now differs slightly between software that support in-game saves and
+      software that doesn&#x27;t.
+    - Standardized capitalization of &quot;punto de restauraci&oacute;n&quot; (ES).
+    - Changed &quot;oprime&quot; to &quot;mant&eacute;n oprimido&quot; for clarity (ES).
+    - Added missing information (&quot;Si el juego est&aacute; siendo...&quot; (ES).
+    - Changed &quot;muestra&quot; to &quot;muestre&quot; (ES).
+    - Changed &quot;La imagen en la pantalla superior&quot; to &quot;La imagen de arriba&quot; (ES).
+    - Changed &quot;restore point function&quot; to &quot;restore-point function&quot; (EN).
+    - Changed &quot;Game Boy&trade; Color system&quot; to &quot;Game Boy&trade; system&quot; (EN).
+    - Changed &quot;Nintendo Game Boy&quot; to &quot;Game Boy&quot; in four places (ES, FR) and two places (PT).
+    - Changed &quot;[x Button]&quot; to graphic text representing the X Button (FR).
+    - Changed ! to ? in &quot;un boss particuli&egrave;rement coriace!&quot; (FR).
+    - Corrected a spelling error (&quot;Lorque&quot; &gt; &quot;Lorsque&quot;) (FR).
+    - Changed &quot;foi criado&quot; to &quot;for criado&quot; (PT).
+    - Changed &quot;ajudam manter&quot; to &quot;ajudam a manter&quot; (PT).
+    - Changed &quot;criado &eacute; conservado&quot; to &quot;criado ser&aacute; conservado&quot; (PT).
+    - Changed &quot;fun&ccedil;&atilde;o &eacute; desativada&quot; to &quot;fun&ccedil;&atilde;o for desativada&quot; (PT).
+    - Changed &quot;como tamb&eacute;m&quot; to &quot;e sobre&quot; (PT).
+    - Changed &quot;para ver mais&quot; to &quot;mais&quot; (PT).
+    - Added &quot;for criado&quot; to end of second sentence under &quot;Pontos de restaura&ccedil;&atilde;o&quot; (PT).
+    - Changed &quot;for criado&quot; to &quot;j&aacute; tiver sido criado&quot; (PT).
+	
+  * vc_menu_gb_save.ncpg
+
+    - Made the spaces between sections more consistent.
+    - Changed the text in the table explaining the functions of the four buttons
+      in the Virtual Console Menu. The explanation of the &quot;Create Restore Point&quot;
+      option now differs slightly between software that support in-game saves and    
+      software that doesn&#x27;t.
+    - Standardized capitalization of &quot;punto de restauraci&oacute;n&quot; (ES).
+    - Changed &quot;oprime&quot; to &quot;mant&eacute;n oprimido&quot; for clarity (ES).
+    - Added missing information (&quot;Si el juego est&aacute; siendo...&quot; (ES).
+    - Changed &quot;muestra&quot; to &quot;muestre&quot; (ES).
+    - Changed &quot;La imagen en la pantalla superior&quot; to &quot;La imagen de arriba&quot; (ES).
+    - Changed &quot;Game Boy&quot; to &quot;Game Boy system&quot; (EN).
+    - Changed &quot;Nintendo Game Boy&quot; to &quot;Game Boy&quot; in four places (ES, FR) and two places (PT).
+    - Changed &quot;Responde las preguntas&quot; to &quot;Responde a las preguntas&quot; (ES).
+    - Changed &quot;encuentres en el men&uacute;&quot; to &quot;encuentres en el men&uacute; de Virtual Console&quot; (ES).
+    - Changed &quot;[x Button]&quot; to graphic text representing the X Button (FR).
+    - Changed ! to ? in &quot;un boss particuli&egrave;rement coriace!&quot; (FR).
+    - Corrected a spelling error (&quot;Lorque&quot; &gt; &quot;Lorsque&quot;) (FR).
+    - Changed &quot;foi criado&quot; to &quot;for criado&quot; (PT).
+    - Changed &quot;ajudam manter&quot; to &quot;ajudam a manter&quot; (PT).
+    - Changed &quot;criado &eacute; conservado&quot; to &quot;criado ser&aacute; conservado&quot; (PT).
+    - Changed &quot;fun&ccedil;&atilde;o &eacute; desativada&quot; to &quot;fun&ccedil;&atilde;o for desativada&quot; (PT).
+    - Changed &quot;como tamb&eacute;m&quot; to &quot;e sobre&quot; (PT).
+    - Changed &quot;para ver mais&quot; to &quot;mais&quot; (PT).
+    - Added &quot;for criado&quot; to end of second sentence under &quot;Pontos de restaura&ccedil;&atilde;o&quot; (PT).
+    - Changed &quot;for criado&quot; to &quot;j&aacute; tiver sido criado&quot; (PT).
+    - Changed &quot;tocar a tela&quot; to &quot;tocar na tela&quot; (PT).	
+
+  * vc_menu_01.tga, vc_menu_02.tga
+
+    - Replaced Spanish screenshots with Brazilian Portuguese screenshots (PT).
+
+  * rating_T.ncpg
+
+    - Replaced English text with Brazilian Portuguese text (PT).
+</pre>
+
+<h3>Version 1.2.2 (2011/03/08)</h3>
+<pre>
+
+Many of the translated templates were edited to fix typos or to improve the accuracy of the translated text. We recommend using the templates now provided. If that is not possible, use Beyond Compare or some other tool to determine what you need to change.
+The following is a list of the major changes.
+
+ Templates\~\layouts\communications
+ 
+  * Added spotpass.ncpg
+  * Edited internet.ncpg to make the &quot;I&quot; in &quot;Internet&quot; uppercase (EN, FR, and PT, but not ES)
+
+ Templates\~\layouts\greeting
+ 
+  * Revised the greeting.ncpg file to reduce the amount of redundant information covered by the adjacent
+    &quot;Health &amp; Safety Info&quot; page
+
+ Templates\~\layouts\legal
+  * Revised online.ntpg to update legal wording about exchanging friend codes
+  * Fixed error in online.ncpg Portuguese template (&quot;nao-apropriadas&quot; is now &quot;inapropriadas&quot;)
+  * Fixed typo in disclaimer.ncpg Spanish template (&quot;o a alguno&quot; is now &quot;o alguno&quot;)
+  * Grouped &quot;Licensor&quot; and &quot;Frame_00&quot; to be a horizontal group in rating.ntpg (including all PT rating files) 
+
+  Templates\~\layouts\middleware
+ 
+  * Added
+    - QR_code.ncpg
+    - QR_code_reader.ncpg
+
+ Templates\~\layouts\vc
+ 
+  * Added directory and the following items:
+    - vc_end.ncpg
+    - vc_fig_chart.ncpg
+    - vc_fig_heading.ncpg
+    - vc_fig_line.ncpg
+    - vc_fig_photoframe.ncpg
+    - vc_menu_cgb.ncpg
+    - vc_menu_cgb_save.ncpg
+    - vc_menu_gb.ncpg
+    - vc_menu_gb_save.ncpg
+
+ Templates\~\textures\vc_menu
+ 
+  * Added directory and the following items:
+    - vc_menu_01.tga
+    - vc_menu_02.tga
+</pre>
+
+
+<div align="right"><a href="#top">Back to top</a></div>
+
+
+<hr><p>CONFIDENTIAL</p></body>
+</html>

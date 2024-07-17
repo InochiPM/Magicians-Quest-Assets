@@ -1,0 +1,103 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<link rel="stylesheet" href="css/manpage.css" type="text/css">
+<title>The TGA format plug-in. </title>
+</head>
+<body>
+
+<h2 id="tga_format">The TGA format plug-in. </h2>
+<p>The TGA plug-in saves and loads Targa (TGA) files appended with additional information used for NintendoWare. The additional information includes the format, number of mipmap levels, and texture data. It is included in the intermediate file when it is output from the 3D CG tool. </p>
+<p><a href="#tga_save">Saving</a><br> <a href="#tga_load">Loading</a><br> <a href="#tga_notes">Notes</a> <br></p>
+
+<h3 id="tga_save">Saving </h3>
+<p>To save a TGA file that includes additional information for NintendoWare, select <b>File</b> &gt; <b>Save as</b> and set the file format to <b>NW4C_Tga</b>. <br> Click <b>Save</b>. A dialog box is displayed. </p>
+<p><img src="images/TgaOpt1.gif" border="0"></p>
+<p><b>Type</b> displays either <b>2D</b>, if it is a 2D texture, or <a href="cube_map.html"><b>Cube Map</b></a>. <br> <b>Data Size</b> shows the size of the texture data used when saving in the selected format. <br> <b>Last Format</b> shows the format when the NW4C_Tga file was last saved. <br>Set the appropriate options and then click <b>OK</b> to complete the save process. </p>
+
+<h4 id="opts_tex_fmt">Format Options </h4>
+<p>Sets the texture format. <br> The format appropriate for the current state of the file is selected by default. <br> If the file was ever saved as a NW4C_Tga file, the default selected format is the format that was set the previous time the file was saved, as long as it is still possible to save the file in that format. <br> If the color depth filter has been applied to the image, the default selected format is the format that was specified when the filter was applied. If an ETC filter was applied, the default selected format is either ETC1 or ETC1_A4. <br> Each format can be selected under the following conditions. </p>
+<table class="arguments">
+  <tbody>
+<tr>
+<td nowrap>Format Name </td>
+<td>Conditions Allowing Selection </td>
+</tr>
+<tr>
+      <td valign="top">L4<br>L8<br>LA4<br>LA8 </td>
+      <td valign="top">Always selectable if the image mode is <b>Grayscale</b>. <br> If the image mode is not <b>Grayscale</b>, these formats can be selected if the color components all have the same value in the image (R = G = B). </td>
+    </tr>
+<tr>
+      <td valign="top">A4<br>A8<br>HILO8<br>RGB565<br>RGB5_A1<br>RGBA4<br>RGBA8 </td>
+      <td valign="top">Always selectable. </td>
+    </tr>
+<tr>
+      <td valign="top">RGB8 </td>
+      <td valign="top">Selectable as long as it is not a cube map. </td>
+    </tr>
+<tr>
+      <td valign="top">ETC1 </td>
+      <td valign="top">Selectable if both the height and width are 16 or more, and if the ETC filter is not applied if there is an alpha component. <br> (In the case of a mipmap image, this condition is determined using the width and height of the smallest size level.) </td>
+    </tr>
+<tr>
+      <td valign="top">ETC1_A4 </td>
+      <td valign="top">Selectable if the ETC filter is not applied if there is no alpha component. </td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="opts_mipmap">MipMap Options </h4>
+<p>Select <b>No MipMap</b> if no mipmap will be used. <br> Select <b>Generate MipMap</b> and specify a number of levels to automatically generate mipmap data and export it as additional information. Set the number of levels to <b>All</b> to generate the maximum number of levels possible for an image of the specified size. If <b>Format</b> is set to ETC1, you cannot select so many levels that one mipmap image will have a width and height of less than 16. Images are compressed using bilinear compression. <br> If a mipmap image has been created using the <a href="NW4C_CreateMipMap.html">Mipmap Creation plug-in</a>, the <b>Use MipMap</b> option is selected automatically. (You cannot select <b>No MipMap</b> or <b>Generate MipMap</b>.) <br> You cannot change this option unless you modify the image after applying the <a href="NW4C_ETC.html">ETC filter</a>. <br> If the <b>For LayoutEditor</b> option is selected, you cannot select <b>Generate MipMap</b>. </p>
+
+<h4 id="opts_etc">ETC Encoding Option </h4>
+<p>Specifies which compression method to use when the format is set to either <b>ETC1</b> or <b>ETC1_A4</b>. <br> This option cannot be changed unless you manually apply the ETC filter. <br> <strong>Fast</strong>, <strong>Medium</strong>, and <strong>Slow</strong> indicate the compression-calculation speed. A slower calculation speed can improve image quality. <br> Options that contain the word <b>Perceptual</b> are compression methods that calculate the G color component with less error. (Humans perceive green better than other colors). If you are working with textures for normal maps, we recommend using a method marked as <b>Perceptual</b>. <br> Regardless of the compression method selected, the amount of data after compression is the same. </p>
+
+<h4 id="opts_layout">For LayoutEditor Option </h4>
+<p>Select this option to save the file as a TGA file for NW4C LayoutEditor. <br> If the size of the image width or height is not a power of two of 8 or larger and you select this option, the pixel color at the right edge or the bottom edge will be stretched out so that data that is a power of two of 8 or larger will be exported in the additional information. <br> <b>Padding</b> shows the amount of texture data being padded in this stretched-out region as a percentage of the total texture data. </p>
+<p>You cannot select this option if the image width and height are both powers of two of 8 or larger, or if it is a mipmap image, or if it is an image to which the ETC filter was applied and has not been modified since. <br> This option cannot be cleared if the image width or height is not a power of two of 8 or larger, or if it is not the size of a cube map. </p>
+<p>If you use a 3D CG tool on a TGA file for NW4C LayoutEditor, an error is generated when you try to export the intermediate file. <br> If you clear this option and save the TGA file, NW4C LayoutEditor will still be able to use the file. However, cube maps cannot be used. </p>
+
+<h4 id="opts_user_data">User Data Option </h4>
+<p>(This option is not currently being used.)<br>This field is for entering string-type user data. User data can be used freely by any game. User data is not output if nothing is input. </p>
+
+<h4 id="opts_preview">Preview Feature </h4>
+<p>Select <b>Preview</b> in the dialog box to preview the image. Use the preview to check how a texture saved with the current options will appear when displayed on the retail system. The image's picture quality will not change in Photoshop even if it is saved. <br> Use the <b>RGB</b> and <b>Alpha </b>check boxes to switch between RGB and alpha display. If both check boxes are selected, the closer the alpha value is to zero, the redder the preview will appear. <br> To zoom in or out on the preview image, click the <b>+</b> and <b><b><b>-</b></b> </b>buttons or use the mouse wheel. </p>
+
+<h3 id="tga_load">Loading </h3>
+<p>To load a TGA file that includes additional information for NintendoWare, select <b>File</b> &gt; <b>Open</b>, and then click <b>Open</b>. <br> You can also load the TGA file by dragging it to the Photoshop window. </p>
+
+<h3 id="tga_notes">Notes </h3>
+
+<h4 id="image_mode">Image Mode </h4>
+<p>Files that have an image mode other than grayscale, index color, or RGB color, and files that use 16 bits per channel cannot be saved using NW4C_Tga. </p>
+
+<h4 id="image_size">Image Size </h4>
+<p>The size for both the image height and width must be a power of two between 8 and 1024. <br> However, if it is a texture for use with NW4C LayoutEditor, you can save the image even if it is not this size by selecting the <a href="#opts_layout"><b>For LayoutEditor</b> option</a>. <br> If you are going to create mipmap images on Photoshop, see the description for the <a href="NW4C_CreateMipMap.html">Mipmap Creation plug-in</a>. <br> If you are going to use cube maps, see <a href="cube_map.html">Creating Cube Maps</a>. </p>
+
+<h4 id="etc1_size">Size of Images in ETC1 Format </h4>
+<p>For the ETC1 format, the smaller of the height and width must be at least 16 pixels in size. <br> For mipmap images, this size restriction must be satisfied for every mipmap level. <br> You can select the ETC1 format even if this size restriction is not satisfied, but a warning message appears when you click <b>OK</b>, and you cannot proceed. </p>
+
+<h4 id="alpha_channel">Alpha Channel </h4>
+<p>If there are two or more alpha channels, the only alpha channel saved is the one at the top of the list in the <b>Channel</b> window. The other alpha channels will no longer be there the next time the file is loaded. </p>
+<p>If the image mode is <b>Grayscale</b> and the format is <b>A8</b>, the gray channel is saved as the alpha if there is a background but no alpha channel. </p>
+<p>If the image mode is <b>Index Color</b>, the alpha of transparent parts is saved as 0 if there is a transparent color set in the color table and there is no alpha channel. </p>
+<p>In Photoshop, the brightness of the alpha channel changes depending on the <a href="#color_settings">Color Setting</a>. However, for NW4C_Tga, an 8-bit K value is saved as the alpha <strong>regardless of the color setting</strong>. (This value is 255 for K = 0%, 128 for K = 50%, and 0 for K = 100%. In Photoshop, K values are maintained as 8-bit values.) </p>
+
+<h4 id="layer">Layers </h4>
+<p>Layer information cannot be saved using NW4C_Tga. If an image that has more than one layer is saved as TW4C_Tga, all layers are flattened the next time it is loaded. </p>
+<p>For images with no background and only layers, the pixel opacity when all layers are merged is saved as the alpha if there is no alpha channel. </p>
+
+<h4 id="overwrite">Saving and Overwriting </h4>
+<p>If a file was ever saved as a NW4C_Tga file, when you select <b>Save</b> from the <b>File</b> menu to overwrite the file, it will be saved in the same format as the previous time it was saved, without showing a dialog box, as long as it is still possible to save the file in that format. <br> If you want the dialog box to appear, select <b>File</b> &gt; <b>Save as</b>. <br> The dialog box is displayed even if <b>Save</b> is selected if it is no longer possible to save in the same format that was used for the last save. A change in size is one reason this can happen. Note that the format suitable for the file is selected as the default format at this time. </p>
+
+<h4 id="image_quality">Keeping Image Quality </h4>
+<p>The same image quality is retained on Photoshop no matter what format is used to save the data. For example, even if the image file is saved in RGBA4 format, the color depth of the alpha channel is not forced to 4 bits, but rather maintained at 8 bits. <br> If you want the image quality in Photoshop to display the same as it would on the retail system, use the Color Depth Filter plug-In and the ETC Filter plug-In. </p>
+
+<h4 id="color_settings">Color Settings </h4>
+<p>In Photoshop, the grayscale and alpha channel brightness changes depending on the <b>Color Setting</b>. However, for NW4C_Tga, an 8-bit K value is saved as the intensity (alpha) <b>regardless of the color setting</b>. (This value is 255 for K = 0%, 128 for K = 50%, and 0 for K = 100%. In Photoshop, K values are maintained as 8-bit values.) <br> TGA files saved as NW4C_Tga do not have information about the color setting. <br> If the color setting is set as shown below, the grayscale and alpha channel brightness in Photoshop is almost directly proportional to the K value. </p>
+<p>(Show <b>More Options</b>)<br> RGB:  sRGB IEC61966-2.1<br> Gray:  sGray<br> Use Dither:  OFF </p>
+
+<p><br><br></p>
+<hr><p>CONFIDENTIAL</p></body>
+</html>

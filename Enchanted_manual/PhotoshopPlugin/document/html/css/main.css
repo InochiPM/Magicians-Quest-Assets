@@ -1,0 +1,244 @@
+/*****************************************************************************
+	Styles for the Main Page
+
+ *****************************************************************************/
+
+BODY
+{
+	font-family			: Arial;
+	font-size			: 10pt;
+
+	background-color	:#fff;
+	color				:#111;
+}
+
+
+/*============================================================
+	Styles for Titles
+ *============================================================*/
+
+DIV.title
+{
+	font-family			: Arial;
+	font-size			: 20pt;
+	font-weight			: bold;
+
+	text-align:			: left;
+
+	margin				: 10px 0px 10px 50px;
+}
+
+DIV.version
+{
+	font-family			: Arial;
+	font-size			: 12pt;
+	font-weight			: bold;
+	color				: #f00;
+
+	text-align			: right;
+	margin				: 0px 30px 20px 0px;
+}
+
+
+/*============================================================
+	Styles for Notes
+ *============================================================*/
+
+P.confidential
+{
+	font-family			: Arial;
+	font-size			: 10pt;
+	font-weight			: bold;
+	color				: #000;
+
+	text-align			: left;
+	margin				: 0px 20px 10px 20px;
+}
+
+P.caution-en
+{
+	font-family			: Arial;
+	font-size			: 8pt;
+	font-weight			: normal;
+	color				: #333;
+
+	text-align			: left;
+	margin				: 0px 20px 20px 20px;
+}
+
+P.caution-jp
+{
+	font-family			: Arial;
+	font-size			: 8pt;
+	font-weight			: bold;
+
+	color				: #000;
+	background-color	: #fe0;
+
+	text-align			: left;
+	margin				: 0px 0px 4px 10px;
+	padding				: 4px 4px 4px 30px;
+}
+
+P.copyright
+{
+	font-family			: Arial;
+	font-size			: 8pt;
+	font-weight			: bold;
+	color				: #000;
+	text-align			: right;
+	margin				: 0px 10px 0px 0px;
+}
+
+P.browser
+{
+	font-family			: Arial;
+	font-size			: 9pt;
+	font-weight			: bold;
+	color				: #e0f;
+	text-align			: right;
+	margin				: 20px 10px 0px 0px;
+}
+
+HR
+{
+	height				: 4px;
+	color				: #48f;
+	margin				: 4px 0px 4px 10px;
+}
+
+
+/*============================================================
+	Styles for Headings
+ *============================================================*/
+
+H1
+{
+	font-family			: Arial;
+	font-size			: 12pt;
+	font-weight			: bold;
+	text-decoration		: underline;
+	color				: #000;
+	text-align			: left;
+	margin				: 10px 0px 20px 20px;
+}
+
+H2
+{
+	font-family			: Arial;
+	font-size			: 12pt;
+	font-weight			: bold;
+	text-decoration		: none;
+	margin				: 20px 0px 0px 40px;
+}
+
+
+/*============================================================
+	Styles for Tables With Updated Content
+ *============================================================*/
+
+TABLE
+{
+	text-align			: left;
+	border-width		: 0pt;
+	margin-left			: 70px;
+	margin-right		: auto;
+}
+
+TD
+{
+	font-family			: Arial;
+	font-size			: 10pt;
+	font-weight			: normal;
+}
+
+
+/*============================================================
+	Style for Description Listings
+ *============================================================*/
+
+P
+{
+	font-family			: Arial;
+	font-weight			: normal;
+	font-size			: 10pt;
+
+	margin				: 0px 8px 10px 20px;
+	padding				: 0px;
+}
+
+PRE
+{
+	font-family			: "Courier New", monospace;
+	font-weight			: normal;
+	font-size			: 10pt;
+
+	margin				: 0px 20px 10px 30px;
+	padding				: 2px 4px 2px 4px;
+
+	background-color	: #eee;
+}
+
+UL
+{
+	font-family			: Arial;
+	font-weight			: normal;
+	font-size			: 10pt;
+
+	margin				: 0px 8px 10px 40px;
+	padding				: 0px;
+}
+
+OL
+{
+	font-family			: Arial;
+	font-weight			: normal;
+	font-size			: 10pt;
+
+	margin				: 0px 8px 10px 50px;
+	padding				: 0px;
+
+	list-style-type		: decimal;
+}
+
+LI
+{
+	margin				: 0px 8px 2px 16px;
+	padding				: 0px;
+}
+
+CODE
+{
+	font-family			: "Courier New", monospace;
+	font-size			: 10pt;
+
+	position			: normal;
+}
+
+
+/*============================================================
+	Style for Links
+ *============================================================*/
+
+A
+{
+	color				: inherit;
+	background-color	: inherit;
+	text-decoration		: none;
+}
+
+A:VISITED
+{
+	color				: inherit;
+}
+
+A:HOVER
+{
+	background-color	: #fe4;
+	text-decoration		: underline;
+}
+
+A:ACTIVE
+{
+	color				: #ff0000;
+}

@@ -1,0 +1,2438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nc_page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.2.1" xmlns="http://www.nintendo.co.jp/sdd/2010/page">
+  <head>
+    <create user="" host="" date="2016-11-18T14:49:26.6561805-08:00" source="" />
+    <title />
+    <comment />
+    <generator name="NW4C ManualEditor Core" version="1.2.0.1" />
+  </head>
+  <body>
+    <ncpg>
+      <header>Virtual Console Tables</header>
+      <category />
+      <paneSet>
+        <pane kind="TextBox" name="TextBox_38">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="566" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="16" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Virtual Console Tables (Orange)</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_38" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Window" name="Frame_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="137" y="57" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="102" b="34" a="255" />
+              <vtxColRT r="255" g="102" b="34" a="255" />
+              <vtxColLB r="255" g="102" b="34" a="255" />
+              <vtxColRB r="255" g="102" b="34" a="255" />
+              <material name="Frame_11C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_11LT">
+                <texMap imageName="threeb_table_left_orange_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_11RT">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_11LB">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_11RB">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="134" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="170" y="57" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_12C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_12LT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_12RT">
+                <texMap imageName="threeb_table_right_orange_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_12LB">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_12RB">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="124" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDEFGH IJKLMNOP</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_21" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="143" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="152" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Abcdefghij</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_22" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="588" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="57" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="640" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="56" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="137" y="56" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="102" b="34" a="255" />
+              <vtxColRT r="255" g="102" b="34" a="255" />
+              <vtxColLB r="255" g="102" b="34" a="255" />
+              <vtxColRB r="255" g="102" b="34" a="255" />
+              <material name="Frame_06C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_06LT">
+                <texMap imageName="threeb_table_left_orange_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_06RT">
+                <texMap imageName="threeb_table_left_orange_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_06LB">
+                <texMap imageName="threeb_table_left_orange_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_06RB">
+                <texMap imageName="threeb_table_left_orange_03" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="134" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="170" y="56" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_07C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_07LT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="124" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDEFGH IJKLMNOP</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_23" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_24">
+          <basePositionType x="Left" y="Top" />
+          <translate x="143" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="152" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Abcdefghij</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_24" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="693" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="57" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="137" y="57" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="102" b="34" a="255" />
+              <vtxColRT r="255" g="102" b="34" a="255" />
+              <vtxColLB r="255" g="102" b="34" a="255" />
+              <vtxColRB r="255" g="102" b="34" a="255" />
+              <material name="Frame_08C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_08LT">
+                <texMap imageName="threeb_table_left_orange_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_08RT">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_08LB">
+                <texMap imageName="threeb_table_left_orange_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_08RB">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="134" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="170" y="57" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_09C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_09LT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_09RT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_09LB">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_09RB">
+                <texMap imageName="threeb_table_right_orange_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_25">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="124" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDEFGH IJKLMNOP</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_25" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_26">
+          <basePositionType x="Left" y="Top" />
+          <translate x="143" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="152" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Abcdefghij</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_26" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="760" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="37" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="101" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="102" b="34" a="255" />
+              <vtxColRT r="255" g="102" b="34" a="255" />
+              <vtxColLB r="255" g="102" b="34" a="255" />
+              <vtxColRB r="255" g="102" b="34" a="255" />
+              <material name="Frame_10C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_10LT">
+                <texMap imageName="threeb_table_left_orange_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_10RT">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_10LB">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_10RB">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="202" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="102" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_13C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_13LT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_13RT">
+                <texMap imageName="threeb_table_right_orange_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_13LB">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_13RB">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_27">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="83" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_27" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_29">
+          <basePositionType x="Left" y="Top" />
+          <translate x="210" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="87" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_29" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="Window" name="Frame_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="98" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="107" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="225" g="191" b="225" a="0" />
+              <vtxColRT r="225" g="191" b="225" a="0" />
+              <vtxColLB r="225" g="191" b="225" a="0" />
+              <vtxColRB r="225" g="191" b="225" a="0" />
+              <material name="Frame_14C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_14LT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_28">
+          <basePositionType x="Left" y="Top" />
+          <translate x="106" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="90" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_28" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="794" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="37" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="101" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="102" b="34" a="255" />
+              <vtxColRT r="255" g="102" b="34" a="255" />
+              <vtxColLB r="255" g="102" b="34" a="255" />
+              <vtxColRB r="255" g="102" b="34" a="255" />
+              <material name="Frame_15C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_15LT">
+                <texMap imageName="threeb_table_left_orange_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_15RT">
+                <texMap imageName="threeb_table_left_orange_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_15LB">
+                <texMap imageName="threeb_table_left_orange_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_15RB">
+                <texMap imageName="threeb_table_left_orange_03" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="202" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="102" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_16C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_16LT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="98" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="107" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_17C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_17LT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_30">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="83" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_30" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_32">
+          <basePositionType x="Left" y="Top" />
+          <translate x="210" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="87" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_32" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_31">
+          <basePositionType x="Left" y="Top" />
+          <translate x="106" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="90" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_31" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="828" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="37" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="202" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="102" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_18C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_18LT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_18RT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_18LB">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_18RB">
+                <texMap imageName="threeb_table_right_orange_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="98" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="107" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_19C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_19LT">
+                <texMap imageName="threeb_table_right_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="101" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="255" g="102" b="34" a="255" />
+              <vtxColRT r="255" g="102" b="34" a="255" />
+              <vtxColLB r="255" g="102" b="34" a="255" />
+              <vtxColRB r="255" g="102" b="34" a="255" />
+              <material name="Frame_20C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_20LT">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_20RT">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_20LB">
+                <texMap imageName="threeb_table_left_orange_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_20RB">
+                <texMap imageName="threeb_table_left_orange_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_33">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="83" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_33" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_35">
+          <basePositionType x="Left" y="Top" />
+          <translate x="210" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="87" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_35" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_34">
+          <basePositionType x="Left" y="Top" />
+          <translate x="106" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="90" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_34" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="269" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="57" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_21">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="137" y="57" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_21C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_21LT">
+                <texMap imageName="threeb_table_left_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_21RT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_21LB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_21RB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_22">
+          <basePositionType x="Left" y="Top" />
+          <translate x="134" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="170" y="57" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_22C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_22LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_22RT">
+                <texMap imageName="threeb_table_right_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_22LB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_22RB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_06">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="127" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDEFGH IJKLMNOP</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_06" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_07">
+          <basePositionType x="Left" y="Top" />
+          <translate x="143" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="152" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Abcdefghij</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_07" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="376" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="57" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_23">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="137" y="57" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_23C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_23LT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_23RT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_23LB">
+                <texMap imageName="threeb_table_left_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_23RB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_24">
+          <basePositionType x="Left" y="Top" />
+          <translate x="134" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="170" y="57" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_24C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_24LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_24RT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_24LB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_24RB">
+                <texMap imageName="threeb_table_right_blue_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_10">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="127" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDEFGH IJKLMNOP</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_10" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="143" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="152" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Abcdefghij</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_11" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_11">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="323" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="56" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_25">
+          <basePositionType x="Left" y="Top" />
+          <translate x="134" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="170" y="56" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_25C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_25LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_26">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="137" y="56" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_26C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_26LT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_26RT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_26LB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_26RB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_08">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="127" y="40" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDEFGH IJKLMNOP</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_08" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_09">
+          <basePositionType x="Left" y="Top" />
+          <translate x="143" y="18" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="152" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>Abcdefghij</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_09" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="443" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="37" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_27">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="101" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_27C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_27LT">
+                <texMap imageName="threeb_table_left_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_27RT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_27LB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_27RB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_28">
+          <basePositionType x="Left" y="Top" />
+          <translate x="202" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="102" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_28C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_28LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_28RT">
+                <texMap imageName="threeb_table_right_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_28LB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_28RB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_29">
+          <basePositionType x="Left" y="Top" />
+          <translate x="98" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="107" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="225" g="191" b="225" a="0" />
+              <vtxColRT r="225" g="191" b="225" a="0" />
+              <vtxColLB r="225" g="191" b="225" a="0" />
+              <vtxColRB r="225" g="191" b="225" a="0" />
+              <material name="Frame_29C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_29LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_12">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="91" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_12" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="210" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="87" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_14" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="106" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="90" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_13" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_13">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="511" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="37" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_30">
+          <basePositionType x="Left" y="Top" />
+          <translate x="202" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="102" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_30C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_30LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_30RT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_30LB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_30RB">
+                <texMap imageName="threeb_table_right_blue_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_31">
+          <basePositionType x="Left" y="Top" />
+          <translate x="98" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="107" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_31C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_31LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_32">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="101" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_32C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_32LT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_32RT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_32LB">
+                <texMap imageName="threeb_table_left_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_32RB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_18">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="91" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_18" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_20">
+          <basePositionType x="Left" y="Top" />
+          <translate x="210" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="87" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_20" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_19">
+          <basePositionType x="Left" y="Top" />
+          <translate x="106" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="90" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_19" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_14">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="477" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="37" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_33">
+          <basePositionType x="Left" y="Top" />
+          <translate x="202" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="102" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_33C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_33LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_34">
+          <basePositionType x="Left" y="Top" />
+          <translate x="98" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="107" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_34C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_34LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_35">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="101" y="37" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_35C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_35LT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_35RT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_35LB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_35RB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_15">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="91" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_15" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_17">
+          <basePositionType x="Left" y="Top" />
+          <translate x="210" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="87" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_17" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_16">
+          <basePositionType x="Left" y="Top" />
+          <translate x="106" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="90" y="20" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="16.666666" y="20" />
+            <text>ABCDE</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_16" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_37">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="247" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="16" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Virtual Console Tables (Standard)</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_37" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="32" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="65" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="137" y="65" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_00C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00LT">
+                <texMap imageName="threeb_table_left_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00RT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00LB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_00RB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="134" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="170" y="65" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_01C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_01LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_01RT">
+                <texMap imageName="threeb_table_right_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_01LB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_01RB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_00">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="127" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>ABCDEFG HIJKLMN</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_00" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="143" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="152" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>Abcdefghi</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_01" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_01">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="155" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="65" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="9" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="137" y="65" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_02C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02LT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02RT">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_02LB">
+                <texMap imageName="threeb_table_left_blue_01" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_02RB">
+                <texMap imageName="threeb_table_left_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="134" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="170" y="65" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_03C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_03LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>FlipH</textureFlip>
+              <material name="Frame_03RT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_03LB">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_03RB">
+                <texMap imageName="threeb_table_right_blue_01" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="127" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>ABCDEFG HIJKLMN</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_04" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="143" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="152" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>Abcdefghi</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_05" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="HorizontalCombinedGroup" name="HorizonG_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="94" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="64" />
+          <horizontalCombinedGroup>
+            <margin t="8" b="8" />
+          </horizontalCombinedGroup>
+        </pane>
+        <pane kind="Window" name="Frame_04">
+          <basePositionType x="Left" y="Top" />
+          <translate x="134" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="170" y="64" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="187" g="85" b="187" a="0" />
+              <vtxColRT r="187" g="85" b="187" a="0" />
+              <vtxColLB r="187" g="85" b="187" a="0" />
+              <vtxColRB r="187" g="85" b="187" a="0" />
+              <material name="Frame_04C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_04LT">
+                <texMap imageName="threeb_table_right_blue_02" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="Window" name="Frame_05">
+          <basePositionType x="Left" y="Top" />
+          <translate x="0" y="0" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="137" y="64" />
+          <window>
+            <frameEnabled>false</frameEnabled>
+            <content>
+              <vtxColLT r="17" g="153" b="187" a="255" />
+              <vtxColRT r="17" g="153" b="187" a="255" />
+              <vtxColLB r="17" g="153" b="187" a="255" />
+              <vtxColRB r="17" g="153" b="187" a="255" />
+              <material name="Frame_05C " />
+            </content>
+            <frame frameType="CornerLT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_05LT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRT">
+              <textureFlip>None</textureFlip>
+              <material name="Frame_05RT">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerLB">
+              <textureFlip>Rotate180</textureFlip>
+              <material name="Frame_05LB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <frame frameType="CornerRB">
+              <textureFlip>FlipV</textureFlip>
+              <material name="Frame_05RB">
+                <texMap imageName="threeb_table_left_blue_03" />
+              </material>
+            </frame>
+            <contentInflation l="0" r="0" t="0" b="0" />
+          </window>
+        </pane>
+        <pane kind="TextBox" name="TextBox_02">
+          <basePositionType x="Left" y="Top" />
+          <translate x="5" y="8" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="127" y="48" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>ABCDEFG HIJKLMN</text>
+            <topColor r="255" g="255" b="255" a="255" />
+            <bottomColor r="255" g="255" b="255" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_02" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_03">
+          <basePositionType x="Left" y="Top" />
+          <translate x="143" y="20" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="152" y="24" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="20" y="24" />
+            <text>Abcdefghi</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_03" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+        <pane kind="TextBox" name="TextBox_36">
+          <basePositionType x="Left" y="Top" />
+          <translate x="8" y="10" z="0" />
+          <rotate x="0" y="0" z="0" />
+          <scale x="1" y="1" />
+          <size x="304" y="16" />
+          <textBox font="cbf_std" autoWidthAdjust="true" commentText="Template ver.4.6&#xD;&#xA;file name: vc_fig_chart.ncpg&#xD;&#xA;category: vc">
+            <fontSize x="13.333333" y="16" />
+            <text>Virtual Console Tables (Control Reference)</text>
+            <topColor r="60" g="60" b="60" a="255" />
+            <bottomColor r="60" g="60" b="60" a="255" />
+            <positionType x="Left" y="Top" />
+            <material name="TextBox_36" />
+            <texEnabled>false</texEnabled>
+            <texLayoutPosition>LeftTop</texLayoutPosition>
+            <texOffsetLeft>0</texOffsetLeft>
+            <texOffsetRight>0</texOffsetRight>
+            <texOffsetTop>0</texOffsetTop>
+            <texOffsetBottom>0</texOffsetBottom>
+          </textBox>
+        </pane>
+      </paneSet>
+      <paneHierarchy>
+        <paneTree name="RootPane">
+          <paneTree name="TextBox_38" />
+          <paneTree name="TextBox_37" />
+          <paneTree name="TextBox_36" />
+          <paneTree name="HorizonG_04">
+            <paneTree name="Frame_11" />
+            <paneTree name="Frame_12" />
+            <paneTree name="TextBox_21" />
+            <paneTree name="TextBox_22" />
+          </paneTree>
+          <paneTree name="HorizonG_05">
+            <paneTree name="Frame_08" />
+            <paneTree name="Frame_09" />
+            <paneTree name="TextBox_25" />
+            <paneTree name="TextBox_26" />
+          </paneTree>
+          <paneTree name="HorizonG_03">
+            <paneTree name="Frame_07" />
+            <paneTree name="Frame_06" />
+            <paneTree name="TextBox_23" />
+            <paneTree name="TextBox_24" />
+          </paneTree>
+          <paneTree name="HorizonG_06">
+            <paneTree name="Frame_10" />
+            <paneTree name="Frame_13" />
+            <paneTree name="Frame_14" />
+            <paneTree name="TextBox_27" />
+            <paneTree name="TextBox_29" />
+            <paneTree name="TextBox_28" />
+          </paneTree>
+          <paneTree name="HorizonG_08">
+            <paneTree name="Frame_18" />
+            <paneTree name="Frame_19" />
+            <paneTree name="Frame_20" />
+            <paneTree name="TextBox_33" />
+            <paneTree name="TextBox_35" />
+            <paneTree name="TextBox_34" />
+          </paneTree>
+          <paneTree name="HorizonG_07">
+            <paneTree name="Frame_16" />
+            <paneTree name="Frame_17" />
+            <paneTree name="Frame_15" />
+            <paneTree name="TextBox_30" />
+            <paneTree name="TextBox_32" />
+            <paneTree name="TextBox_31" />
+          </paneTree>
+          <paneTree name="HorizonG_09">
+            <paneTree name="Frame_21" />
+            <paneTree name="Frame_22" />
+            <paneTree name="TextBox_06" />
+            <paneTree name="TextBox_07" />
+          </paneTree>
+          <paneTree name="HorizonG_10">
+            <paneTree name="Frame_23" />
+            <paneTree name="Frame_24" />
+            <paneTree name="TextBox_10" />
+            <paneTree name="TextBox_11" />
+          </paneTree>
+          <paneTree name="HorizonG_11">
+            <paneTree name="Frame_25" />
+            <paneTree name="Frame_26" />
+            <paneTree name="TextBox_08" />
+            <paneTree name="TextBox_09" />
+          </paneTree>
+          <paneTree name="HorizonG_12">
+            <paneTree name="Frame_27" />
+            <paneTree name="Frame_28" />
+            <paneTree name="Frame_29" />
+            <paneTree name="TextBox_12" />
+            <paneTree name="TextBox_14" />
+            <paneTree name="TextBox_13" />
+          </paneTree>
+          <paneTree name="HorizonG_13">
+            <paneTree name="Frame_30" />
+            <paneTree name="Frame_31" />
+            <paneTree name="Frame_32" />
+            <paneTree name="TextBox_18" />
+            <paneTree name="TextBox_20" />
+            <paneTree name="TextBox_19" />
+          </paneTree>
+          <paneTree name="HorizonG_14">
+            <paneTree name="Frame_33" />
+            <paneTree name="Frame_34" />
+            <paneTree name="Frame_35" />
+            <paneTree name="TextBox_15" />
+            <paneTree name="TextBox_17" />
+            <paneTree name="TextBox_16" />
+          </paneTree>
+          <paneTree name="HorizonG_00">
+            <paneTree name="Frame_00" />
+            <paneTree name="Frame_01" />
+            <paneTree name="TextBox_00" />
+            <paneTree name="TextBox_01" />
+          </paneTree>
+          <paneTree name="HorizonG_01">
+            <paneTree name="Frame_02" />
+            <paneTree name="Frame_03" />
+            <paneTree name="TextBox_04" />
+            <paneTree name="TextBox_05" />
+          </paneTree>
+          <paneTree name="HorizonG_02">
+            <paneTree name="Frame_04" />
+            <paneTree name="Frame_05" />
+            <paneTree name="TextBox_02" />
+            <paneTree name="TextBox_03" />
+          </paneTree>
+        </paneTree>
+      </paneHierarchy>
+      <screenSetting origin="Normal">
+        <layoutSize x="320" y="875" />
+        <screenBottomMargin>10</screenBottomMargin>
+        <backGround>
+          <color r="255" g="255" b="255" a="255" />
+        </backGround>
+        <stereo parallaxRatio="0.6" />
+        <grid thickLineInterval="32" thinDivisionNum="4" visible="false" moveMethod="Grid">
+          <color r="128" g="128" b="64" a="128" />
+        </grid>
+        <guide visible="false" snapEnalbed="true">
+          <position x="0" y="0" />
+          <size x="8" y="8" />
+          <color r="0" g="128" b="0" a="64" />
+        </guide>
+        <maxEqualCharSpace>0.5</maxEqualCharSpace>
+        <textBoxCounter>0</textBoxCounter>
+      </screenSetting>
+      <textureFile imagePath="../../textures/frame/threeb_table_left_blue_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_left_blue_02.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_right_blue_02.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_right_blue_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_left_blue_03.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_left_orange_02.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_left_orange_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_left_orange_03.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_right_orange_01.tga" />
+      <textureFile imagePath="../../textures/frame/threeb_table_right_orange_02.tga" />
+      <fontFile path="cbf_std.bcfnt" />
+    </ncpg>
+  </body>
+</nc_page>
