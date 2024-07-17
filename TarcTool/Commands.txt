@@ -1,0 +1,3 @@
+-Unpack_tarc inputFile - unpacks .tarc container
+-Repack_tarc inputDir outputFilePath(optional) - repacks files into a .tarc container
+-Help - shows available commands
