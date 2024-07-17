@@ -1,0 +1,531 @@
+[
+	{
+		"Index": 0,
+		"JPN": [
+			"I'm sorry.\nThere isn't anthing to download.",
+			"\f"
+		]
+	},
+	{
+		"Index": 2,
+		"JPN": [
+			"<CMD>18802700729b27000180</CMD><CMD>17802700729b270001802700048027000280</CMD><CMD>16802700729b27005581</CMD>Now that you've sorted through\nall your stuff,",
+			"let me see what\nkind of gift I can get you.",
+			"\f"
+		]
+	},
+	{
+		"Index": 4,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"I'll Try.<CMD>1380270071a0</CMD>",
+			"Not right now.<CMD>1380270072a0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 5,
+		"JPN": [
+			"Oh, yeah. You can do it!",
+			"Well,In that case you'd\nbetter get going or you can\nfollow me<CMD>f481</CMD>.<CMD>4980270002802700028027000080</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 6,
+		"JPN": [
+			"I see...",
+			"Well I can't help. If you change\nyour mind, give me a call.<CMD>4980270002802700638027000080</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 7,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Yes<CMD>1380270074a0</CMD>",
+			"No<CMD>1380270075a0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 8,
+		"JPN": [
+			"All right.<BREAK><CMD>008027000580</CMD>I'm going downstairs.<CMD>008027000180</CMD>\nFollow me please.<CMD>49802700e9832700038027000080</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 9,
+		"JPN": [
+			"I see　<CMD>008027000580</CMD>Well then when your ready,<CMD>008027000180</CMD>\nplease talk to me.<CMD>49802700e9832700058027000080</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 10,
+		"JPN": [
+			"<CMD>118027009ea027009ea0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 11,
+		"JPN": [
+			"<CMD>118027009fa027009fa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 12,
+		"JPN": [
+			"<CMD>11802700a0a02700a0a0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 13,
+		"JPN": [
+			"<CMD>11802700bca02700bfa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 14,
+		"JPN": [
+			"<CMD>11802700bca02700bfa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 50,
+		"JPN": [
+			"<CMD>18802700729b27000280</CMD><CMD>17802700729b2700508027000a8027000280</CMD><CMD>16802700729b27007d81</CMD>What do you want?\nDon't just stand around,\ngo study!",
+			"You know what you're getting\nyourself into, right?",
+			"<CMD>18802700729b27000480</CMD><CMD>17802700729b27000a8027000a8027000180</CMD><CMD>16802700729b27007f81</CMD>You know, I used to dream\nof being a great magician too.",
+			"<CMD>18802700729b27000380</CMD><CMD>17802700729b270001802700048027000080</CMD><CMD>16802700729b27003081</CMD>Unfortunately,\nI didn't have the magical powers\n to be one...",
+			"<CMD>18802700729b27000580</CMD><CMD>17802700729b27000a8027000a8027000180</CMD><CMD>16802700729b27002d81</CMD>That's why I took the\n<CMD>008027000580</CMD>Great School's<CMD>008027000180</CMD>Etrance Exam.\nThat's how I got in.",
+			"<CMD>18802700729b27000280</CMD><CMD>17802700729b2700508027000a8027000280</CMD><CMD>16802700729b27007d81</CMD>You've got your own problems,\nso you've got to work harder.<CMD>49802700df8027000280</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 51,
+		"JPN": [
+			"<CMD>18802700729b27000280</CMD><CMD>17802700729b2700508027000a8027000280</CMD><CMD>16802700729b27007d81</CMD>You're playing around again,\naren't you? If you're not busy,\nyou should be studying.",
+			"I' m not as dumb as you,\nyou know.",
+			"<CMD>18802700729b27000580</CMD><CMD>17802700729b27000a8027000a8027000180</CMD><CMD>16802700729b27002d81</CMD>If you're as bad as I was,\nit doesn't matter how much you study.",
+			"<CMD>18802700729b27000780</CMD><CMD>17802700729b2700088027000a8027000180</CMD>I failed the entrance\nexam over and over again...",
+			"In the end, I had to\ngive up on enrollment...",
+			"You have to be able to study\nnormally before you can get\nyour magical powers.",
+			"Oh?\nDon't look at me like that!\nIt was a long time ago, anyway.",
+			"<CMD>18802700729b27000580</CMD><CMD>17802700729b27000a8027000a8027000180</CMD><CMD>16802700729b27002d81</CMD>Well, hey... don't be a failure\nlike me, okay?<CMD>49802700df8027000280</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 52,
+		"JPN": [
+			"<CMD>18802700729b27000280</CMD><CMD>17802700729b2700508027000a8027000280</CMD><CMD>16802700729b27007d81</CMD>What are you doing?\nYou're looking a little wobbly!",
+			"<CMD>18802700729b27000280</CMD><CMD>17802700729b2700508027000a8027000280</CMD><CMD>16802700729b27007d81</CMD>Why don't you go back to<BREAK><CMD>008027000580</CMD> Your Room <CMD>008027000180</CMD>and study\nor somehting?",
+			"Come on, playing around here\nwon't do you any good.",
+			"You' ve come all this way\nto get into a great<CMD>008027000580</CMD> school<CMD>008027000180</CMD>.",
+			"I want you to study hard and\nbecome a great magician too.",
+			"<CMD>18802700729b27000680</CMD><CMD>17802700729b270001802700048027000080</CMD><CMD>16802700729b27007e81</CMD>Well, I guess it's\nimpossible for me.",
+			"<CMD>18802700729b27000280</CMD><CMD>17802700729b2700508027000a8027000280</CMD><CMD>16802700729b27007d81</CMD>If you're gonna be a pain\nin my neck, you might as well\nbe a big one...<CMD>49802700df8027000280</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 56,
+		"JPN": [
+			"<CMD>16802700dd8727006981</CMD>The package is on it's way...<CMD>49802700e0842700008027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 57,
+		"JPN": [
+			"Looks like we've got nothing now.",
+			"\f"
+		]
+	},
+	{
+		"Index": 58,
+		"JPN": [
+			"<CMD>16802700dd8727005681</CMD>Here you go　<CMD>008027000880</CMD> \nThis item<CMD>008027000180</CMD> is for you.",
+			"\f"
+		]
+	},
+	{
+		"Index": 59,
+		"JPN": [
+			"<CMD>16802700dd8727005681</CMD>There you go　<CMD>008027000880</CMD> Recipe<CMD>008027000180</CMD>\nIs on it's way!",
+			"\f"
+		]
+	},
+	{
+		"Index": 60,
+		"JPN": [
+			"And the rest...",
+			"\f"
+		]
+	},
+	{
+		"Index": 61,
+		"JPN": [
+			"Looks like it's gone.",
+			"\f"
+		]
+	},
+	{
+		"Index": 62,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"My Room<CMD>13802700aba0</CMD>",
+			"Furniture<CMD>13802700b9a0</CMD>",
+			"Other Doors<CMD>13802700aca0</CMD>",
+			"Nothing<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 63,
+		"JPN": [
+			"<CMD>16802700dd8727005681</CMD>You are free to use\nthe room as you wish.",
+			"And then there's <CMD>008027000580</CMD>The Greenhouse<CMD>008027000180</CMD>\non the roof of the <CMD>008027000580</CMD>Dormitory.<CMD>008027000180</CMD>",
+			"It'll be shared,\nbut it's free to use!",
+			"You can furnish it just\nlike your own <CMD>008027000580</CMD>Room<CMD>008027000180</CMD>",
+			"<CMD>16802700dd8727005881</CMD>Why don't you bring a\nfriend so you can play together?",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 64,
+		"JPN": [
+			"This dorm has a few doors\nthat are different from\nthe normal.",
+			"The door next to your room\n<CMD>f481</CMD> is a little different...",
+			"<CMD>16802700dd8727005881</CMD>The difference is... well...",
+			"The room you're connected to\nchanges from time to time.",
+			"Even if it's only for a short time,\nthey're still your neighbors.",
+			"If you hear any strange noises\ncoming from next door...",
+			"You might want to go check it out.",
+			"<CMD>18802700729b27000680</CMD><CMD>17802700729b270001802700048027000080</CMD><CMD>16802700729b27007e81</CMD>You'll have to be careful\nwhen you visit next door.",
+			"When you leave, you leave in a\ndifferent place...",
+			"You'll be surprised but remember this...",
+			"It might make your life easier!",
+			"<CMD>138027000aa3</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 65,
+		"JPN": [
+			"It's important to look into the\n<CMD>008027000580</CMD>Door to the Beginning & End<CMD>008027000180</CMD>",
+			"<CMD>16802700dd8727005681</CMD>Your '<CMD>008027000880</CMD>Friend Code<CMD>008027000180</CMD>'Can be used\n to connect to<CMD>008027000580</CMD> Other Students <CMD>008027000180</CMD>\nIn other towns.",
+			"If you wan't others to come play\n you'll need to make sure",
+			"the door is set to the\ncorrect part on the dial.",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 66,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Classes<CMD>13802700afa0</CMD>",
+			"Mystery Time<CMD>13802700b0a0</CMD>",
+			"Evaluation<CMD>13802700b1a0</CMD>",
+			"Nothing<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 67,
+		"JPN": [
+			"<CMD>16802700dd8727005681</CMD>Your main job is to study!\nI don't have much to say...",
+			"But I'll give you a little advice!",
+			"Studying may be a chore, but it's a\nlittle more fun when",
+			"you have friends around to\nkeep you company!",
+			"If you press the <CMD>008027000880</CMD>X Button<CMD>008027000180</CMD> You can\ncall out to your friends.",
+			"And then they can call back to you!",
+			"But! If you're not a good friend,\nyou may be rejected.",
+			"<CMD>16802700dd8727005881</CMD>In that case, you've got to\nget to know each other first.",
+			"If you could sit next to them\nin class",
+			"You can show them how to\nanswer in a cool way...",
+			"Maybe they'll look to you\nand want to get to know\nyou better!",
+			"<CMD>16802700dd8727005681</CMD>I think making friends is\na great way to learn!\nGood luck!",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 68,
+		"JPN": [
+			"When its time for <CMD>008027000480</CMD>Mystery Time<CMD>008027000180</CMD>\nThere will be no classes.",
+			"You're doing unusual things we call\n'Extracurricular Activities'.",
+			"Unlike <CMD>008027000580</CMD>Classes<CMD>008027000180</CMD>, you wont be inside\nthe school.",
+			"Often in Mystery Time, there will be\nstrange Bug and Fish",
+			"To catch and study.",
+			"If only they had that during\nmy time...\nI would have won!",
+			"<CMD>16802700dd8727005881</CMD>I'm so bummed, man!",
+			"In some cases, they have\n<CMD>008027000480</CMD>Magic Contests<CMD>008027000180</CMD> & <CMD>008027000480</CMD>Charm Tests<CMD>008027000180</CMD>.",
+			"I heard once that if you perform\nwell, your reputation <CMD>008027000580</CMD>will grow<CMD>008027000180</CMD>!",
+			"<CMD>16802700dd8727005681</CMD>When it's Mystery Time<BREAK>Go outside and do it!\nRemember that!!!",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 69,
+		"JPN": [
+			"Maybe once a week or so\ngo see the <CMD>008027000580</CMD>King<CMD>008027000180</CMD> in the <CMD>008027000380</CMD>Castle<CMD>008027000180</CMD>...",
+			"Maybe I should go to?",
+			"<CMD>16802700dd8727005881</CMD>That way, they'll know\nhow hard you've been working!",
+			"The higher the rating,\nthe greater the reward they say.",
+			"<CMD>16802700dd8727005881</CMD>That's how you grow as a magician!",
+			"If you grow up to be a great\nmagician, everyone will like you.",
+			"I mean, it makes you happy,\ndoesn't it <CMD>f481</CMD>?",
+			"Well... and...",
+			"To be considered a magician, you\nneed more than just studying.",
+			"<CMD>16802700dd8727005881</CMD>You've got to be good\nat what you do!",
+			"It's not enough to just study.",
+			"Making friends and cleaning up\n<CMD>008027000580</CMD>The Town<CMD>008027000180</CMD> are all part of it.",
+			"<CMD>16802700dd8727005681</CMD>Hang in there, man!\nI'll be here for you <CMD>f481</CMD>！",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 70,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Selling Items<CMD>13802700b3a0</CMD>",
+			"Part Time Jobs<CMD>13802700b4a0</CMD>",
+			"Earning Money<CMD>13802700b5a0</CMD>",
+			"Haunted House<CMD>138027000ba3</CMD>",
+			"Nothing<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 71,
+		"JPN": [
+			"If you have something to sell,\nTake it to<CMD>008027000580</CMD>The Emporium<CMD>008027000180</CMD> First.",
+			"However they dont take Furniture or Clothes So....",
+			"You can ask the peddler who\nsometimes comes to the\n<CMD>008027000580</CMD>Haunted House<CMD>008027000180</CMD>",
+			"It's a bit dangerous over there,\nso be careful when you go.",
+			"And the peddler isn't always there.\nHe's only there sometimes.",
+			"So...You'll need to check often.",
+			"<CMD>16802700dd8727005881</CMD>In return, they'll pay you\na rather high price for items.",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 72,
+		"JPN": [
+			"If you help out <CMD>008027000380</CMD>Grandma Malila<CMD>008027000180</CMD>\nNot only will she pay you...",
+			"She will pay you double!",
+			"<CMD>16802700dd8727005681</CMD>You get a free gift,\nand you get to keep\nthe finished product!",
+			"A good magician always helps out\nas much as they can.",
+			"<CMD>16802700dd8727005681</CMD>Sometimes you can get\nhard-to-find items,\nso keep that in mind!",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 73,
+		"JPN": [
+			"If you get something, you might\nwant to try selling it first.",
+			"<CMD>16802700dd8727005881</CMD>You can get a lot of money\nfor things you never thought of.",
+			"Books on Fish & Bugs can be found in the <BREAK><CMD>008027000580</CMD>Library<CMD>008027000180</CMD>.",
+			"You'll get a Gem or\nMagical Item in return.",
+			"Gems can be obtained by\ndigging in the ground, but",
+			"If you learn the <CMD>008027000580</CMD>Treasure Hunting Spell<CMD>008027000180</CMD>they teach in <CMD>008027000480</CMD>School<CMD>008027000180</CMD>...",
+			"It will make your\nhunting so much easier!",
+			"You can make products using the\nGem's and Flowers you found.",
+			"<CMD>18802700729b27000680</CMD><CMD>17802700729b270001802700048027000080</CMD><CMD>16802700729b27007e81</CMD>Then sell it all in your own store!\nYou'll make a fortune!",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 74,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Bug Catching<CMD>13802700b7a0</CMD>",
+			"Fishing<CMD>13802700b8a0</CMD>",
+			"Calling Out<CMD>138027000ca3</CMD>",
+			"Relationships<CMD>138027000da3</CMD>",
+			"Nothing<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 75,
+		"JPN": [
+			"First of all...Use the <CMD>008027000880</CMD>Ｒ Button<CMD>008027000180</CMD> or Stylus\nto change wand",
+			"into a bug net.",
+			"If you press the <CMD>008027000880</CMD>X Button<CMD>008027000180</CMD> near\na bug, you'll catch it!",
+			"If you find a bug attached to a tree...",
+			"you must shake it using the <CMD>008027000880</CMD>Ａ Button<CMD>008027000180</CMD>.",
+			"Then the insects will fall,\nand you have to catch them\nfast!",
+			"What do you think? It's easy, right?",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 76,
+		"JPN": [
+			"First of all...Use the <CMD>008027000880</CMD>Ｒ Button<CMD>008027000180</CMD> or Stylus\nto change the wand",
+			"into a Fishing rod.",
+			"If you press the <CMD>008027000880</CMD>X Button<CMD>008027000180</CMD>\nnear the river or ocean\n",
+			"The lure will go flying!",
+			"If you want the lure to go farther\nhold the <CMD>008027000880</CMD>X Button<CMD>008027000180</CMD> longer.",
+			"When there's a fish in the\nvicinity, it's a big deal.",
+			"If the fish gets close to the lure\nand it goes down..",
+			"Press the <CMD>008027000880</CMD>X Button<CMD>008027000180</CMD> quickly!",
+			"Once the fish is hooked\nrepeatedly press the <CMD>008027000880</CMD>X Button<CMD>008027000180</CMD>!",
+			"I'm sure you'll get some nice ones.",
+			"Just be careful when you're reeling in.\nThe string can snap",
+			"If you dont give it some slack!",
+			"If you wan't to stop fishing,\njust press the <CMD>008027000880</CMD>B Button<CMD>008027000180</CMD>.",
+			"What do you think? It's easy, right?",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 77,
+		"JPN": [
+			"To use furniture, you have to press the\n<CMD>008027000880</CMD>X Button<CMD>008027000180</CMD> in front of it.",
+			"The chest of drawers can be opened,\nto put your stuff away.",
+			"So don't make the room a mess.",
+			"Lamps can be turned on\nand chairs can be sat on",
+			"Even beds can be laid on.",
+			"I mean, it's just... So obvious.",
+			"Some spells require you to lie\ndown, so keep that in mind.",
+			"Also, if a friend is in the room.",
+			"You cannot place or move\nfurniture around.",
+			"You can do a lot's of things!\nSo when you get some new furniture",
+			"Try all these things out.",
+			"<CMD>13802700caa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 78,
+		"JPN": [
+			"<CMD>16802700dd8727006981</CMD>What the heck?　You're done?",
+			"\f"
+		]
+	},
+	{
+		"Index": 79,
+		"JPN": [
+			"<CMD>16802700dd8727005681</CMD>All right, see you later!",
+			"\f"
+		]
+	},
+	{
+		"Index": 80,
+		"JPN": [
+			"Don't be a slacker!",
+			"When you wan't to play? Play.\nWhen you want to study? Study.",
+			"I mean, what's the big deal?\nThat's what's important.<CMD>49802700e18027005f80</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 81,
+		"JPN": [
+			"Don't wander off in\nthe middle of nowhere.",
+			"You'll get everyone else in trouble!\nSo be careful.<CMD>49802700e18027005f80</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 82,
+		"JPN": [
+			"The Dorm doors are different\nfrom ordinary doors.",
+			"Well, their just mysterious doors.<CMD>49802700e18027005f80</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 83,
+		"JPN": [
+			"You're free to use the\ngreenhouse as you please.",
+			"Have you ever tried gardening?<CMD>49802700e18027005f80</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 84,
+		"JPN": [
+			"Huh?　<CMD>f481</CMD> You have a lot of items!\nCome back when you have\nthem sorted out.",
+			"\f"
+		]
+	},
+	{
+		"Index": 85,
+		"JPN": [
+			"That grass you pulled out,\nit's Mandragora!",
+			"It's a dangerous creature that screams\nwhen it's not buried.",
+			"There's nothing to stop you from\ncatching it while it moves about\nduring mystery time.",
+			"Well, be careful with that.",
+			"\f"
+		]
+	},
+	{
+		"Index": 86,
+		"JPN": [
+			"<CMD>4980270022832700038027000180</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 87,
+		"JPN": [
+			"Hey <CMD>f481</CMD>.\n<CMD>008027000380</CMD>Principal Sol<CMD>008027000180</CMD> said he had something\nimportant to tell you.",
+			"Maybe you're talking about an evaluation?\nWhy don't you go and take\nthe test right now?",
+			"\f"
+		]
+	},
+	{
+		"Index": 94,
+		"JPN": [
+			"<CMD>16802700dd8727006981</CMD>Is there something\nyou want to know?<CMD>13802700cca0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 95,
+		"JPN": [
+			"<CMD>16802700dd8727006981</CMD>Is there something\nyou want to know?<CMD>13802700cca0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 96,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Dormitory?<CMD>13802700aaa0</CMD>",
+			"School?<CMD>13802700aea0</CMD>",
+			"Money?<CMD>13802700b2a0</CMD>",
+			"Other?<CMD>13802700b6a0</CMD>",
+			"Nothing<CMD>13802700baa0</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 99,
+		"JPN": [
+			"<CMD>16802700dd8727006981</CMD>What's the matter?\nDid you have something\nyou wanted to ask me?",
+			"\f"
+		]
+	}
+]

@@ -1,0 +1,433 @@
+[
+	{
+		"Index": 0,
+		"JPN": [
+			"Your friend code is<BREAK><CMD>218227000080</CMD>.",
+			"<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 1,
+		"JPN": [
+			"A friend code is what you\nuse to communicate with \nother plauyers.",
+			"This will be the code you\nneed to know to play\nwith others.",
+			"If you and your friend add\neachother, you can play together.",
+			"You can communicate with people\nwho live far away with it.",
+			"Generate your friend code now?",
+			"<CMD>138027007880</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 3,
+		"JPN": [
+			"Your friend code is now<BREAK><CMD>218227000080</CMD>!",
+			"<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 4,
+		"JPN": [
+			"You can't use your own friend code.",
+			"\f"
+		]
+	},
+	{
+		"Index": 5,
+		"JPN": [
+			"The friend code is incorrect.",
+			"\f"
+		]
+	},
+	{
+		"Index": 6,
+		"JPN": [
+			"The Internet information of the main\nunit and the game card are different.",
+			"The current friend code doesn't work.\nWould you like to get another one?",
+			"<CMD>138027007880</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 10,
+		"JPN": [
+			"<CMD>0c8027000180</CMD> Is disconnecting,\nso im going back to my school.                    ",
+			"\f"
+		]
+	},
+	{
+		"Index": 11,
+		"JPN": [
+			"Do you want to disconnect?",
+			"<CMD>138027007a80</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 13,
+		"JPN": [
+			"<CMD>37802700008027000180</CMD>",
+			"Yes<CMD>138027004680</CMD>",
+			"No<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 14,
+		"JPN": [
+			"<CMD>0c8027000280</CMD> Cannot disconnect rignt now.",
+			"\f"
+		]
+	},
+	{
+		"Index": 15,
+		"JPN": [
+			"<CMD>0c8027000180</CMD> Is going offline.              ",
+			"\f"
+		]
+	},
+	{
+		"Index": 16,
+		"JPN": [
+			"<CMD>0c8027000280</CMD> Communications are finished.",
+			"<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 17,
+		"JPN": [
+			"<CMD>0c8027001180</CMD>is currently Saving. Do NOT turn off the system.",
+			"\f"
+		]
+	},
+	{
+		"Index": 18,
+		"JPN": [
+			"<CMD>0c8027000280</CMD>The save is complete.",
+			"\f"
+		]
+	},
+	{
+		"Index": 20,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Yes<CMD>13802700ffff</CMD>",
+			"No<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 21,
+		"JPN": [
+			"<CMD>0c8027000180</CMD>Is prepairing, please wait.",
+			"\f"
+		]
+	},
+	{
+		"Index": 22,
+		"JPN": [
+			"<CMD>37802700008027000180</CMD>",
+			"Yes<CMD>13802700ffff</CMD>",
+			"No<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 30,
+		"JPN": [
+			"Saving...Please do not turn off\nthe system or remove\nthe game card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 31,
+		"JPN": [
+			"Do not turn off the power or\nremove the game card\nwhile loading.",
+			"\f"
+		]
+	},
+	{
+		"Index": 32,
+		"JPN": [
+			"Checking save data.",
+			"\f"
+		]
+	},
+	{
+		"Index": 33,
+		"JPN": [
+			"<CMD>0c8027000280</CMD>The save has been completed.",
+			"\f"
+		]
+	},
+	{
+		"Index": 50,
+		"JPN": [
+			"Please turn off the power and\nre-insert the SD card\ninto the system.",
+			"\f"
+		]
+	},
+	{
+		"Index": 51,
+		"JPN": [
+			"Checking SD Card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 52,
+		"JPN": [
+			"Failed to read SD Card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 53,
+		"JPN": [
+			"No SD card inside the system.",
+			"\f"
+		]
+	},
+	{
+		"Index": 54,
+		"JPN": [
+			"The SD card is write-protected.",
+			"\f"
+		]
+	},
+	{
+		"Index": 55,
+		"JPN": [
+			"There is not enough free space\non the SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 56,
+		"JPN": [
+			"Saving data to SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 57,
+		"JPN": [
+			"Loading data from SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 58,
+		"JPN": [
+			"Preparing to copy the save\ndata to the SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 59,
+		"JPN": [
+			"Copying save data to SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 60,
+		"JPN": [
+			"Saved data copied to SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 61,
+		"JPN": [
+			"Loading save data from SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 62,
+		"JPN": [
+			"Loaded save data from SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 63,
+		"JPN": [
+			"Failed to write data to SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 64,
+		"JPN": [
+			"Could not read data from SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 65,
+		"JPN": [
+			"Could not copy data to SD card.",
+			"\f"
+		]
+	},
+	{
+		"Index": 66,
+		"JPN": [
+			"Checking for new data.",
+			"\f"
+		]
+	},
+	{
+		"Index": 67,
+		"JPN": [
+			"Some of the extra data was\nbroken,and has been repaired.",
+			"\f"
+		]
+	},
+	{
+		"Index": 70,
+		"JPN": [
+			"The extra data was\nbroken, so It was removed",
+			"Because of this, you will not\nbe able to use",
+			"some of the communication\nfeatures and in-game features.",
+			"Do you want to create new extra data?",
+			"<CMD>13802700b980</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 71,
+		"JPN": [
+			"No extra data is available.",
+			"Because of this, you will not\nbe able to use",
+			"some of the communication\nfeatures and in-game features.",
+			"Do you want to create new extra data?",
+			"<CMD>13802700b980</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 72,
+		"JPN": [
+			"Extra data is being generated.",
+			"\f"
+		]
+	},
+	{
+		"Index": 73,
+		"JPN": [
+			"Extra data has been created.",
+			"\f"
+		]
+	},
+	{
+		"Index": 74,
+		"JPN": [
+			"Creation of extra data on the SD card has failed,",
+			"therefore making it impossible\nto use some of",
+			"the communication features\nand in-game features.",
+			"\f"
+		]
+	},
+	{
+		"Index": 75,
+		"JPN": [
+			"You must register\n'Enchanted Folk' To your\nStreetPass.",
+			"With StreetPass enabled,\nyou'll receive and send stores",
+			"From other players you pass by!",
+			"If you start the game without it you\ncan reboot to try again.",
+			"Do you want to register the\ngame now?",
+			"<CMD>13802700b980</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 76,
+		"JPN": [
+			"Cannot register anymore StreetPass\nentries on this device",
+			"If you want to stop other software from\nregistering, go to 'Manage StreetPass'\nin the 'Settings' menu.",
+			"\f"
+		]
+	},
+	{
+		"Index": 77,
+		"JPN": [
+			"StreetPass feature has been updated.",
+			"\f"
+		]
+	},
+	{
+		"Index": 78,
+		"JPN": [
+			"StreetPass is not available.",
+			"\f"
+		]
+	},
+	{
+		"Index": 79,
+		"JPN": [
+			"Received data via StreetPass.",
+			"\f"
+		]
+	},
+	{
+		"Index": 80,
+		"JPN": [
+			"Do you want to receive data\nand notifications for\nthis software,",
+			"via StreetPass?",
+			"<CMD>13802700b980</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 81,
+		"JPN": [
+			"StreePass notifications\nhave been turned on.",
+			"\f"
+		]
+	},
+	{
+		"Index": 82,
+		"JPN": [
+			"Communication is not available at this time.",
+			"\f"
+		]
+	},
+	{
+		"Index": 83,
+		"JPN": [
+			"You have received the following message.",
+			"\f"
+		]
+	},
+	{
+		"Index": 84,
+		"JPN": [
+			"Unable to register StreetPass.",
+			"\f"
+		]
+	},
+	{
+		"Index": 85,
+		"JPN": [
+			"<CMD>3780</CMD>",
+			"Yes<CMD>13802700ffff</CMD>",
+			"No<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	},
+	{
+		"Index": 86,
+		"JPN": [
+			"<CMD>37802700008027000180</CMD>",
+			"Yes<CMD>13802700ffff</CMD>",
+			"No<CMD>13802700ffff</CMD>",
+			"\f"
+		]
+	}
+]
